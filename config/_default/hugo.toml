@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://uo.wzk.cz/"
 languageCode = "en-us"
 title = "UO Tools Archive"
 theme = "terminal"
