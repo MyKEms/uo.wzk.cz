@@ -1,0 +1,33 @@
+/* UO background wallpaper */
+body {
+  background-image: url('/images/background.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+/* Semi-transparent content area for readability */
+.container {
+  background-color: rgba(34, 34, 34, 0.92);
+  padding: 1rem 2rem;
+  border-radius: 4px;
+}
+
+/* Logo image in header */
+.logo__img {
+  height: 60px;
+  vertical-align: middle;
+  margin-right: 10px;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+}
+
+/* Post images on listing pages */
+.post img {
+  max-width: 100%;
+  height: auto;
+}

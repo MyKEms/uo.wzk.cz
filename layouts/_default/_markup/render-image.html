@@ -1,0 +1,13 @@
+{{- $src := .Destination -}}
+{{- $page := .Page -}}
+{{- if not (strings.HasPrefix $src "/") -}}
+  {{- with $page.Resources.Get $src -}}
+    {{- $src = .RelPermalink -}}
+  {{- end -}}
+{{- end -}}
+<img src="{{ $src | safeURL }}"
+  {{- with .Text }} alt="{{ . }}"{{ end -}}
+  {{- with .Title }} title="{{ . }}"{{ end -}}
+  loading="lazy"
+  decoding="async"
+/>

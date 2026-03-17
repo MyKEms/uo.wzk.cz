@@ -1,0 +1,17 @@
+[[main]]
+  identifier = "tools"
+  name = "Tools"
+  url = "/categories/graphics/"
+  weight = 10
+
+[[main]]
+  identifier = "client"
+  name = "Client Tools"
+  url = "/categories/client/"
+  weight = 20
+
+[[main]]
+  identifier = "categories"
+  name = "All Categories"
+  url = "/categories/"
+  weight = 30
