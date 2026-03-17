@@ -15,7 +15,7 @@ Program to edit files from mapX.mul files.
 
  
 
-[![](RadMap_WorldForge.png)](<RadMap_WorldForge.png>)
+![](RadMap_WorldForge.png)
 
 ## Downloads
 

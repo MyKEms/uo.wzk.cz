@@ -33,7 +33,7 @@ Dougan Ironfist
 
 ## Screenshots
 
-[![](Map_Extractor.png)](<Map_Extractor.png>)
+![](Map_Extractor.png)
 
  
 

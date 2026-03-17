@@ -35,7 +35,7 @@ The intention behind this is, that the only available GodClient is rather old an
 
  
 
-[![](CentrED-LargeScale.png)](<https://uo.wzk.cz/centred/centred-largescale/>)[![](CentrED-MainScreen.png)](<https://uo.wzk.cz/centred/centred-mainscreen/>)
+![](CentrED-LargeScale.png)![](CentrED-MainScreen.png)
 
 ## Downloads
 

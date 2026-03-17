@@ -13,7 +13,7 @@ Program to generate map files from BMP images.
 
 ## Screenshots
 
-[![](UOLandScaper.png)](<UOLandScaper.png>)
+![](UOLandScaper.png)
 
  
 

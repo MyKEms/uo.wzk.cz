@@ -13,7 +13,7 @@ Program to copy map region from one map to other.
 
 ## Screenshots
 
-[![](RadMapCopy.png)](<RadMapCopy.png>)
+![](RadMapCopy.png)
 
  
 

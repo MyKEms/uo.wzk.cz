@@ -13,7 +13,7 @@ categories:
 
 ## Screenshots
 
-[![](CentrED_Plus-MainScreen.png)](<CentrED_Plus-MainScreen.png>)
+![](CentrED_Plus-MainScreen.png)
 
 ## Downloads
 

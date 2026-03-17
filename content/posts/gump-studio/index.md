@@ -13,7 +13,7 @@ This program allows you to build gump and then save them as file or scripts for 
 
 ## Screenshots
 
-[![](GumpStudio.png)](<GumpStudio.png>)
+![](GumpStudio.png)
 
 ## Downloads
 

@@ -15,7 +15,7 @@ MultiUO will make from any client a multi client.
 
  
 
-[![](MultiUO.png)](<MultiUO.png>)
+![](MultiUO.png)
 
 ## Downloads
 

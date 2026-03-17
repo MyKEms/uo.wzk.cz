@@ -13,7 +13,7 @@ Injection it is program – analogue UO Assist – the auxiliary player tool for
 
 ## Screenshots
 
-[![](Injection_2015_1.png)](<Injection_2015_1.png>) [![](Injection_2015_2.png)](<Injection_2015_2.png>)
+![](Injection_2015_1.png) ![](Injection_2015_2.png)
 
  
 

@@ -14,7 +14,7 @@ vSCP definitely improves your scripting process. Give it a try, you won’t regr
 
 ## Screenshots
 
-## [![](vSCP_2012.png)](<vSCP_2012.png>)Downloads
+## ![](vSCP_2012.png)Downloads
 
   * [vscp.zip](</files/vscp.zip>)
 

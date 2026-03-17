@@ -36,7 +36,7 @@ The application once connected to your client files allows a variety of options 
 
 ## Screenshots
 
-[![](UO_Fiddler2.jpg)](<UO_Fiddler2.jpg>) [![](UO_Fiddler.jpg)](<UO_Fiddler.jpg>)
+![](UO_Fiddler2.jpg) ![](UO_Fiddler.jpg)
 
 ## Downloads
 
