@@ -1,0 +1,21 @@
+baseURL = "https://uo.wzk.cz/"
+languageCode = "en-us"
+title = "UO Tools Archive"
+theme = "terminal"
+paginate = 20
+
+# Match WordPress permalink structure: /slug/
+[permalinks]
+  [permalinks.page]
+    posts = "/:slug/"
+
+[markup]
+  [markup.highlight]
+    codeFences = true
+    style = "monokai"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[outputs]
+  home = ["HTML", "RSS"]

@@ -1,0 +1,12 @@
+contentTypeName = "posts"
+themeColor = "dark"
+showMenuItems = 3
+showLanguageSelector = false
+fullWidthTheme = false
+centerTheme = true
+autoCover = true
+showLastUpdated = false
+
+[logo]
+  logoText = "UO Tools Archive"
+  logoHomeLink = "/"
