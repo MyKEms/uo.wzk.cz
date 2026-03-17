@@ -13,7 +13,7 @@ Program calculates first and last animation frame number.
 
 ## Screenshots
 
-[![](RadAnimCalculator.png)](<RadAnimCalculator.png>)
+![](RadAnimCalculator.png)
 
  
 

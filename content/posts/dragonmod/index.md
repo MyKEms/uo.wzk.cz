@@ -15,7 +15,7 @@ Dragon is very flexible and customizable as to editing the color pallet to your 
 
 ## Screenshots
 
-[![](Dragon-IMOD13.png)](<Dragon-IMOD13.png>)
+![](Dragon-IMOD13.png)
 
 ## Downloads
 
@@ -28,23 +28,23 @@ Dragon is very flexible and customizable as to editing the color pallet to your 
     * The main difference between the different version of Dragon Mod’s is new terrain types added as well as some of the scripts that generate coastlines etc… have been cleaned up so less touchup work is needed manually. There will still be some areas that will need manual touchups depending on how detailed you get with your BMP image. The more detail in the BMP (proper rounded corners and not choppy curves and corners) the less manual touchups will be needed to the generated map via an editor such as CentrED. To my knowledge my Dragon IMod13 offers the most terrain types and cleaned up scripts to date.
     * This new addon includes the following new terrain types.
     * 1) _Bayou or Dense Marsh:_ Dense cypress trees, some unpassable. 
-      * [![](Dragon-IMOD13-bayou.jpg)](<Dragon-IMOD13-bayou.jpg>)
+      * ![](Dragon-IMOD13-bayou.jpg)
     * 2) _Clear Cut Forest:_ Used to show areas where lumber has been obtained. 
-      * [![](Dragon-IMOD13-clearcutforest.jpg)](<Dragon-IMOD13-clearcutforest.jpg>)
+      * ![](Dragon-IMOD13-clearcutforest.jpg)
     * 3) _Desert Forest:_ Allows for dead/petrified forest in desert. 
-      * [![](Dragon-IMOD13-desertforest.jpg)](<Dragon-IMOD13-desertforest.jpg>)
+      * ![](Dragon-IMOD13-desertforest.jpg)
     * 4) _Glacier or Frozen tundra:_ Allows for flat open frozen tundra type areas. 
-      * [![](Dragon-IMOD13-glacier.jpg)](<Dragon-IMOD13-glacier.jpg>)
+      * ![](Dragon-IMOD13-glacier.jpg)
     * 5) _Prairie:_ Based off the US Mid-West type prairies. 
-      * [![](Dragon-IMOD13-prairie.jpg)](<Dragon-IMOD13-prairie.jpg>)
+      * ![](Dragon-IMOD13-prairie.jpg)
     * 6) _Savannah Desert:_ Desert with heavy vegetation, trees, and long grass throughout. 
-      * [![](Dragon-IMOD13-savannah.jpg)](<Dragon-IMOD13-savannah.jpg>)
+      * ![](Dragon-IMOD13-savannah.jpg)
     * 7) _Snowy Forest:_ Allows typical forest areas to have snow and no follage on trees. 
-      * [![](Dragon-IMOD13-snowforest.jpg)](<Dragon-IMOD13-snowforest.jpg>)
+      * ![](Dragon-IMOD13-snowforest.jpg)
     * 8) _Snowy Meadow:_ Allows typical meadow areas to have snow and no follage on trees. 
-      * [![](Dragon-IMOD13-snowmeadow.jpg)](<Dragon-IMOD13-snowmeadow.jpg>)
+      * ![](Dragon-IMOD13-snowmeadow.jpg)
     * 9) _Wasteland:_ Area where everything is dead, forest fire/dragon attacked areas. 
-      * [![](Dragon-IMOD13-wasteland.jpg)](<Dragon-IMOD13-wasteland.jpg>)
+      * ![](Dragon-IMOD13-wasteland.jpg)
   * [UO-DragonMod11-MakingMapTutorial.pdf](<https://uo.wzk.cz/wp-content/uploads/sites/7/2017/07/UO-DragonMod11-MakingMapTutorial.pdf>)
   * [FAQ-Dragon-Problems.pdf](<https://uo.wzk.cz/wp-content/uploads/sites/7/2017/07/FAQ-Dragon-Problems.pdf>)
 

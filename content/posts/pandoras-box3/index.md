@@ -13,7 +13,7 @@ Pandora’s Box it’s an Ultima Online utility for building and administrate sh
 
 ## Screenshots
 
-[![](PandorasBox.png)](<PandorasBox.png>)
+![](PandorasBox.png)
 
  
 

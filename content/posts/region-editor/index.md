@@ -27,7 +27,7 @@ Hopefully this application will help everyone that needs to work on their region
 
 ## Screenshots
 
-[![](Region_Editor_1.jpg)](<Region_Editor_1.jpg>) [![](Region_Editor_2.jpg)](<Region_Editor_2.jpg>) [![](Region_Editor_3.jpg)](<Region_Editor_3.jpg>)
+![](Region_Editor_1.jpg) ![](Region_Editor_2.jpg) ![](Region_Editor_3.jpg)
 
  
 

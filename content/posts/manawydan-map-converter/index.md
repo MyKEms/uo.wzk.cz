@@ -13,7 +13,7 @@ Convert map from 2d client to UOKR (C# source code included).
 
 ## Screenshots
 
-[![](ManawydanMapConverter.png)](<ManawydanMapConverter.png>)
+![](ManawydanMapConverter.png)
 
  
 

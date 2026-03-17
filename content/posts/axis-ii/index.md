@@ -19,7 +19,7 @@ Latest version includes support for ART and MAP in the .uop file format.
 
 ## Screenshots
 
-[![](AxisII.jpg)](<AxisII.jpg>)
+![](AxisII.jpg)
 
 ## Downloads
 
