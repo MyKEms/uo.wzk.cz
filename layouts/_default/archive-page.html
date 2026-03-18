@@ -19,6 +19,7 @@
                 <span class="sep">|</span> <span class="post-category"><a href="{{ (urlize (printf "categories/%s/" . )) | absLangURL }}">{{ . }}</a></span>
               {{- end -}}
               {{- if eq (.Params.source) "manawydan" }} <span class="sep">|</span> <span class="source-badge">MW</span>{{ end -}}
+              {{- if eq (.Params.source) "ultima-cz" }} <span class="sep">|</span> <span class="source-badge source-badge--ucz">UCZ</span>{{ end -}}
             </li>
           {{ end }}
         </ul>

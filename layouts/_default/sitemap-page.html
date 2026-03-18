@@ -12,6 +12,7 @@
           <li>
             <a href="{{ .Permalink }}">{{ .Title }}</a>
             {{- if eq (.Params.source) "manawydan" }} <span class="sep">|</span> <span class="source-badge">MW</span>{{ end -}}
+            {{- if eq (.Params.source) "ultima-cz" }} <span class="sep">|</span> <span class="source-badge source-badge--ucz">UCZ</span>{{ end -}}
             {{- range .Params.tags }}
               {{- if ne . "Manawydan Archive" }}
                 <span class="sep">|</span> <span class="sitemap-author">{{ . }}</span>

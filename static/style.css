@@ -65,7 +65,7 @@ body {
   text-align: center;
 }
 
-/* Source badge for Manawydan posts */
+/* Source badges */
 .source-badge {
   display: inline-block;
   background-color: #2a5a3a;
@@ -75,6 +75,11 @@ body {
   font-size: 0.75rem;
   margin-left: 0.5rem;
   vertical-align: middle;
+}
+
+.source-badge--ucz {
+  background-color: #4a3a2a;
+  color: #c8a868;
 }
 
 /* UO-style bullet points */

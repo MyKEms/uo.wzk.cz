@@ -21,6 +21,9 @@
     {{- if eq (.Params.source) "manawydan" -}}
       <span class="source-badge">Manawydan Archive</span>
     {{- end -}}
+    {{- if eq (.Params.source) "ultima-cz" -}}
+      <span class="source-badge source-badge--ucz">ultima.cz Archive</span>
+    {{- end -}}
   </div>
 
   {{ if .Params.tags }}
