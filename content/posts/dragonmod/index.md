@@ -49,8 +49,8 @@ Dragon is very flexible and customizable as to editing the color pallet to your 
       * ![](Dragon-IMOD13-snowmeadow.jpg)
     * 9) _Wasteland:_ Area where everything is dead, forest fire/dragon attacked areas. 
       * ![](Dragon-IMOD13-wasteland.jpg)
-  * UO-DragonMod11-MakingMapTutorial.pdf (no longer available — was hosted on the original WordPress site)
-  * FAQ-Dragon-Problems.pdf (no longer available — was hosted on the original WordPress site)
+  * [UO-DragonMod11-MakingMapTutorial.pdf](/files/UO-DragonMod11-MakingMapTutorial.pdf)
+  * [FAQ-Dragon-Problems.pdf](/files/FAQ-Dragon-Problems.pdf)
 
 ## Manawydan Archive Downloads
 
