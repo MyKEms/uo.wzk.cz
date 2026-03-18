@@ -2,11 +2,12 @@
 
 ## What is this
 
-Combined Ultima Online tools archive merging two sources:
+Combined Ultima Online tools archive merging three sources:
 - **uo.wzk.cz** — MyKE's UO tools collection (migrated from WordPress, March 2026)
 - **ultima.manawydan.cz** — RadstaR's comprehensive UO tools archive (2004-2016), cached by Golfin on UO Erebor servers, merged March 2026
+- **ultima.cz** — Czech UO community tutorials (2003-2014), cached March 2026
 
-Hugo static site hosted on Cloudflare Pages. Maintained as a resource for [UO Erebor](http://uoerebor.cz/) shard development. ~108 posts total.
+Hugo static site hosted on Cloudflare Pages. Maintained as a resource for [UO Erebor](http://uoerebor.cz/) shard development. ~115 posts total.
 
 ## Tech stack
 
@@ -76,11 +77,11 @@ hugo server -D
 
 ## Content structure
 
-- **108 posts** in `content/posts/` (17 original + 86 new from Manawydan + 4 tutorials + 1 news)
+- **115 posts** in `content/posts/` (17 original + 86 from Manawydan + 4 MW tutorials + 7 ultima.cz tutorials + 1 news)
 - **Standalone pages**: `content/about.md`, `content/archive.md`, `content/sitemap.md`
 - **Categories**: Graphics, Client, GM, Server, Sphere, UOKR, Tutorials, News
-- **Tags**: Author names (RadstaR, Arya, Kons, Orbsydia, Punt, Ravenal, VD) + "Manawydan Archive"
-- Posts from Manawydan have `params.source: manawydan` in frontmatter (shows badge on page)
+- **Tags**: Author names (RadstaR, Arya, Kons, Orbsydia, Punt, Ravenal, VD, Lynx, M@B, Marty, Aramis) + "Manawydan Archive" + "ultima.cz Archive"
+- **Source badges**: `params.source: manawydan` shows green "MW" badge, `params.source: ultima-cz` shows brown "UCZ" badge
 - **Navigation**: Home, All Tools, Categories, Authors, Tutorials, Archive, About (7 items, `showMenuItems = 7`)
 
 ## Important notes
