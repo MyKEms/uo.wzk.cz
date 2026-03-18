@@ -18,6 +18,8 @@ Static Tool se nachází v Axisu na kartě **Misc** vpravo. Po kliknutí se otev
 
 Mezi okny je kompas umožňující pohyb po mapě. Okna lze ovládat myší — kliknutím na místo v levém okně se zobrazí ve středu. Možné je také označit region myší.
 
+![](UO0001.jpg)
+
 ## Menu FILES
 
 - **Select Worldfile**: výběr sphereworld.scp ze složky Save
@@ -28,11 +30,21 @@ Mezi okny je kompas umožňující pohyb po mapě. Okna lze ovládat myší — 
 - **Load Patch File**: nahrání .pat souboru
 - **Apply Patch File**: použití patche na statics0.mul a staidx0.mul
 
+![](UO0009.jpg)
+
+![](UO0010.jpg)
+
 ## CRITERIA
 
 - **Types**: připojení/odpojení itemů podle typu
 - **Art IDs**: připojení/odpojení podle ID
 - **Regions**: připojí či odpojí itemy z vybraného regionu
+
+![](UO0002.jpg)
+
+![](UO0004.jpg)
+
+![](UO0005.jpg)
 
 ## Postup
 
@@ -47,11 +59,17 @@ Mezi okny je kompas umožňující pohyb po mapě. Okna lze ovládat myší — 
 9. Vyberete "Create Patch"
 10. Použijete "Apply Patch"
 
+![](UO0011.jpg)
+
+![](UO0012.jpg)
+
 Pokud použijete Apply Patch, bude to vypadat jako by program zmrzl — nezmrzl, pracuje ale velice pomalu.
 
 Program vytvoří soubory s příponou .new — ty pak přejmenujte na .mul a přepište jimi původní (předtím si je zálohujte).
 
 **Důležité:** Itemy, které jednou do static zmrazíte, už těžko vrátíte na dynamické. Zálohujte si sphereworld.scp a neužívejte možnosti Clean Worldfile.
+
+![](UO0013.jpg)
 
 ---
 
