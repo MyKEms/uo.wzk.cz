@@ -6,6 +6,7 @@ Ultima Online tools archive — the largest Czech collection of UO development r
 
 - **uo.wzk.cz** — MyKE's UO tools collection (2009-2017)
 - **ultima.manawydan.cz** — RadstaR's UO tools archive (2004-2016), cached by Golfin on UO Erebor servers
+- **ultima.cz** — Czech UO community tutorials (2003-2014) by Lynx, M@B, Marty, Aramis
 
 Maintained as a resource for [UO Erebor](http://uoerebor.cz/) shard development.
 
@@ -13,11 +14,12 @@ Maintained as a resource for [UO Erebor](http://uoerebor.cz/) shard development.
 
 ## Content
 
-- **108 tool/tutorial posts** — map editors, graphics tools, animation convertors, server emulators, GM tools
+- **115 tool/tutorial posts** — map editors, graphics tools, animation convertors, server emulators, GM tools
 - **~200 download files** (~200 MB) — original archives preserved as-is
-- **4 Czech tutorials** by RadstaR — items, animations, buildings, verdata/MUL files
+- **11 Czech tutorials** — items, animations, buildings, verdata/MUL files, map generation, building philosophy
 - **Categories:** Graphics, Client, GM, Server, Sphere, UOKR, Tutorials, News
-- **Author tags:** RadstaR, Arya, Orbsydia, Punt, Kons, Ravenal, VD
+- **Author tags:** RadstaR, Arya, Orbsydia, Punt, Kons, Ravenal, VD, Lynx, M@B, Marty, Aramis
+- **Sources:** Posts tagged by origin — MW (Manawydan Archive), UCZ (ultima.cz Archive)
 
 ## Stack
 
@@ -125,12 +127,14 @@ Flat URLs matching the original WordPress permalink structure:
 
 1. **March 2026** — WordPress → Hugo migration (17 posts, 27 ZIPs)
 2. **March 2026** — Manawydan archive recovery and merge (+86 tools, +4 tutorials, ~170 download files)
+3. **March 2026** — ultima.cz tutorials cached (+7 tutorials with screenshots)
 
 ### Sources
 
 - WordPress content exported via REST API, converted with Python script (`wp-export/`, gitignored)
 - Manawydan content parsed from HTTrack mirror HTML pages (`mw-export/`, gitignored)
 - Manawydan archive originally cached from `eranova.cz/ultima_manawydan/` by Golfin (2020)
+- ultima.cz tutorials fetched and converted to Hugo posts with original screenshots
 
 ## Contributing
 
