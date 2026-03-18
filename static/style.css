@@ -26,6 +26,19 @@ body {
   align-items: center;
 }
 
+/* UO bullet icons in top menu */
+.menu a::before {
+  content: '';
+  display: inline-block;
+  width: 14px;
+  height: 14px;
+  background-image: url('/images/bod.gif');
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin-right: 0.4em;
+  vertical-align: middle;
+}
+
 /* Post images on listing pages */
 .post img {
   max-width: 100%;
