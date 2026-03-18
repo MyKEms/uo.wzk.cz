@@ -14,14 +14,22 @@ body {
   border-radius: 4px;
 }
 
-/* Logo image in header */
+/* Logo image in header — fill the header bar */
 .logo__img {
-  height: 60px;
+  height: 100%;
+  max-height: 100px;
   vertical-align: middle;
-  margin-right: 10px;
+  margin-right: 12px;
 }
 
 .logo {
+  display: flex;
+  align-items: center;
+  padding: 0;
+  margin: -0.5rem 0;
+}
+
+.logo a {
   display: flex;
   align-items: center;
 }
@@ -143,8 +151,20 @@ body {
   margin-left: 0.3rem;
 }
 
+/* Archive page */
+.archive-list {
+  columns: 2;
+  column-gap: 2rem;
+}
+
+.archive-list li {
+  margin-bottom: 0.3rem;
+  break-inside: avoid;
+}
+
 @media (max-width: 600px) {
-  .sitemap-list {
+  .sitemap-list,
+  .archive-list {
     columns: 1;
   }
 }
