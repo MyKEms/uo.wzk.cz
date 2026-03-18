@@ -31,7 +31,7 @@ jobs:
       - name: Check for broken internal links
         run: |
           # Verify all /files/ download links point to existing files
-          grep -roh '/files/[^)]*' content/posts/*/index.md | sort -u | while read f; do
+          grep -roh '/files/[^)>]*' content/posts/*/index.md | sort -u | while read f; do
             if [ ! -f "static$f" ]; then
               echo "BROKEN LINK: $f"
               exit 1
