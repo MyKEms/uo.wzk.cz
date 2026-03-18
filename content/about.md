@@ -36,6 +36,10 @@ This is a preservation archive of cached content. The tools and files are provid
 
 If you are an author of any tool archived here and would like it removed or updated, please contact us.
 
+## UO Erebor
+
+This archive is maintained primarily as a resource for the development of [UO Erebor](http://uoerebor.cz/) — a Czech Ultima Online shard administered by MyKE. The tools collected here are actively used for world building, custom graphics, and server development on Erebor.
+
 ## Technical details
 
 This site is built with [Hugo](https://gohugo.io/) using the [Terminal theme](https://github.com/panr/hugo-theme-terminal) and hosted on [Cloudflare Pages](https://pages.cloudflare.com/). The migration from WordPress (uo.wzk.cz) and static HTML (ultima.manawydan.cz) was completed in March 2026.
