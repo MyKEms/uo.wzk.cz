@@ -31,9 +31,29 @@ params:
 
   * [CentrED+ 0.7.7 (Manawydan)](/files/manawydan/centredplus77.7z) (2.78 MB)
 
+## Installation & Configuration
+
+1. Download CentrED+ (see downloads above)
+2. Before first launch, enable custom tiles:
+   - Go to the **LocalData** folder (e.g. `C:\Program Files (x86)\uoquint.ru\CentrED+\LocalData\`)
+   - Download and replace [VirtualTiles.xml](/files/VirtualTiles.zip) to enable non-standard graphic items
+3. Launch CentrED+ — enter your server host and port
+4. Default port: **2597** (CentrED+ server), **2598** (CentrED classic server)
+
+![Configuration](centred_konfigurace.jpg)
+
+## Server Configuration
+
+- [CentrED Map Configuration Reference (PDF)](/files/map_-_centred_-_aks_databasis_redmine.pdf) — map dimensions, file sizes, and format reference for CentrED server setup
+
+## Collaborative Editing
+
+CentrED+ supports multiple editors working on the same map simultaneously. Map changes happen on the CentrED server — not in your local game files. To avoid conflicts when multiple builders work on the same area, coordinate via your team's communication channel.
+
+The server supports per-user region restrictions — administrators can grant or revoke edit access to specific map areas.
+
 ## Others
 
-  * To enable not official .mul tiles, download [VirtualTiles.xml](</files/VirtualTiles.zip>) and rewrite old one in CentrED+ **LocalData** folder.
   * ~~Official CentrED Plus website (dev.uoquint.ru)~~ — **Warning: the original CentrED+ website has been compromised and now uses browser fingerprinting to track visitors. Do not visit.**
 
 ## Modern Alternative: CentrED#
