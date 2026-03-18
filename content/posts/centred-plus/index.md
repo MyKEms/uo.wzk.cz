@@ -34,4 +34,8 @@ params:
 ## Others
 
   * To enable not official .mul tiles, download [VirtualTiles.xml](</files/VirtualTiles.zip>) and rewrite old one in CentrED+ **LocalData** folder.
-  * [Official CentrED Plus website](<http://dev.uoquint.ru/projects/centred>).
+  * ~~Official CentrED Plus website (dev.uoquint.ru)~~ — **Warning: the original CentrED+ website has been compromised and now uses browser fingerprinting to track visitors. Do not visit.**
+
+## Modern Alternative: CentrED#
+
+[CentrED#](https://kaczy93.github.io/centredsharp/) is a complete C# rewrite supporting Windows, Linux, and macOS (including Apple Silicon). It is actively maintained and recommended over CentrED+. See the [dedicated page](/centred-sharp/) on this archive.
