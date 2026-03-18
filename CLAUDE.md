@@ -11,7 +11,7 @@ Hugo static site hosted on Cloudflare Pages. Maintained as a resource for [UO Er
 ## Tech stack
 
 - **SSG**: Hugo extended (v0.158.0+)
-- **Theme**: [Terminal](https://github.com/panr/hugo-theme-terminal) (git submodule in `themes/terminal/`)
+- **Theme**: [Terminal](https://github.com/panr/hugo-theme-terminal) (vendored in `themes/terminal/`)
 - **Hosting**: Cloudflare Pages (project: `uo-wzk-cz`)
 - **CI/CD**: GitHub Actions — `deploy.yml` (build + deploy) and `validate.yml` (build + link checks on PRs)
 - **Analytics**: Cloudflare Web Analytics (JS snippet in footer partial)
@@ -87,7 +87,7 @@ hugo server -D
 
 - The `wp-export/` directory contains original WordPress export data and conversion scripts — it's gitignored
 - The `mw-export/` directory contains Manawydan source HTML and conversion scripts — it's gitignored
-- Theme is a git submodule — always clone with `--recurse-submodules`
+- Theme is vendored (not a submodule) — no special clone flags needed
 - This site is essentially frozen/archival — new content is unlikely
 - Images were unwrapped from clickable links to avoid 404s on listing pages
 - Manawydan posts use date 2012-01-01 (archive date), tutorials use 2010-01-01
