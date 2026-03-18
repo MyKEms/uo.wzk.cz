@@ -5,6 +5,10 @@ slug: "uofiddler"
 draft: false
 categories:
   - "Graphics"
+tags:
+  - "Manawydan Archive"
+params:
+  source: manawydan
 ---
 
 ## Features
@@ -41,6 +45,16 @@ The application once connected to your client files allows a variety of options 
 ## Downloads
 
   * [UOFiddler4.6.zip](</files/UOFiddler4.6.zip>)
+
+## Manawydan Archive Downloads
+
+> CZ: Program na prohlížení mul souborů (něco jako InsideUO).
+
+![Manawydan screenshot](uofiddler-mw.png)
+
+  * [UOFiddler 4.6 SVN 2133 (Manawydan)](/files/manawydan/uofiddler_svn2133.rar) (493 KB)
+  * [UOFiddler 4.5g](/files/manawydan/uofiddler45g.rar) (810 KB)
+  * [UOFiddler 4.5b](/files/manawydan/uofiddler45b.rar) (1.41 MB)
 
 ## Others
 

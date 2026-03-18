@@ -5,6 +5,11 @@ slug: "gump-studio"
 draft: false
 categories:
   - "Graphics"
+tags:
+  - "Manawydan Archive"
+  - "Orbsydia"
+params:
+  source: manawydan
 ---
 
 ## Features
@@ -26,6 +31,18 @@ This program allows you to build gump and then save them as file or scripts for 
       * Add HS support, so it’s possible to use items ID with indexex up to 0x10000.
       * Increased working area from 800×600 up to 1600×1200\. This allows to designe large gumps.
       * Fixed bug with changing client path (by default GumpStudio first checked registery, so if you have installed client it becomes impossible to load mul files from custom path)
+
+## Manawydan Archive Downloads
+
+> CZ: Program na tvorbu různých gumpů pro scripty.
+
+![Manawydan screenshot](gumpstudio-mw.jpg)
+
+  * [Gump Studio 1.8 (Manawydan)](/files/manawydan/orbsydia/gump_studio_1_8.rar) (283 KB)
+  * [Gump Studio 1.8 R2](/files/manawydan/orbsydia/gump_studio_1_8_r2.rar) (205 KB)
+  * [Gump Studio 1.8 R3](/files/manawydan/orbsydia/gump_studio_1_8_r3.rar) (209 KB)
+  * [Gump Studio 1.7 Updated](/files/manawydan/orbsydia/gump_studio_1_7_updated.rar) (184 KB)
+  * [Gump Studio 1.7 Manual PDF](/files/manawydan/orbsydia/gump_studio_1_7_manual.pdf) (445 KB)
 
 ## Others
 
