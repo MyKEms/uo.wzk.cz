@@ -1,0 +1,51 @@
+name: Validate Hugo Build
+
+on:
+  pull_request:
+    branches: [main, dev]
+  push:
+    branches: [main, dev]
+    paths-ignore:
+      - 'README.md'
+      - 'CLAUDE.md'
+      - '.gitignore'
+      - 'LICENSE'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          submodules: true
+          fetch-depth: 0
+
+      - uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: "0.158.0"
+          extended: true
+
+      - name: Build site
+        run: hugo --minify
+
+      - name: Check for broken internal links
+        run: |
+          # Verify all /files/ download links point to existing files
+          grep -roh '/files/[^)]*' content/posts/*/index.md | sort -u | while read f; do
+            if [ ! -f "static$f" ]; then
+              echo "BROKEN LINK: $f"
+              exit 1
+            fi
+          done
+          echo "All download links valid"
+
+      - name: Check file size limits
+        run: |
+          # Cloudflare Pages 25MB per-file limit
+          oversized=$(find public static -type f -size +25M 2>/dev/null)
+          if [ -n "$oversized" ]; then
+            echo "Files exceeding 25MB Cloudflare Pages limit:"
+            echo "$oversized"
+            exit 1
+          fi
+          echo "All files within size limits"
