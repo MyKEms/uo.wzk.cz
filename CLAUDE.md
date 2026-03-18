@@ -94,3 +94,4 @@ hugo server -D
 - Manawydan posts use date 2012-01-01 (archive date), tutorials use 2010-01-01
 - The `dev` preview loads CSS from production (due to `baseURL`), so CSS-only changes are not visible on dev — must merge to `main` to verify
 - UO bullet icons (bod.gif) are inlined as base64 in style.css for the top navigation
+- **After every content or structural change, update README.md and CLAUDE.md** to keep post counts, author lists, and documentation in sync
