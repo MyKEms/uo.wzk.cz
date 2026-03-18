@@ -151,6 +151,12 @@ body {
   margin-left: 0.3rem;
 }
 
+/* Separator between items in lists */
+.sep {
+  color: #555;
+  margin: 0 0.2em;
+}
+
 /* Archive page */
 .archive-list {
   columns: 2;
