@@ -1,25 +1,31 @@
 # uo.wzk.cz
 
-Ultima Online tools archive by MyKE. Migrated from WordPress to Hugo static site, hosted on Cloudflare Pages.
+Ultima Online tools archive — the largest Czech collection of UO development resources. Combines two archived sites:
+
+- **uo.wzk.cz** — MyKE's UO tools collection (2009-2017)
+- **ultima.manawydan.cz** — RadstaR's UO tools archive (2004-2016), cached by Golfin on UO Erebor servers
+
+Maintained as a resource for [UO Erebor](http://uoerebor.cz/) shard development.
+
+**Live site:** https://uo.wzk.cz/
+
+## Content
+
+- **107 tool/tutorial posts** — map editors, graphics tools, animation convertors, server emulators, GM tools
+- **~200 download files** (~200 MB) — original archives preserved as-is
+- **4 Czech tutorials** by RadstaR — items, animations, buildings, verdata/MUL files
+- **Categories:** Graphics, Client, GM, Server, Sphere, UOKR, Tutorials, News
+- **Author tags:** RadstaR, Arya, Orbsydia, Punt, Kons, Ravenal, VD
 
 ## Stack
 
 | Component | Choice |
 |-----------|--------|
-| SSG | [Hugo](https://gohugo.io/) (extended) |
-| Theme | [Terminal](https://github.com/panr/hugo-theme-terminal) |
+| SSG | [Hugo](https://gohugo.io/) (extended, v0.158.0+) |
+| Theme | [Terminal](https://github.com/panr/hugo-theme-terminal) (git submodule) |
 | Hosting | [Cloudflare Pages](https://pages.cloudflare.com/) |
 | CI/CD | GitHub Actions → Cloudflare Pages |
-
-## Prerequisites
-
-- [Hugo extended](https://gohugo.io/installation/) (v0.158.0+)
-- Git
-
-```bash
-# macOS
-brew install hugo
-```
+| Analytics | Cloudflare Web Analytics |
 
 ## Local Development
 
@@ -34,26 +40,23 @@ hugo server -D
 # Site available at http://localhost:1313/
 ```
 
-## Creating a New Post
+**Prerequisites:** [Hugo extended](https://gohugo.io/installation/) (v0.158.0+), Git
 
 ```bash
-hugo new posts/my-new-tool/index.md
+# macOS
+brew install hugo
 ```
-
-Add images into the post directory and downloadable files into `static/files/`.
 
 ## Deployment
 
-Deployment is fully automated via GitHub Actions.
+Push to `main` or `dev` triggers GitHub Actions → Hugo build → Cloudflare Pages deploy (~30s).
 
-**Push to `main` → GitHub Actions builds Hugo → deploys to Cloudflare Pages**
+| Branch | Environment | URL |
+|--------|------------|-----|
+| `main` | Production | https://uo.wzk.cz/ |
+| `dev` | Preview | https://dev.uo-wzk-cz.pages.dev/ |
 
-```bash
-git add .
-git commit -m "Add new tool"
-git push
-# Auto-deploys in ~30 seconds
-```
+**Note:** The `dev` preview loads CSS from production (due to `baseURL`), so CSS changes are only visible after merging to `main`.
 
 ### Required GitHub Secrets
 
@@ -62,45 +65,75 @@ git push
 | `CLOUDFLARE_API_TOKEN` | API token with Cloudflare Pages edit permission |
 | `CLOUDFLARE_ACCOUNT_ID` | Cloudflare account ID |
 
-### Cloudflare Pages Project
-
-- Project name: `uo-wzk-cz`
-- Production URL: https://uo-wzk-cz.pages.dev
-- Custom domain: `uo.wzk.cz` (to be configured)
-
-## URL Structure
-
-URLs match the original WordPress permalink structure:
-
-```
-/tool-slug/            → tool pages (flat, no date prefix)
-/categories/           → category listing
-```
-
 ## Project Structure
 
 ```
 uo.wzk.cz/
-├── config/_default/          # hugo.toml, params.toml, menus.toml
-├── content/posts/slug/       # Page bundles (index.md + images)
+├── config/_default/              # hugo.toml, params.toml, menus.toml
+├── content/
+│   ├── posts/slug/index.md       # Page bundles (107 tool/tutorial posts)
+│   ├── about.md                  # About/credits page
+│   ├── archive.md                # Archive by date
+│   └── sitemap.md                # All tools by category
 ├── layouts/
-│   ├── _default/_markup/     # Image render hook
-│   └── partials/             # Custom logo partial
+│   ├── _default/
+│   │   ├── list.html             # Compact post listing (title + category)
+│   │   ├── single.html           # Post page with source badge
+│   │   ├── archive-page.html     # Archive by year/month
+│   │   ├── sitemap-page.html     # Tools index by category
+│   │   └── _markup/              # Image render hook
+│   └── partials/
+│       ├── footer.html           # Footer + analytics + disclaimer
+│       ├── logo.html             # Custom logo
+│       └── disclaimer.html       # Archive disclaimer banner
 ├── static/
-│   ├── files/                # Downloadable ZIPs (27 tools)
-│   ├── images/               # Background wallpaper, UO logo
-│   ├── style.css             # Custom CSS (background, logo)
-│   └── _redirects            # Cloudflare Pages redirects
-├── themes/terminal/          # Theme (git submodule)
-├── .github/workflows/        # CI/CD
-└── wp-export/                # Original WP export data (gitignored)
+│   ├── files/                    # Original downloads (27 ZIPs)
+│   ├── files/manawydan/          # Manawydan downloads (~170 files, 172MB)
+│   │   ├── arya/                 #   by author subdirectories
+│   │   ├── kons/
+│   │   ├── orbsydia/
+│   │   ├── punt/
+│   │   ├── radstar/
+│   │   ├── ravenal/
+│   │   ├── runuo/
+│   │   ├── sphere/
+│   │   ├── uokr/
+│   │   └── vd/
+│   ├── images/                   # Background, logos, bod.gif bullet icon
+│   └── style.css                 # Custom CSS
+├── themes/terminal/              # Theme (git submodule)
+├── .github/workflows/            # CI/CD
+├── wp-export/                    # WordPress export data (gitignored)
+└── mw-export/                    # Manawydan source HTML (gitignored)
 ```
 
-## Migration Notes
+## URL Structure
 
-- Migrated from WordPress (17 posts, 5 comments, 27 downloadable ZIPs)
-- Content exported via WordPress REST API, converted with custom Python script
-- Images downloaded into page bundles, ZIPs into `static/files/`
-- UO background wallpaper and logo preserved from original site
-- Historical comments preserved as static blockquote sections
-- Original export data kept in `wp-export/` (gitignored)
+Flat URLs matching the original WordPress permalink structure:
+
+```
+/tool-slug/            → tool pages
+/categories/           → category listing
+/tags/                 → author listing
+/sitemap/              → all tools by category
+/archive/              → all posts by date
+/about/                → credits and info
+```
+
+## Migration History
+
+1. **March 2026** — WordPress → Hugo migration (17 posts, 27 ZIPs)
+2. **March 2026** — Manawydan archive recovery and merge (+86 tools, +4 tutorials, ~170 download files)
+
+### Sources
+
+- WordPress content exported via REST API, converted with Python script (`wp-export/`, gitignored)
+- Manawydan content parsed from HTTrack mirror HTML pages (`mw-export/`, gitignored)
+- Manawydan archive originally cached from `eranova.cz/ultima_manawydan/` by Golfin (2020)
+
+## Credits
+
+- **MyKE** — Archive maintainer, UO Erebor admin
+- **RadstaR** — Manawydan tools archive creator
+- **Golfin** — Preserved the Manawydan cache on UO Erebor servers
+- **Tool authors** — Arya, Orbsydia, Punt, Kons, Ravenal, VD, and many others
