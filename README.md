@@ -24,7 +24,7 @@ Maintained as a resource for [UO Erebor](http://uoerebor.cz/) shard development.
 | Component | Choice |
 |-----------|--------|
 | SSG | [Hugo](https://gohugo.io/) (extended, v0.158.0+) |
-| Theme | [Terminal](https://github.com/panr/hugo-theme-terminal) (git submodule) |
+| Theme | [Terminal](https://github.com/panr/hugo-theme-terminal) (vendored) |
 | Hosting | [Cloudflare Pages](https://pages.cloudflare.com/) |
 | CI/CD | GitHub Actions (direct Hugo + Wrangler, no third-party actions) |
 | Analytics | Cloudflare Web Analytics |
@@ -32,8 +32,7 @@ Maintained as a resource for [UO Erebor](http://uoerebor.cz/) shard development.
 ## Local Development
 
 ```bash
-# Clone with submodules (theme)
-git clone --recurse-submodules https://github.com/MyKEms/uo.wzk.cz.git
+git clone https://github.com/MyKEms/uo.wzk.cz.git
 cd uo.wzk.cz
 
 # Start dev server with drafts
@@ -103,7 +102,7 @@ uo.wzk.cz/
 │   │   └── vd/
 │   ├── images/                   # Background, logos, bod.gif bullet icon
 │   └── style.css                 # Custom CSS
-├── themes/terminal/              # Theme (git submodule)
+├── themes/terminal/              # Theme (vendored)
 ├── .github/workflows/            # CI/CD
 ├── wp-export/                    # WordPress export data (gitignored)
 └── mw-export/                    # Manawydan source HTML (gitignored)
