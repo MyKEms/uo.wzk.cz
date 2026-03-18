@@ -1,0 +1,26 @@
+{{ define "main" }}
+<article class="post">
+  <h1 class="post-title">{{ .Title }}</h1>
+  <div class="post-content">
+    {{ .Content }}
+
+    {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
+      {{ $count := len $taxonomy.Pages }}
+      <h2 id="{{ $name | urlize }}">{{ $name | humanize }} ({{ $count }})</h2>
+      <ul class="sitemap-list">
+        {{ range $taxonomy.Pages.ByTitle }}
+          <li>
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+            {{- if eq (.Params.source) "manawydan" }} <span class="source-badge">MW</span>{{ end -}}
+            {{- range .Params.tags }}
+              {{- if ne . "Manawydan Archive" }}
+                <span class="sitemap-author">{{ . }}</span>
+              {{- end -}}
+            {{- end -}}
+          </li>
+        {{ end }}
+      </ul>
+    {{ end }}
+  </div>
+</article>
+{{ end }}

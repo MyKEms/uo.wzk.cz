@@ -1,8 +1,14 @@
 [[main]]
-  identifier = "tools"
-  name = "All Tools"
+  identifier = "home"
+  name = "Home"
   url = "/"
   weight = 10
+
+[[main]]
+  identifier = "sitemap"
+  name = "All Tools"
+  url = "/sitemap/"
+  weight = 15
 
 [[main]]
   identifier = "categories"

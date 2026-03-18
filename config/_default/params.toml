@@ -1,11 +1,12 @@
 contentTypeName = "posts"
 themeColor = "dark"
-showMenuItems = 5
+showMenuItems = 6
 showLanguageSelector = false
 fullWidthTheme = false
 centerTheme = true
-autoCover = true
+autoCover = false
 showLastUpdated = false
+ReadMore = "Read More"
 
 [logo]
   logoText = "UO Tools Archive"
