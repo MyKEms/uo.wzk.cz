@@ -1,5 +1,7 @@
 # uo.wzk.cz
 
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
 Ultima Online tools archive — the largest Czech collection of UO development resources. Combines two archived sites:
 
 - **uo.wzk.cz** — MyKE's UO tools collection (2009-2017)
@@ -11,7 +13,7 @@ Maintained as a resource for [UO Erebor](http://uoerebor.cz/) shard development.
 
 ## Content
 
-- **107 tool/tutorial posts** — map editors, graphics tools, animation convertors, server emulators, GM tools
+- **108 tool/tutorial posts** — map editors, graphics tools, animation convertors, server emulators, GM tools
 - **~200 download files** (~200 MB) — original archives preserved as-is
 - **4 Czech tutorials** by RadstaR — items, animations, buildings, verdata/MUL files
 - **Categories:** Graphics, Client, GM, Server, Sphere, UOKR, Tutorials, News
@@ -24,7 +26,7 @@ Maintained as a resource for [UO Erebor](http://uoerebor.cz/) shard development.
 | SSG | [Hugo](https://gohugo.io/) (extended, v0.158.0+) |
 | Theme | [Terminal](https://github.com/panr/hugo-theme-terminal) (git submodule) |
 | Hosting | [Cloudflare Pages](https://pages.cloudflare.com/) |
-| CI/CD | GitHub Actions → Cloudflare Pages |
+| CI/CD | GitHub Actions (direct Hugo + Wrangler, no third-party actions) |
 | Analytics | Cloudflare Web Analytics |
 
 ## Local Development
@@ -71,7 +73,7 @@ Push to `main` or `dev` triggers GitHub Actions → Hugo build → Cloudflare Pa
 uo.wzk.cz/
 ├── config/_default/              # hugo.toml, params.toml, menus.toml
 ├── content/
-│   ├── posts/slug/index.md       # Page bundles (107 tool/tutorial posts)
+│   ├── posts/slug/index.md       # Page bundles (108 tool/tutorial posts)
 │   ├── about.md                  # About/credits page
 │   ├── archive.md                # Archive by date
 │   └── sitemap.md                # All tools by category
@@ -131,9 +133,17 @@ Flat URLs matching the original WordPress permalink structure:
 - Manawydan content parsed from HTTrack mirror HTML pages (`mw-export/`, gitignored)
 - Manawydan archive originally cached from `eranova.cz/ultima_manawydan/` by Golfin (2020)
 
+## Contributing
+
+Found a broken link or want to add a missing tool? Open an [issue](https://github.com/MyKEms/uo.wzk.cz/issues) or submit a pull request. The validation workflow will check that the Hugo build succeeds and all download links are valid.
+
 ## Credits
 
 - **MyKE** — Archive maintainer, UO Erebor admin
 - **RadstaR** — Manawydan tools archive creator
 - **Golfin** — Preserved the Manawydan cache on UO Erebor servers
 - **Tool authors** — Arya, Orbsydia, Punt, Kons, Ravenal, VD, and many others
+
+## License
+
+Site code and original content: [CC BY-NC 4.0](LICENSE). Third-party tools and downloads remain the property of their respective authors.

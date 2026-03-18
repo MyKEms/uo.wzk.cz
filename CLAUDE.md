@@ -13,9 +13,10 @@ Hugo static site hosted on Cloudflare Pages. Maintained as a resource for [UO Er
 - **SSG**: Hugo extended (v0.158.0+)
 - **Theme**: [Terminal](https://github.com/panr/hugo-theme-terminal) (git submodule in `themes/terminal/`)
 - **Hosting**: Cloudflare Pages (project: `uo-wzk-cz`)
-- **CI/CD**: GitHub Actions (`.github/workflows/deploy.yml`) — push to `main` auto-deploys
+- **CI/CD**: GitHub Actions — `deploy.yml` (build + deploy) and `validate.yml` (build + link checks on PRs)
 - **Analytics**: Cloudflare Web Analytics (JS snippet in footer partial)
-- **Repo**: https://github.com/MyKEms/uo.wzk.cz (private)
+- **License**: CC BY-NC 4.0
+- **Repo**: https://github.com/MyKEms/uo.wzk.cz
 
 ## Key configuration
 
