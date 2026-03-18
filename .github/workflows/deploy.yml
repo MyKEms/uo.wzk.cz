@@ -3,6 +3,13 @@ name: Deploy to Cloudflare Pages
 on:
   push:
     branches: [main, dev]
+    paths-ignore:
+      - 'README.md'
+      - 'CLAUDE.md'
+      - '.gitignore'
+      - 'mw-export/**'
+      - 'wp-export/**'
+      - 'LICENSE'
 
 jobs:
   deploy:
