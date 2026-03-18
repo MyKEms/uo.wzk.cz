@@ -5,6 +5,10 @@ slug: "centred"
 draft: false
 categories:
   - "Graphics"
+tags:
+  - "Manawydan Archive"
+params:
+  source: manawydan
 ---
 
 CentrED stands for Centralized Editing. It is a Client/Server based map editor for Ultima™ Online.  
@@ -41,6 +45,15 @@ The intention behind this is, that the only available GodClient is rather old an
 
   * [CentrED_win_linux_server_client.zip](</files/CentrED_win_linux_server_client.zip>)
   * [CentrED_Manual.pdf](<https://uo.wzk.cz/wp-content/uploads/sites/7/2017/07/CentrED_Manual.pdf>)
+
+## Manawydan Archive Downloads
+
+> CZ: Program na vzdálenou úpravu souborů mapy.
+
+![Manawydan screenshot](centred-mw.jpg)
+
+  * [CentrED 0.6.3 (Manawydan)](/files/manawydan/centred063.rar) (1.2 MB)
+  * [CentrED Changelog](/files/manawydan/centred_changelog.txt)
 
 ## Others
 

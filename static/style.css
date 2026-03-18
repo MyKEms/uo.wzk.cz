@@ -14,20 +14,163 @@ body {
   border-radius: 4px;
 }
 
-/* Logo image in header */
+/* Logo image in header — fill the header bar */
 .logo__img {
-  height: 60px;
+  height: 100%;
+  max-height: 100px;
   vertical-align: middle;
-  margin-right: 10px;
+  margin-right: 12px;
 }
 
 .logo {
   display: flex;
   align-items: center;
+  padding: 0;
+  margin: -0.5rem 0;
+}
+
+.logo a {
+  display: flex;
+  align-items: center;
+}
+
+/* UO bullet icons in top menu */
+.navigation-menu__inner > li > a::before {
+  content: '';
+  display: inline-block;
+  width: 14px;
+  height: 14px;
+  background-image: url('data:image/gif;base64,R0lGODlhCwALAPcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzZgAzmTMAMzMzADMzMzMzZjMzmTNmZjNmmWYzAGYzmWZmAGZmM2ZmZmZmmWZmzGaZZmaZzJlmM5mZM5mZZpmZmZnMmZnM/5n//8DAwMyZZszMZszMmczMzMz/////mf//zP///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAADcALAAAAAALAAsAQAhxAG8IPKFiBwwZAgX2UDGDhIkWIWDkuLHQxAgTJV5Y7JHiRgoVIkiUMLFCB4wbOGSQsPFDZAkQK2gkFCgDx0yBOWSoiOFDBg0dAmGIGDECxYuLP3TKMFGDh0UWHlYgxDHjw9ERJVb0SAhjp4sQKXYgDAgAOw==');
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin-right: 0.4em;
+  vertical-align: middle;
 }
 
 /* Post images on listing pages */
 .post img {
   max-width: 100%;
   height: auto;
+}
+
+/* Archive disclaimer banner */
+.archive-disclaimer {
+  background-color: rgba(139, 119, 42, 0.25);
+  border: 1px solid #8b772a;
+  color: #c8b560;
+  padding: 0.5rem 1rem;
+  margin-bottom: 1rem;
+  border-radius: 3px;
+  font-size: 0.85rem;
+  text-align: center;
+}
+
+/* Source badge for Manawydan posts */
+.source-badge {
+  display: inline-block;
+  background-color: #2a5a3a;
+  color: #8fc89e;
+  padding: 0.15rem 0.5rem;
+  border-radius: 3px;
+  font-size: 0.75rem;
+  margin-left: 0.5rem;
+  vertical-align: middle;
+}
+
+/* UO-style bullet points */
+.post-content ul {
+  list-style: none;
+  padding-left: 1.2em;
+}
+
+.post-content ul li::before {
+  content: '';
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  background-image: url('/images/bod.gif');
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin-right: 0.5em;
+  margin-left: -1.2em;
+  vertical-align: middle;
+}
+
+/* Screenshot gallery */
+.post-content img {
+  border: 1px solid #444;
+  border-radius: 3px;
+  margin: 0.5rem 0;
+}
+
+/* Compact post listing */
+.compact-post {
+  margin-bottom: 0.5rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.compact-post .post-title {
+  font-size: 1rem;
+  margin: 0;
+}
+
+.compact-post .post-meta {
+  margin-top: 0.15rem;
+}
+
+/* Category badge in listing */
+.post-category {
+  display: inline-block;
+  background-color: #2a3a5a;
+  padding: 0.1rem 0.4rem;
+  border-radius: 3px;
+  font-size: 0.7rem;
+  margin-left: 0.5rem;
+}
+
+.post-category a {
+  color: #8eafc8;
+  text-decoration: none;
+}
+
+/* Sitemap page */
+.sitemap-list {
+  columns: 2;
+  column-gap: 2rem;
+}
+
+.sitemap-list li {
+  margin-bottom: 0.3rem;
+  break-inside: avoid;
+}
+
+.sitemap-author {
+  color: #888;
+  font-size: 0.75rem;
+  margin-left: 0.3rem;
+}
+
+/* Separator between items in lists */
+.sep {
+  color: #555;
+  margin: 0 0.2em;
+}
+
+/* Archive page */
+.archive-list {
+  columns: 2;
+  column-gap: 2rem;
+}
+
+.archive-list li {
+  margin-bottom: 0.3rem;
+  break-inside: avoid;
+}
+
+@media (max-width: 600px) {
+  .sitemap-list,
+  .archive-list {
+    columns: 1;
+  }
 }

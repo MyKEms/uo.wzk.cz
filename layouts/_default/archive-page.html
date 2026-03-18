@@ -1,0 +1,29 @@
+{{ define "main" }}
+<article class="post">
+  <h1 class="post-title">{{ .Title }}</h1>
+  <div class="post-content">
+    {{ .Content }}
+
+    {{ $pages := where .Site.RegularPages "Type" "posts" }}
+    {{ $byYear := $pages.GroupByDate "2006" }}
+    {{ range $byYear }}
+      <h2 id="year-{{ .Key }}">{{ .Key }}</h2>
+      {{ $byMonth := .Pages.GroupByDate "January" }}
+      {{ range $byMonth }}
+        <h3>{{ .Key }}</h3>
+        <ul class="archive-list">
+          {{ range .Pages.ByTitle }}
+            <li>
+              <a href="{{ .Permalink }}">{{ .Title }}</a>
+              {{- range .Params.categories }}
+                <span class="sep">|</span> <span class="post-category"><a href="{{ (urlize (printf "categories/%s/" . )) | absLangURL }}">{{ . }}</a></span>
+              {{- end -}}
+              {{- if eq (.Params.source) "manawydan" }} <span class="sep">|</span> <span class="source-badge">MW</span>{{ end -}}
+            </li>
+          {{ end }}
+        </ul>
+      {{ end }}
+    {{ end }}
+  </div>
+</article>
+{{ end }}

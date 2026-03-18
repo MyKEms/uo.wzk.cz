@@ -5,6 +5,10 @@ slug: "axis-ii"
 draft: false
 categories:
   - "GM"
+tags:
+  - "Manawydan Archive"
+params:
+  source: manawydan
 ---
 
 ## Features
@@ -24,6 +28,16 @@ Latest version includes support for ART and MAP in the .uop file format.
 ## Downloads
 
   * [Axis2_Setup_2.0.4j.zip](</files/Axis2_Setup_2.0.4j.zip>)
+
+## Manawydan Archive Downloads
+
+> CZ: Program pro snadnější práci s UO.
+
+![Manawydan screenshot](axis2-mw.jpg)
+
+  * [Axis 2.0.1b (Manawydan)](/files/manawydan/sphere/Axis2_Setup_2.0.1b.exe) (133 KB)
+  * [Axis 2 Source Code](/files/manawydan/sphere/axis2_source.rar) (5.2 MB)
+  * [Axis 56b 1.2](/files/manawydan/sphere/axis_56_1_2.exe) (1.2 MB)
 
 ## Others
 
