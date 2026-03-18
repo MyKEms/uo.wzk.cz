@@ -5,6 +5,11 @@ slug: "pandoras-box3"
 draft: false
 categories:
   - "GM"
+tags:
+  - "Manawydan Archive"
+  - "Arya"
+params:
+  source: manawydan
 ---
 
 ## Features
@@ -22,6 +27,18 @@ Pandora’s Box it’s an Ultima Online utility for building and administrate sh
 ## Downloads
 
   * [PandorasBox3.0.0.5.zip](</files/PandorasBox3.0.0.5.zip>)
+
+## Manawydan Archive Downloads
+
+> CZ: Program pro GM na snadnější ovládání UO.
+
+![Manawydan screenshot](pandorasbox-mw.jpg)
+
+  * [Pandora’s Box 2.0.0.5 (Manawydan)](/files/manawydan/arya/pandorasbox2005.html) (1 MB)
+  * [Pandora’s Box 2.0.0.5 C# Source code](/files/manawydan/arya/pandorasbox2005source.rar) (1.84 MB)
+  * [Pandora’s Box 2.0.0.5 RunUO 2 update](/files/manawydan/arya/pandorasbox2005_runuo2.rar) (460 KB)
+  * [Pandora’s Box 2.0.0.7 update](/files/manawydan/arya/pandorasbox2007.rar) (353 KB)
+  * [Pandora’s Box 3.0.0.2](/files/manawydan/arya/pandorasbox3002.rar) (670 KB)
 
 ## Others
 

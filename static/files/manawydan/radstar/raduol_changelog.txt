@@ -1,0 +1,36 @@
+===========================================
+RadUOL Checker
+RadstaR (c) 2007
+http://ultima.lonet.cz
+===========================================
+
+  (+) new
+  (*) improved/modified
+  (o) fixed
+  (-) deleted
+
+===========================================
+1.2.0 (30.05.2007)
+  (+) Checkbox ROCK AS MOUNTAIN for skiping unmatchet groups ROCK and MOUNTAIN
+  (+) SHOW ERRORS button to show errors on bitmap
+  (+) Set checked coordinates by selecting size in menu
+  (o) Critical error in XML loading and parsing
+  (o) Errors window maximize
+  
+1.1.1 (04.05.2007)
+  (+) Zoom in errors window
+  
+1.1.0 Beta (27.04.2007)
+  (+) Show errors on Altitude bitmap after check is finished 
+  
+1.0.2 (21.04.2007)
+  (*) Improved speed with "Check unmatched groups" checked, if program found 50000 or more errors
+  (*) Percent indicator, buttons
+
+1.0.1 (20.04.2007)
+  (+) Autoscroll log windows
+  (*) Coordinates check
+  (*) Improved speed with "Check unmatched groups" checked
+
+1.0.0 (11.04.2007)
+  (+) First public version

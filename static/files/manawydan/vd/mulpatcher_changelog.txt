@@ -1,0 +1,64 @@
+Version 9.7 (03.02.07)
+	added option to load second art file and see differences
+
+Version 9.6 (06.01.07)
+	fixed Bug in Worldeditor loading WSC files
+
+Version 9.5 (02.01.07)
+	Added dezimal Ids to Animations
+	Added Progress Options to Sedin Tab
+
+Version 9.4 (10.09.06)
+	Added option to ignore an id when copying map parts
+	Fixed bug in output-format of extract static art
+	added GumpId label to Tiledata(Static)
+
+Version 9.3 (20.08.06)
+	added Features => Fix Bitmap
+
+Version 9.2 (27.07.06)
+	Fixed Bug in HueForm
+	Fixed Bug in Tiledata(M)
+
+Version 9.1 (12.07.06)
+	Added possibility for 8x8, 16x16 and 32x32 textures to textures.mul
+
+Version 9.0 (02.07.06)
+	Added new file format (that ist used by the palanthir client only at the moment) that supports full RGBA (tab progress)
+
+Version 8.9 (11.06.06)
+	Fixed bug that creating additional animslots did not work
+
+Version 8.8 (29.05.06)
+	Added option to delete Slots in Anim2, Anim3, Anim4 and Anim5
+	Added Option to create Heightmap that has its lowest level defined as true black (0 level in the image)
+
+Version 8.7 (21.05.06)
+	Added patching Anim2, Anim3, Anim4 and Anim5
+	Changed Support-Emailadresses to varan@uodev.de
+
+Version 8.6 (20.05.06)
+	Added Option to create Heightmap of a Map (Features tab)
+
+Version 8.5 (05.05.06)
+	fixed Bug for saving Statics as Textfile
+	fixed Bug changing Radarcol Values by Averaging function
+
+Version 8.4 (02.05.06)
+	Added Features => Save Statics as Textfile
+	
+Version 8.0-8.3
+	forgot to write down ;)
+
+Version 7.9 (19.02.06):
+	Fixed Bug in reading Anim3
+	Fixed Crashbug when one loads not existing Anim4 or Anim5
+	Fixed Crashbug in Patches
+
+Version 7.8 (08.02.06):
+	Changed handling of MarkAllInvisPixels
+
+Version 7.7 (05.02.06):
+	Added Features => MarkAllInvisPixels Button
+	Changed Backgroundcolor of extracted Anim-Bitmaps from black to white
+	(when you import images into Anim.mul, true black AND true white will be made invisible)

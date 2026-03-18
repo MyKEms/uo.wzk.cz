@@ -5,6 +5,10 @@ slug: "centred-plus"
 draft: false
 categories:
   - "Graphics"
+tags:
+  - "Manawydan Archive"
+params:
+  source: manawydan
 ---
 
 ## Features
@@ -18,6 +22,14 @@ categories:
 ## Downloads
 
   * [CentrED_Plus.zip](</files/CentrED_Plus.zip>)
+
+## Manawydan Archive Downloads
+
+> CZ: Program na vzdálenou úpravu souborů mapy.
+
+![Manawydan screenshot](centredplus-mw.jpg)
+
+  * [CentrED+ 0.7.7 (Manawydan)](/files/manawydan/centredplus77.7z) (2.78 MB)
 
 ## Others
 

@@ -1,0 +1,50 @@
+===========================================
+RadItems Database
+RadstaR © 2005-2007
+http://ultima.lonet.cz
+http://www.manawydan.cz
+===========================================
+
+  (+) nove
+  (*) vylepseno/upraveno
+  (o) opraveno
+  (-) odstraneno
+
+===========================================
+1.1.0 (01.01.2007)
+  (+) Lokalizace do anglictiny
+  (+) Ulozeni obrazku z databaze zpet do souboru
+  (*) Import BMP do databaze
+  (*) Aktualizace Database Engine na verzi 5.11
+
+1.0.5 Build 88 (22.10.2006)
+  (+) Automaticka oprava databaze pri zavreni programu (oprava vetsi databaze muze chvilku trvat)
+  (*) Aktualizace Database Engine na verzi 5.09
+  (o) Kriticka chyba pri uprave udaju databaze
+
+1.0.4 Build 83 (17.02.2006)
+  (+) Rozdeleni grafiky podle typu + dalsi veci s tim souvisejici
+  (*) Par dalsich zmen
+  (*) !!! Uprava databaze. Neni kompatibilni s predchozi verzi !!!
+
+1.0.3 Build 80 (12.02.2006)
+  (+) Vypis ID v HEX + hledani
+  (+) Kontrola vstupnich udaju u zadavani ID, Jmeno, Script
+  (*) Prejmenovani programu na RadItems Database
+  (*) Po upraveni zaznamu se prejde na dalsi polozku
+  
+1.0.2 Build 78 (03.02.2006)
+  (+) Jmeno itemu ve scriptu
+  (+) Zmena obrazku u itemu (bez nutnosti item nejdriv smazat). Pokud neni zadan zadny obrazek, puvodni se smaze
+  (o) Po editaci polozky se nepresune ukazatel na prvni polozku v seznamu
+
+1.0.1 Build 74 (20.03.2005)
+  (*) Zvetseni delky jmena itemu na 30 znaku.
+  
+1.0.1 Build 74 (09.03.2005)
+  (*) Zobrazeni HEX cisla za ID itemu.
+  (*) Vyhledavani nerozlisuje velka a mala pismena.
+  (*) Vyhledavani podle kategorie, podkategorie nemusi byt celym nazvem.
+
+1.0.0 Build 72 (08.03.2005)
+  (+) Prvni verze.
