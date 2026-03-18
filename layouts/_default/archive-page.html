@@ -11,21 +11,17 @@
       {{ $byMonth := .Pages.GroupByDate "January" }}
       {{ range $byMonth }}
         <h3>{{ .Key }}</h3>
-        <table class="tool-table">
+        <ul class="archive-list">
           {{ range .Pages.ByTitle }}
-            <tr>
-              <td class="tt-name"><a href="{{ .Permalink }}">{{ .Title }}</a></td>
-              <td class="tt-cat">
-                {{- range .Params.categories -}}
-                  <a href="{{ (urlize (printf "categories/%s/" . )) | absLangURL }}">{{ . }}</a>
-                {{- end -}}
-              </td>
-              <td class="tt-source">
-                {{- if eq (.Params.source) "manawydan" }}<span class="source-badge">MW</span>{{ end -}}
-              </td>
-            </tr>
+            <li>
+              <a href="{{ .Permalink }}">{{ .Title }}</a>
+              {{- range .Params.categories }}
+                <span class="sep">|</span> <span class="post-category"><a href="{{ (urlize (printf "categories/%s/" . )) | absLangURL }}">{{ . }}</a></span>
+              {{- end -}}
+              {{- if eq (.Params.source) "manawydan" }} <span class="sep">|</span> <span class="source-badge">MW</span>{{ end -}}
+            </li>
           {{ end }}
-        </table>
+        </ul>
       {{ end }}
     {{ end }}
   </div>
