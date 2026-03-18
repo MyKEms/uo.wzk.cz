@@ -50,4 +50,6 @@ Tools from the Manawydan archive are marked with a green **MW** badge throughout
 - [Authors](/tags/) — browse by tool author
 - [About](/about/) — full credits and disclaimer
 
+The source code for this site is on [GitHub](https://github.com/MyKEms/uo.wzk.cz) — contributions and bug reports are welcome.
+
 This is a preservation project. The tools are provided as-is. If you are an author and want your tool updated or removed, please get in touch.

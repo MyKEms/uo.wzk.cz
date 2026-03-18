@@ -42,4 +42,4 @@ This archive is maintained primarily as a resource for the development of [UO Er
 
 ## Technical details
 
-This site is built with [Hugo](https://gohugo.io/) using the [Terminal theme](https://github.com/panr/hugo-theme-terminal) and hosted on [Cloudflare Pages](https://pages.cloudflare.com/). The migration from WordPress (uo.wzk.cz) and static HTML (ultima.manawydan.cz) was completed in March 2026.
+This site is built with [Hugo](https://gohugo.io/) using the [Terminal theme](https://github.com/panr/hugo-theme-terminal) and hosted on [Cloudflare Pages](https://pages.cloudflare.com/). The source code is available on [GitHub](https://github.com/MyKEms/uo.wzk.cz). The migration from WordPress (uo.wzk.cz) and static HTML (ultima.manawydan.cz) was completed in March 2026.
