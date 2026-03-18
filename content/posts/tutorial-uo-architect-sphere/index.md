@@ -4,7 +4,7 @@ slug = "tutorial-uo-architect-sphere"
 date = 2006-07-26T00:00:00
 draft = false
 categories = ["Tutorials"]
-tags = ["Aramis", "Manawydan Archive"]
+tags = ["Aramis", "ultima.cz Archive"]
 
 [params]
   source = "ultima-cz"

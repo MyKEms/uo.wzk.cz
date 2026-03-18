@@ -4,7 +4,7 @@ slug = "tutorial-jak-na-animace"
 date = 2005-01-10T00:00:00
 draft = false
 categories = ["Tutorials"]
-tags = ["M@B", "Manawydan Archive"]
+tags = ["M@B", "ultima.cz Archive"]
 
 [params]
   source = "ultima-cz"
