@@ -134,47 +134,43 @@ body {
   text-decoration: none;
 }
 
-/* Tool tables (sitemap + archive) */
-.tool-table {
-  width: 100%;
-  border-collapse: collapse;
-  font-size: 0.9rem;
+/* Sitemap page */
+.sitemap-list {
+  columns: 2;
+  column-gap: 2rem;
 }
 
-.tool-table tr {
-  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+.sitemap-list li {
+  margin-bottom: 0.3rem;
+  break-inside: avoid;
 }
 
-.tool-table td {
-  padding: 0.3rem 0.5rem;
-  vertical-align: middle;
-  white-space: nowrap;
-}
-
-.tool-table .tt-name {
-  white-space: normal;
-}
-
-.tool-table .tt-cat,
-.tool-table .tt-cat a {
-  color: #8eafc8;
-  font-size: 0.8rem;
-  text-decoration: none;
-}
-
-.tool-table .tt-author {
+.sitemap-author {
   color: #888;
-  font-size: 0.8rem;
+  font-size: 0.75rem;
+  margin-left: 0.3rem;
 }
 
-.tool-table .tt-source {
-  width: 1%;
+/* Separator between items in lists */
+.sep {
+  color: #555;
+  margin: 0 0.2em;
 }
 
-.tool-table .tt-cat {
-  width: 1%;
+/* Archive page */
+.archive-list {
+  columns: 2;
+  column-gap: 2rem;
 }
 
-.tool-table .tt-author {
-  width: 1%;
+.archive-list li {
+  margin-bottom: 0.3rem;
+  break-inside: avoid;
+}
+
+@media (max-width: 600px) {
+  .sitemap-list,
+  .archive-list {
+    columns: 1;
+  }
 }

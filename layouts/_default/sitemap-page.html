@@ -7,21 +7,19 @@
     {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
       {{ $count := len $taxonomy.Pages }}
       <h2 id="{{ $name | urlize }}">{{ $name | humanize }} ({{ $count }})</h2>
-      <table class="tool-table">
+      <ul class="sitemap-list">
         {{ range $taxonomy.Pages.ByTitle }}
-          <tr>
-            <td class="tt-name"><a href="{{ .Permalink }}">{{ .Title }}</a></td>
-            <td class="tt-source">
-              {{- if eq (.Params.source) "manawydan" }}<span class="source-badge">MW</span>{{ end -}}
-            </td>
-            <td class="tt-author">
-              {{- range .Params.tags -}}
-                {{- if ne . "Manawydan Archive" }}{{ . }}{{ end -}}
+          <li>
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+            {{- if eq (.Params.source) "manawydan" }} <span class="sep">|</span> <span class="source-badge">MW</span>{{ end -}}
+            {{- range .Params.tags }}
+              {{- if ne . "Manawydan Archive" }}
+                <span class="sep">|</span> <span class="sitemap-author">{{ . }}</span>
               {{- end -}}
-            </td>
-          </tr>
+            {{- end -}}
+          </li>
         {{ end }}
-      </table>
+      </ul>
     {{ end }}
   </div>
 </article>
