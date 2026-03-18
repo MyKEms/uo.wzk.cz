@@ -29,6 +29,12 @@
   weight = 40
 
 [[main]]
+  identifier = "archive"
+  name = "Archive"
+  url = "/archive/"
+  weight = 45
+
+[[main]]
   identifier = "about"
   name = "About"
   url = "/about/"
