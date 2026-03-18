@@ -38,7 +38,7 @@ If you are an author of any tool archived here and would like it removed or upda
 
 ## UO Erebor
 
-This archive is maintained primarily as a resource for the development of [UO Erebor](http://uoerebor.cz/) — a Czech Ultima Online shard administered by MyKE. The tools collected here are actively used for world building, custom graphics, and server development on Erebor.
+This archive is maintained primarily as a resource for the development of [UO Erebor](http://uoerebor.cz/) — a Czech Ultima Online shard run by the Erebor game masters. The tools collected here are actively used for world building, custom graphics, and server development on Erebor.
 
 ## Technical details
 
