@@ -1,17 +1,41 @@
 [[main]]
-  identifier = "tools"
-  name = "Tools"
-  url = "/categories/graphics/"
+  identifier = "home"
+  name = "Home"
+  url = "/"
   weight = 10
 
 [[main]]
-  identifier = "client"
-  name = "Client Tools"
-  url = "/categories/client/"
-  weight = 20
+  identifier = "sitemap"
+  name = "All Tools"
+  url = "/sitemap/"
+  weight = 15
 
 [[main]]
   identifier = "categories"
-  name = "All Categories"
+  name = "Categories"
   url = "/categories/"
+  weight = 20
+
+[[main]]
+  identifier = "authors"
+  name = "Authors"
+  url = "/tags/"
   weight = 30
+
+[[main]]
+  identifier = "tutorials"
+  name = "Tutorials"
+  url = "/categories/tutorials/"
+  weight = 40
+
+[[main]]
+  identifier = "archive"
+  name = "Archive"
+  url = "/archive/"
+  weight = 45
+
+[[main]]
+  identifier = "about"
+  name = "About"
+  url = "/about/"
+  weight = 50

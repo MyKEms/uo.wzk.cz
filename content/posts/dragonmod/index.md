@@ -5,6 +5,10 @@ slug: "dragonmod"
 draft: false
 categories:
   - "Graphics"
+tags:
+  - "Manawydan Archive"
+params:
+  source: manawydan
 ---
 
 ## Features
@@ -47,6 +51,19 @@ Dragon is very flexible and customizable as to editing the color pallet to your 
       * ![](Dragon-IMOD13-wasteland.jpg)
   * [UO-DragonMod11-MakingMapTutorial.pdf](<https://uo.wzk.cz/wp-content/uploads/sites/7/2017/07/UO-DragonMod11-MakingMapTutorial.pdf>)
   * [FAQ-Dragon-Problems.pdf](<https://uo.wzk.cz/wp-content/uploads/sites/7/2017/07/FAQ-Dragon-Problems.pdf>)
+
+## Manawydan Archive Downloads
+
+> CZ: Program na vygenerování mapy (MAPx.mul) z BMP obrázku.
+>
+> EN: Program generate map (MAPx.mul) from BMP picture.
+
+![Manawydan screenshot](dragon-mw.jpg)
+
+  * [Dragon Mod 9 (Manawydan)](/files/manawydan/dragon_mod9.rar) (901 KB)
+  * [Dragon Mod 9 Plus](/files/manawydan/dragon_mod9plus.rar) (74 KB)
+  * [Dragon Mod 10](/files/manawydan/dragon_mod10.rar) (1.12 MB)
+  * [Dragon Mod 11](/files/manawydan/dragon_mod11.rar) (2.46 MB)
 
 ## Others
 

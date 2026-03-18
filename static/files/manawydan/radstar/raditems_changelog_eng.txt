@@ -1,0 +1,15 @@
+===========================================
+RadItems Database
+RadstaR © 2005-2007
+http://ultima.lonet.cz
+http://www.manawydan.cz
+===========================================
+
+  (+) new
+  (*) improved/modified
+  (o) fixed
+  (-) deleted
+
+===========================================
+1.1.0 (01.01.2007)
+  (+) First english release

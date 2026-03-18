@@ -1,0 +1,36 @@
+===========================================
+RadUOL Checker
+RadstaR (c) 2007
+http://ultima.lonet.cz
+===========================================
+
+  (+) nove
+  (*) vylepseno/upraveno
+  (o) opraveno
+  (-) odstraneno
+
+===========================================
+1.2.0 (30.05.2007)
+  (+) Moznost preskocit nesouhlasici skupiny ROCK a MOUNTAIN zasktnutim ROCK AS MOUNTAIN
+  (+) Tlacitko SHOW ERRORS na zobrazeni nalezenych chyb v BMP obrazku
+  (+) Nastaveni kontrolovanych souradnic vybranim mapy v menu
+  (o) Kriticka chyba pri nacitani definic z XML souboru
+  (o) Zobrazeni okna s chybama pri zvetseni
+
+1.1.1 (04.05.2007)
+  (+) Zoomovani v okne se zobrazenim chyb
+
+1.1.0 Beta (27.04.2007)
+  (+) Po dokonceni kontroly si muzete zobrazit nalezene chyby v Altitude obrazku 
+
+1.0.2 (21.04.2007)
+  (*) Opet zrychleni kontroly "Check unmatched groups", pokud pocer chyb je vetsi nez 50000
+  (*) Ukazatel procent, tlacitka
+
+1.0.1 (20.04.2007)
+  (+) Mozno zapnuti automatickeho posunu oken s vypisem
+  (*) Kontrola zadanych souradnic
+  (*) Zrychleni kontroly pri zapnutem "Check unmatched groups"
+
+1.0.0 (11.04.2007)
+  (+) Prvni verejna verze

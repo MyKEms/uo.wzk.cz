@@ -1,0 +1,62 @@
+Version 0.6.3
+This version is mainly a bug fix release. There were several crashes reported on the forum and the bug tracker that should be fixed now. In more detail:
+
+    Fixed crash when opening the filter dialog (#87)
+    Fixed crash when performing Undo (#88)
+    Fixed crash when moving items (#89)
+
+Version 0.6.2
+The most important change is probably the support for the new Tiledata from the High Seas expansion. Here is the full list of changes:
+
+    Added random pool for hues
+    Added more infos to the account list (for admins)
+    Added sorting to account list
+    Fixed possible crash with light sources enabled
+    Added support for new tiledata from High Seas expansion
+
+Version 0.6.1
+Since there were some annoying bugs in the 0.6 release, I quickly pushed out 0.6.1 to fix these. Also on board is a new feature that should help map building:
+
+    * Added highlighting for (un)walkable tiles (surfaces that can be walked on are green, others red)
+    * Added optional white map-background
+    * Fixed static drawing order (again)
+    * Fixed flickering that occured in some cases
+    * Fixed server not always saving changes
+
+Version 0.6
+Another bunch of ideas and fixes found its way into CentrED. Ladies and Gentlemen, the new version proudly presents:
+
+    * Added rendering of lightsources
+    * Added buttons to the largescale and region dialogs to pick locations from the game window
+    * Added support for larger tiledata/animdata/art files
+    * Added ability to define custom "nodraw" tiles (see Wiki)
+    * Changed static tile render order
+    * Changed translucent tiles to be more opaque
+    * Changed the format of locations and random presets to be less fragile
+    * Fixed a crash related to the Virtual Layer
+    * Fixed several smaller bugs
+    * Fixed serverside memory leak
+
+Due to the new support for more static tiles, I also released a new server version.
+Unfortunately I also had to change the file format for Locations and Random Presets (again). The way they are stored now should not be necessary to change in the future, so please bear with me for this (final) change.
+
+Version 0.5
+After weeks of work a new version is ready to be used by the public. This is a completely client-centric release with complete compatibility to the current server versions.
+Among the new features you can find much of what the community had requested for a long time:
+
+    * Completely reworked rendering (should be much faster now)
+    * Added one-step UnDo
+    * Added support for animated tiles
+    * Added optional height information to flat mode
+    * Added keyboard movement (NumPad, Arrow Keys, WSAD)
+    * Added live-preview for drawing operations
+    * Changed config path to be within the home directory
+      - Local AppData on Windows
+      - $HOME/.config on Linux
+    * Added options to toggle animations and security questions
+    * Added (re)storing of options on start/exit
+    * Added highlight of target regions to the LargeScaleCommand window
+    * Optimized memory handling to adjust for larger requirements
+    * Several internal fixes and cleanups
+
+Many thanks to my staff at the DragonCastle Freeshard and to the staff of the Siebenwind Freeshard who both helped me much with testing and feedback.

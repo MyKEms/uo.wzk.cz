@@ -5,6 +5,11 @@ slug: "region-editor"
 draft: false
 categories:
   - "RunUO"
+tags:
+  - "Manawydan Archive"
+  - "Arya"
+params:
+  source: manawydan
 ---
 
 ## Features
@@ -34,6 +39,18 @@ Hopefully this application will help everyone that needs to work on their region
 ## Downloads
 
   * Region Editor for RunUO SVN 663 –****[Region Editor 1.7.zip](</files/Region-Editor-1.7.zip>)
+
+## Manawydan Archive Downloads
+
+> CZ: Program pro generování XML souboru s regiony pro RunUO.
+
+![Manawydan screenshot](regioneditor-mw.jpg)
+
+  * [Region Editor (Manawydan)](/files/manawydan/arya/regioneditor.rar) (203 KB)
+  * [Region Editor C# Source](/files/manawydan/arya/regioneditorsource.rar) (55 KB)
+  * [Region Editor 2 C# Source](/files/manawydan/arya/regioneditor2source.rar) (55 KB)
+  * [Region Editor for RunUO 2](/files/manawydan/arya/regioneditorrunuo2.rar) (311 KB)
+  * [Region Editor RunUO 2 C# Source](/files/manawydan/arya/regioneditorrunuo2source.rar) (72 KB)
 
 ## Others
 

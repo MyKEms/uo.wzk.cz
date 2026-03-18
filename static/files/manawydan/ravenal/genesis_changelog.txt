@@ -1,0 +1,38 @@
+2.5.2f -- 8/13/2009
+================================
+- Fixed a crash that cause the transition editor to not function, due to adding new registry entries.
+- Fixed an issue with the registry editor to NOT inherit or add the parent and as well new entries.
+- Fixed an issue with Altitude, Patterns, and Static Maps not to inherit the new entries from it's parent, or as well new custom entries as well.
+- Transition Editor will now add a new file data entry into the terrain your working. For example, if you add a new terrain id number 58 (Snow Forest) and do more registry pattern entries, it will add those to the Snow Forest entry #58.
+- Added new Transition Snow Forest, not complete but this was for testing purpose.
+- NOTE: Make sure you at least do custom transitions or terrain at ID 150 to 254 terrains.
+
+2.5.2e -- 8/11/2009
+================================
+- Fixed a crash that will cause the registry editor on save when removing or adding more data when it has no more room in the list.
+
+2.5.2d -- 8/7/2009
+================================
+- Fixed the Terrain Core Database it was not updating the terrains like so, which caused a big problem with the Transition Compiler.
+- Fixed a bug with Sand having an extra entry when it should have not had it, one of the reasons why the transition compiler crashed.
+- Fixed a bug in regards to the Patterns not updating, and that the data entries we're not loading correctly.
+- Added Support for Inheritance to the Pattern Editor.
+- Added Support for Inheritance to the Altitude Editor.
+- Added Support for Inheritance to the Static Set Editor.
+- Added Support for Inheritance to the Static Theme Editor.
+- Added Support for Inheritance to the Transition Manager.
+- Added Support for Inheritance to the Terrain & Altitude Color Editor.
+- Added Support for Inheritance to the Transition Editor.
+
+2.5.2c -- 7/31/2009
+================================
+- Added a new PackedValue into the Importer Functionality, so you can either do RGB or Web Hex of the PackedValue for example... PackedValue="3f3f3f" which is the same as R="63" G="63" B="63".
+- Added Dragon MOD 9 Importer for those who used Dragon in the past and want to convert to Genesis 2. Understand, the importer is not 100% perfect and will try to convert the best of it's ability. It should help, the terrain file is what really matters, the altitude file can be redone for most users, but Genesis 2 will still convert to both :)...
+- Added a new Swatch Color Chart that is exported with the ACO, ACT Files...
+- Note, Dragon importing takes more time than other importing based because of the single file, therefore for this to happen, it has to do a double lookup for each Altitude & Terrain for a Dragon based Map. Although you only need to import once anyway =).
+
+2.5.2b -- 7/29/2009
+================================
+- Fixed the Update Database so that if your not yet register it'll notify you instead of doing nothing.
+- Fixed it so that Forum Login (If you cancel) it will not popup again ever, if you need to fix your login information you can do so in the Forum Options under Tools -> Options and select Forum Options. You will then fill in username, and password (Encrypted), and press Update Unique ID... After doing this you will be able to update the core database.
+- Apparently Genesis 2.5.1a was still showing as the version, I appologize for this, it has been fixed in this release.
