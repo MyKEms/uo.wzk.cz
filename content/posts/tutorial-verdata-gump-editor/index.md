@@ -4,7 +4,7 @@ slug = "tutorial-verdata-gump-editor"
 date = 2014-08-21T00:00:00
 draft = false
 categories = ["Tutorials"]
-tags = ["Lynx", "Manawydan Archive"]
+tags = ["Lynx", "ultima.cz Archive"]
 
 [params]
   source = "ultima-cz"
