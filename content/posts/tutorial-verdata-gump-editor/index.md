@@ -16,6 +16,8 @@ GUMP Editor je momentálně nejlepší program pro úpravu gumpů (grafická sta
 
 Program se nijak neinstaluje, pouze si nakopírujete na harddisk a spustíte. Poté nastavte v Settings cesty k souborům.
 
+![](UO0009.jpg)
+
 ## Menu
 
 ### FILE
@@ -27,16 +29,30 @@ Insert, Add, Delete, Clear, Sort, Save as BMP, Save as DAT, to Clipboard, from C
 ### OPTIONS
 ToolBar, Transparent, FET, Preferences
 
+![](UO0005.jpg)
+
+![](UO0006.jpg)
+
 ## Postup tvorby patche
 
 1. Otevřete verdata.mul soubor pomocí **Open**
 2. V levém okně najděte požadovaný předmět pomocí kurzorových kláves
 3. Klikněte pravým tlačítkem na náhled a vyberte **Save as BMP**
+
+![](UO0007.jpg)
+
+![](UO0008.jpg)
+
 4. Upravte obrázek v grafickém programu
 5. Doporučuji ukládat obrázky pod čísly, kterými je gump ve verdatech označený
 6. Vytvořte nový soubor (**File > New**) a vkládejte upravené gumpy podle jejich čísel
 7. Označte všechny upravené gumpy (Shift + kurzorová klávesa)
 8. Klikněte **File > Save As** a uložte soubor pod názvem **PATCHDATA.DAT**
+
+![](UO0011.jpg)
+
+![](UO0012.jpg)
+
 9. Zkopírujte program **VerdataPatcher.exe** a vytvořený patch do UO složky a spusťte
 
 **Důležité:** To co je v obrázku černé bude ve hře díra. Při úpravách zachovejte správná čísla gumpů.
