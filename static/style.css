@@ -35,7 +35,7 @@ body {
 }
 
 /* UO bullet icons in top menu */
-.menu a::before {
+.navigation-menu__inner > li > a::before {
   content: '';
   display: inline-block;
   width: 14px;
