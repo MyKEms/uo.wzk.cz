@@ -44,7 +44,7 @@ The intention behind this is, that the only available GodClient is rather old an
 ## Downloads
 
   * [CentrED_win_linux_server_client.zip](</files/CentrED_win_linux_server_client.zip>)
-  * [CentrED_Manual.pdf](<https://uo.wzk.cz/wp-content/uploads/sites/7/2017/07/CentrED_Manual.pdf>)
+  * CentrED_Manual.pdf (no longer available — was hosted on the original WordPress site)
 
 ## Manawydan Archive Downloads
 

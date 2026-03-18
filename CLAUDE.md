@@ -6,7 +6,7 @@ Combined Ultima Online tools archive merging two sources:
 - **uo.wzk.cz** — MyKE's UO tools collection (migrated from WordPress, March 2026)
 - **ultima.manawydan.cz** — RadstaR's comprehensive UO tools archive (2004-2016), cached by Golfin on UO Erebor servers, merged March 2026
 
-Hugo static site hosted on Cloudflare Pages. This is a frozen archive site — ~107 tool/tutorial posts total.
+Hugo static site hosted on Cloudflare Pages. Maintained as a resource for [UO Erebor](http://uoerebor.cz/) shard development. ~108 posts total.
 
 ## Tech stack
 
@@ -32,6 +32,9 @@ Hugo static site hosted on Cloudflare Pages. This is a frozen archive site — ~
 - `partials/logo.html` — custom logo with UO image + text (overrides theme's escaped logoText)
 - `partials/disclaimer.html` — site-wide archive disclaimer banner
 - `_default/single.html` — overrides theme single.html to show "Manawydan Archive" source badge on posts with `params.source: manawydan`
+- `_default/list.html` — compact post listing (title + category badge, no images/summaries)
+- `_default/archive-page.html` — archive grouped by year/month (used by `content/archive.md`)
+- `_default/sitemap-page.html` — all tools index by category (used by `content/sitemap.md`)
 - `_default/_markup/render-image.html` — resolves page bundle images to absolute paths
 
 ## Custom styling
@@ -72,11 +75,12 @@ hugo server -D
 
 ## Content structure
 
-- **107 posts** in `content/posts/` (17 original + 86 new from Manawydan + 4 tutorials)
-- **1 standalone page**: `content/about.md` — archive info and credits
-- **Categories**: Graphics, Client, GM, Server, Sphere, UOKR, Tutorials
+- **108 posts** in `content/posts/` (17 original + 86 new from Manawydan + 4 tutorials + 1 news)
+- **Standalone pages**: `content/about.md`, `content/archive.md`, `content/sitemap.md`
+- **Categories**: Graphics, Client, GM, Server, Sphere, UOKR, Tutorials, News
 - **Tags**: Author names (RadstaR, Arya, Kons, Orbsydia, Punt, Ravenal, VD) + "Manawydan Archive"
 - Posts from Manawydan have `params.source: manawydan` in frontmatter (shows badge on page)
+- **Navigation**: Home, All Tools, Categories, Authors, Tutorials, Archive, About (7 items, `showMenuItems = 7`)
 
 ## Important notes
 
@@ -86,3 +90,5 @@ hugo server -D
 - This site is essentially frozen/archival — new content is unlikely
 - Images were unwrapped from clickable links to avoid 404s on listing pages
 - Manawydan posts use date 2012-01-01 (archive date), tutorials use 2010-01-01
+- The `dev` preview loads CSS from production (due to `baseURL`), so CSS-only changes are not visible on dev — must merge to `main` to verify
+- UO bullet icons (bod.gif) are inlined as base64 in style.css for the top navigation
