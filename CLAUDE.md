@@ -40,7 +40,12 @@ Ultima Online tools archive by MyKE. Hugo static site hosted on Cloudflare Pages
 
 ## Deployment
 
-Push to `main` triggers GitHub Actions → Hugo build → Cloudflare Pages deploy (~30s).
+Push to `main` or `dev` triggers GitHub Actions → Hugo build → Cloudflare Pages deploy (~30s).
+
+- **`main`** (production) → `uo.wzk.cz` (also `uo-wzk-cz.pages.dev`)
+- **`dev`** (preview) → `dev.uo-wzk-cz.pages.dev`
+
+Cloudflare Pages production branch is set to `main` in the dashboard. The `--branch` flag in the workflow tells Cloudflare which environment to deploy to.
 
 ### GitHub Secrets required
 
