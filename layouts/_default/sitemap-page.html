@@ -11,10 +11,10 @@
         {{ range $taxonomy.Pages.ByTitle }}
           <li>
             <a href="{{ .Permalink }}">{{ .Title }}</a>
-            {{- if eq (.Params.source) "manawydan" }} <span class="source-badge">MW</span>{{ end -}}
+            {{- if eq (.Params.source) "manawydan" }} <span class="sep">|</span> <span class="source-badge">MW</span>{{ end -}}
             {{- range .Params.tags }}
               {{- if ne . "Manawydan Archive" }}
-                <span class="sitemap-author">{{ . }}</span>
+                <span class="sep">|</span> <span class="sitemap-author">{{ . }}</span>
               {{- end -}}
             {{- end -}}
           </li>
