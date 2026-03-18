@@ -81,3 +81,57 @@ body {
   border-radius: 3px;
   margin: 0.5rem 0;
 }
+
+/* Compact post listing */
+.compact-post {
+  margin-bottom: 0.5rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.compact-post .post-title {
+  font-size: 1rem;
+  margin: 0;
+}
+
+.compact-post .post-meta {
+  margin-top: 0.15rem;
+}
+
+/* Category badge in listing */
+.post-category {
+  display: inline-block;
+  background-color: #2a3a5a;
+  padding: 0.1rem 0.4rem;
+  border-radius: 3px;
+  font-size: 0.7rem;
+  margin-left: 0.5rem;
+}
+
+.post-category a {
+  color: #8eafc8;
+  text-decoration: none;
+}
+
+/* Sitemap page */
+.sitemap-list {
+  columns: 2;
+  column-gap: 2rem;
+}
+
+.sitemap-list li {
+  margin-bottom: 0.3rem;
+  break-inside: avoid;
+}
+
+.sitemap-author {
+  color: #888;
+  font-size: 0.75rem;
+  margin-left: 0.3rem;
+}
+
+@media (max-width: 600px) {
+  .sitemap-list {
+    columns: 1;
+  }
+}
