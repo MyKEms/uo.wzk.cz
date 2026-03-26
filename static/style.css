@@ -82,6 +82,11 @@ body {
   color: #c8a868;
 }
 
+.source-badge--toolbox {
+  background-color: #2a3a5a;
+  color: #8eafd8;
+}
+
 /* UO-style bullet points */
 .post-content ul {
   list-style: none;

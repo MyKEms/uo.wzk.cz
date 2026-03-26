@@ -6,20 +6,23 @@ draft: false
 
 ## What is this?
 
-This is a combined archive of Ultima Online development tools from two Czech community websites that no longer exist:
+This is a combined archive of Ultima Online development tools from multiple community sources:
 
 - **uo.wzk.cz** — MyKE's UO tools collection (2009-2017)
 - **ultima.manawydan.cz** — RadstaR's comprehensive UO tools archive, originally at eranova.cz (2004-2016), later hosted by Manawydan.cz
+- **ultima.cz** — Czech UO community tutorials (2003-2014)
+- **[UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019)** — archive.org collection of 160+ UO shard development tools (2019), Public Domain
 
-Together, this archive preserves **100+ tools** for Ultima Online client modding, server emulation, map editing, and graphics work — the largest known Czech collection of UO development resources.
+Together, this archive preserves **185+ tools and tutorials** for Ultima Online client modding, server emulation, map editing, and graphics work — the largest known Czech collection of UO development resources.
 
 ## What's archived here?
 
-- **Graphics tools** — Map editors (WorldForge, CentrED, RadMap), static/item editors (UOFiddler, InsideUO, MulPatcher), animation tools, gump editors, tiledata editors
-- **Server emulators** — RunUO (multiple versions), SunUO, GemUO
-- **GM tools** — Pandora's Box, Region Editor, Location Editor
-- **Client tools** — UO Rice, Axis, UOSA Loader, Iris Framework
-- **Sphere scripts** — Server script collections
+- **Graphics tools** — Map editors (WorldForge, CentrED, RadMap), static/item editors (UOFiddler, InsideUO, MulPatcher), animation tools, gump editors, tiledata editors, Mythic Package Editor
+- **Server emulators** — RunUO, ServUO, SunUO, GemUO, POL Server, UOX3, WolfPack, Sphere Server
+- **Server frameworks** — XMLSpawner, Vita-Nex Core, UltimaLive, script collections
+- **GM tools** — Pandora's Box, Region Editor, Location Editor, UO Spawn Map, Wedding Setup
+- **Client tools** — Razor, UOSteam, UOAM, ConnectUO, OrionUO, UO Rice, Axis, UOSA Loader, Iris Framework
+- **Sphere tools** — Dialog Studio, SphereScripter, SphereService, script editors and generators
 - **UOKR/SA tools** — Tools for the Kingdom Reborn and Stygian Abyss clients
 - **Tutorials** — Czech-language guides for creating items, animations, buildings, and working with MUL files
 
@@ -39,6 +42,16 @@ If you are an author of any tool archived here and would like it removed or upda
 ## UO Erebor
 
 This archive is maintained primarily as a resource for the development of [UO Erebor](http://uoerebor.cz/) — a Czech Ultima Online shard run by the Erebor game masters. The tools collected here are actively used for world building, custom graphics, and server development on Erebor.
+
+## External Resources
+
+Other community archives and mirrors preserving Ultima Online development tools:
+
+- **[Ashkantra UO Mirror](https://mirror.ashkantra.de/)** — large download mirror of UO clients, tools, emulators, source code, and shard scripts (preserving since 2000)
+- **[CentrED#](https://github.com/kaczynskid/centern)** — actively developed map editor on GitHub (C# rewrite of CentrED+)
+- **[ServUO](https://github.com/ServUO/ServUO)** — actively maintained RunUO-based server emulator
+- **[ClassicUO](https://github.com/ClassicUO/ClassicUO)** — open-source Ultima Online client
+- **[UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019)** — archive.org ISO with 160+ UO tools (source of our Toolbox Archive posts)
 
 ## Technical details
 

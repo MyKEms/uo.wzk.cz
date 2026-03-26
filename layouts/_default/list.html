@@ -22,6 +22,9 @@
           {{- if eq (.Params.source) "manawydan" -}}
             <span class="source-badge">Manawydan Archive</span>
           {{- end -}}
+          {{- if eq (.Params.source) "toolbox" -}}
+            <span class="source-badge source-badge--toolbox">Toolbox Archive</span>
+          {{- end -}}
         </div>
       </article>
     {{ end }}
