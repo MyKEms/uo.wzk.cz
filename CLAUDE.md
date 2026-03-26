@@ -2,12 +2,13 @@
 
 ## What is this
 
-Combined Ultima Online tools archive merging three sources:
+Combined Ultima Online tools archive merging four sources:
 - **uo.wzk.cz** — MyKE's UO tools collection (migrated from WordPress, March 2026)
 - **ultima.manawydan.cz** — RadstaR's comprehensive UO tools archive (2004-2016), cached by Golfin on UO Erebor servers, merged March 2026
 - **ultima.cz** — Czech UO community tutorials (2003-2014), cached March 2026
+- **[UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019)** — archive.org collection of 160+ UO shard development tools (Public Domain, 2019), merged March 2026
 
-Hugo static site hosted on Cloudflare Pages. Maintained as a resource for [UO Erebor](http://uoerebor.cz/) shard development. ~115 posts total.
+Hugo static site hosted on Cloudflare Pages. Maintained as a resource for [UO Erebor](http://uoerebor.cz/) shard development. ~185 posts total.
 
 ## Tech stack
 
@@ -33,7 +34,7 @@ Hugo static site hosted on Cloudflare Pages. Maintained as a resource for [UO Er
 - `partials/footer.html` — clean footer "© YYYY MyKE" + Cloudflare analytics + disclaimer partial
 - `partials/logo.html` — custom logo with UO image + text (overrides theme's escaped logoText)
 - `partials/disclaimer.html` — site-wide archive disclaimer banner
-- `_default/single.html` — overrides theme single.html to show "Manawydan Archive" source badge on posts with `params.source: manawydan`
+- `_default/single.html` — overrides theme single.html to show source badges on posts (`params.source: manawydan`, `ultima-cz`, or `toolbox`)
 - `_default/list.html` — compact post listing (title + category badge, no images/summaries)
 - `_default/archive-page.html` — archive grouped by year/month (used by `content/archive.md`)
 - `_default/sitemap-page.html` — all tools index by category (used by `content/sitemap.md`)
@@ -51,6 +52,15 @@ Hugo static site hosted on Cloudflare Pages. Maintained as a resource for [UO Er
 
 - **Original (uo.wzk.cz)**: 27 ZIP files in `static/files/`. Posts reference them as `/files/filename.zip`.
 - **Manawydan archive**: ~170 files in `static/files/manawydan/` with subdirectories by author (arya/, kons/, orbsydia/, punt/, radstar/, ravenal/, runuo/, sphere/, uokr/, vd/). Posts reference them as `/files/manawydan/...`. Total ~172MB.
+- **Toolbox archive**: 62 ZIP files in `static/files/toolbox/`. Posts reference them as `/files/toolbox/filename.zip`. Total ~132MB. Files over 25MB (Cloudflare Pages limit) are hosted on Cloudflare R2 — see R2 section below.
+
+### Large files (Cloudflare R2)
+
+7 tools exceed Cloudflare Pages' 25MB per-file limit and need R2 hosting:
+- OrionUO-master.zip (27MB), JustUO.zip (77MB), polserver-master.zip (101MB)
+- Sphere.zip (128MB), ASSORTED SCRIPTS.zip (65MB), UOCartographer.zip (29MB), Remote Control.zip (75MB)
+- Staged in `~/Downloads/toolbox-r2/` for upload to a Cloudflare R2 bucket
+- R2 bucket: TBD (10GB free tier, free egress)
 
 ## Deployment
 
@@ -77,11 +87,11 @@ hugo server -D
 
 ## Content structure
 
-- **115 posts** in `content/posts/` (17 original + 86 from Manawydan + 4 MW tutorials + 7 ultima.cz tutorials + 1 news)
+- **185 posts** in `content/posts/` (6 original + 103 from Manawydan + 7 ultima.cz tutorials + 69 from Toolbox Archive)
 - **Standalone pages**: `content/about.md`, `content/archive.md`, `content/sitemap.md`
 - **Categories**: Graphics, Client, GM, Server, Sphere, UOKR, Tutorials, News
-- **Tags**: Author names (RadstaR, Arya, Kons, Orbsydia, Punt, Ravenal, VD, Lynx, M@B, Marty, Aramis) + "Manawydan Archive" + "ultima.cz Archive"
-- **Source badges**: `params.source: manawydan` shows green "MW" badge, `params.source: ultima-cz` shows brown "UCZ" badge
+- **Tags**: Author names (RadstaR, Arya, Kons, Orbsydia, Punt, Ravenal, VD, Lynx, M@B, Marty, Aramis) + "Manawydan Archive" + "ultima.cz Archive" + "Toolbox Archive" + "RunUO"
+- **Source badges**: `params.source: manawydan` shows green "MW" badge, `params.source: ultima-cz` shows brown "UCZ" badge, `params.source: toolbox` shows blue "TB" badge
 - **Navigation**: Home, All Tools, Categories, Authors, Tutorials, Archive, About (7 items, `showMenuItems = 7`)
 
 ## Important notes
@@ -92,6 +102,7 @@ hugo server -D
 - This site is essentially frozen/archival — new content is unlikely
 - Images were unwrapped from clickable links to avoid 404s on listing pages
 - Manawydan posts use date 2012-01-01 (archive date), tutorials use 2010-01-01
+- Toolbox Archive posts use date 2019-03-31 (ISO archive date)
 - The `dev` preview loads CSS from production (due to `baseURL`), so CSS-only changes are not visible on dev — must merge to `main` to verify
 - UO bullet icons (bod.gif) are inlined as base64 in style.css for the top navigation
 - **After every content or structural change, update README.md and CLAUDE.md** to keep post counts, author lists, and documentation in sync

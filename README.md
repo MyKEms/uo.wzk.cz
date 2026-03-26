@@ -2,11 +2,12 @@
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
-Ultima Online tools archive — the largest Czech collection of UO development resources. Combines two archived sites:
+Ultima Online tools archive — the largest Czech collection of UO development resources. Combines four sources:
 
 - **uo.wzk.cz** — MyKE's UO tools collection (2009-2017)
 - **ultima.manawydan.cz** — RadstaR's UO tools archive (2004-2016), cached by Golfin on UO Erebor servers
 - **ultima.cz** — Czech UO community tutorials (2003-2014) by Lynx, M@B, Marty, Aramis
+- **[UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019)** — archive.org collection of 160+ UO tools (Public Domain, 2019)
 
 Maintained as a resource for [UO Erebor](http://uoerebor.cz/) shard development.
 
@@ -14,12 +15,12 @@ Maintained as a resource for [UO Erebor](http://uoerebor.cz/) shard development.
 
 ## Content
 
-- **115 tool/tutorial posts** — map editors, graphics tools, animation convertors, server emulators, GM tools
-- **~200 download files** (~200 MB) — original archives preserved as-is
+- **185 tool/tutorial posts** — map editors, graphics tools, animation convertors, server emulators, client assistants, GM tools, scripting utilities
+- **~260 download files** (~353 MB) — original archives preserved as-is
 - **11 Czech tutorials** — items, animations, buildings, verdata/MUL files, map generation, building philosophy
 - **Categories:** Graphics, Client, GM, Server, Sphere, UOKR, Tutorials, News
 - **Author tags:** RadstaR, Arya, Orbsydia, Punt, Kons, Ravenal, VD, Lynx, M@B, Marty, Aramis
-- **Sources:** Posts tagged by origin — MW (Manawydan Archive), UCZ (ultima.cz Archive)
+- **Sources:** Posts tagged by origin — MW (Manawydan Archive), UCZ (ultima.cz Archive), TB (Toolbox Archive)
 
 ## Stack
 
@@ -74,7 +75,7 @@ Push to `main` or `dev` triggers GitHub Actions → Hugo build → Cloudflare Pa
 uo.wzk.cz/
 ├── config/_default/              # hugo.toml, params.toml, menus.toml
 ├── content/
-│   ├── posts/slug/index.md       # Page bundles (108 tool/tutorial posts)
+│   ├── posts/slug/index.md       # Page bundles (185 tool/tutorial posts)
 │   ├── about.md                  # About/credits page
 │   ├── archive.md                # Archive by date
 │   └── sitemap.md                # All tools by category
@@ -102,6 +103,7 @@ uo.wzk.cz/
 │   │   ├── sphere/
 │   │   ├── uokr/
 │   │   └── vd/
+│   ├── files/toolbox/            # Toolbox Archive downloads (62 ZIPs, 132MB)
 │   ├── images/                   # Background, logos, bod.gif bullet icon
 │   └── style.css                 # Custom CSS
 ├── themes/terminal/              # Theme (vendored)
@@ -128,6 +130,7 @@ Flat URLs matching the original WordPress permalink structure:
 1. **March 2026** — WordPress → Hugo migration (17 posts, 27 ZIPs)
 2. **March 2026** — Manawydan archive recovery and merge (+86 tools, +4 tutorials, ~170 download files)
 3. **March 2026** — ultima.cz tutorials cached (+7 tutorials with screenshots)
+4. **March 2026** — UO FreeShard Community Tool Box merge (+69 tools from archive.org ISO, 62 download files)
 
 ### Sources
 
@@ -135,6 +138,7 @@ Flat URLs matching the original WordPress permalink structure:
 - Manawydan content parsed from HTTrack mirror HTML pages (`mw-export/`, gitignored)
 - Manawydan archive originally cached from `eranova.cz/ultima_manawydan/` by Golfin (2020)
 - ultima.cz tutorials fetched and converted to Hugo posts with original screenshots
+- Toolbox Archive sourced from [archive.org ISO](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019) (Public Domain, 2019)
 
 ## Contributing
 
