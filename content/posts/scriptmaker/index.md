@@ -15,7 +15,7 @@ Scriptmaker 1.1 is a script generation tool for UO server development. It provid
 
 ## Download
 
-- [Scriptmaker 1.1](/files/toolbox/Scriptmaker 1.1.zip) (31 KB)
+- [Scriptmaker 1.1](/files/toolbox/Scriptmaker-1.1.zip) (31 KB)
 
 ---
 *Archived from the [UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019) (archive.org, 2019).*

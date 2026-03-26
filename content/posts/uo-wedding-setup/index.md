@@ -15,7 +15,7 @@ UO Wedding Setup 3.1.0 is a Game Master event tool for organizing and running in
 
 ## Download
 
-- [UO Wedding Setup 3.1.0](/files/toolbox/UO Wedding Setup 3.1.0.zip) (2.2 MB)
+- [UO Wedding Setup 3.1.0](/files/toolbox/UO-Wedding-Setup-3.1.0.zip) (2.2 MB)
 
 ---
 *Archived from the [UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019) (archive.org, 2019).*

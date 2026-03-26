@@ -15,7 +15,7 @@ UO Loop is a basic macro loop tool for Ultima Online. It enables simple repetiti
 
 ## Downloads
 
-* [UO Loop](/files/toolbox/UO Loop.zip) (47 KB)
+* [UO Loop](/files/toolbox/UO-Loop.zip) (47 KB)
 
 ---
 *Archived from the [UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019) (archive.org, 2019).*

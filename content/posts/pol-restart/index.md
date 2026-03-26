@@ -15,7 +15,7 @@ PolRestart is an automatic restart utility (EMU - Emulator Monitor Utility) for 
 
 ## Download
 
-- [PolRestart EMU](/files/toolbox/PolRestart [EMU].zip) (63 KB)
+- [PolRestart EMU](/files/toolbox/PolRestart-EMU.zip) (63 KB)
 
 ---
 *Archived from the [UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019) (archive.org, 2019).*

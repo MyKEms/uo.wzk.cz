@@ -14,7 +14,7 @@ Dialog Studio 1.4 (Final) is a visual dialog and gump designer for Sphere server
 
 ## Download
 
-- [Dialog Studio 1.4 Final](/files/toolbox/Dialog Studio 1.4 [Final].zip) (2.4 MB)
+- [Dialog Studio 1.4 Final](/files/toolbox/Dialog-Studio-1.4-Final.zip) (2.4 MB)
 
 ---
 

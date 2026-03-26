@@ -15,7 +15,7 @@ Multi Scripter 1.1 is a bulk script processing tool for UO server development. I
 
 ## Download
 
-- [Multi Scripter 1.1](/files/toolbox/Multi_Scripter 1.1.zip) (2.1 MB)
+- [Multi Scripter 1.1](/files/toolbox/Multi_Scripter-1.1.zip) (2.1 MB)
 
 ---
 *Archived from the [UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019) (archive.org, 2019).*

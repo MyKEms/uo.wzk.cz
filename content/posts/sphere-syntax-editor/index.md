@@ -14,7 +14,7 @@ A standalone text editor specifically designed for editing Sphere server SCP scr
 
 ## Download
 
-- [Sphere Syntax Editor](/files/toolbox/Sphere Syntax Editor.zip) (619 KB)
+- [Sphere Syntax Editor](/files/toolbox/Sphere-Syntax-Editor.zip) (619 KB)
 
 ---
 

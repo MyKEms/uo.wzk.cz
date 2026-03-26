@@ -15,7 +15,7 @@ A standalone hue (color palette) editor for Ultima Online's hues.mul file. UO us
 
 ## Download
 
-- [UO Hue Editor](/files/toolbox/UO Hue Editor.zip) (228 KB)
+- [UO Hue Editor](/files/toolbox/UO-Hue-Editor.zip) (228 KB)
 
 ---
 *Archived from the [UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019) (archive.org, 2019).*

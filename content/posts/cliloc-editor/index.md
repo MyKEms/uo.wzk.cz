@@ -15,7 +15,7 @@ Cliloc Editor 2 is a tool for editing Ultima Online's cliloc (Client Localizatio
 
 ## Download
 
-- [Cliloc Editor 2](/files/toolbox/Cliloc Editor 2.zip) (19 KB)
+- [Cliloc Editor 2](/files/toolbox/Cliloc-Editor-2.zip) (19 KB)
 
 ---
 *Archived from the [UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019) (archive.org, 2019).*

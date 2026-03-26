@@ -15,7 +15,7 @@ vCrypter 1.2 is an encryption and decryption utility for Ultima Online client-se
 
 ## Downloads
 
-* [vCrypter 1.2](/files/toolbox/vCrypter 1.2.zip) (872 KB)
+* [vCrypter 1.2](/files/toolbox/vCrypter-1.2.zip) (872 KB)
 
 ---
 *Archived from the [UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019) (archive.org, 2019).*
