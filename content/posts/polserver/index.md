@@ -18,7 +18,7 @@ POL (Penultima Online) is an alternative Ultima Online server emulator written i
 
 ## Downloads
 
-- [POL Server (Source Code)](https://pub-79b5028945c441d990e0babe712bcbb6.r2.dev/toolbox/polserver-master.zip) (101 MB)
+- [POL Server (Source Code)](https://files.uo.wzk.cz/toolbox/polserver-master.zip) (101 MB)
 
 ---
 

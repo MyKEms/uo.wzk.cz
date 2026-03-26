@@ -14,7 +14,7 @@ Remote Control is a suite of remote administration tools for UO server managemen
 
 ## Download
 
-- [Remote Control / RemoteSphere](https://pub-79b5028945c441d990e0babe712bcbb6.r2.dev/toolbox/Remote%20Control.zip) (75 MB)
+- [Remote Control / RemoteSphere](https://files.uo.wzk.cz/toolbox/Remote%20Control.zip) (75 MB)
 
 ---
 

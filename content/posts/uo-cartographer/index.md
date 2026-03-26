@@ -19,7 +19,7 @@ UOCartographer is a map rendering and cartography tool for Ultima Online. It can
 
 ## Download
 
-- [UOCartographer](https://pub-79b5028945c441d990e0babe712bcbb6.r2.dev/toolbox/UOCartographer.zip) (29 MB)
+- [UOCartographer](https://files.uo.wzk.cz/toolbox/UOCartographer.zip) (29 MB)
 
 ---
 *Archived from the [UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019) (archive.org, 2019).*

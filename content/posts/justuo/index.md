@@ -14,7 +14,7 @@ JustUO was a popular community-maintained fork of RunUO that focused on fixing b
 
 ## Downloads
 
-- [JustUO + uo-crystal-master](https://pub-79b5028945c441d990e0babe712bcbb6.r2.dev/toolbox/JustUO.zip) (77 MB)
+- [JustUO + uo-crystal-master](https://files.uo.wzk.cz/toolbox/JustUO.zip) (77 MB)
 
 ---
 
