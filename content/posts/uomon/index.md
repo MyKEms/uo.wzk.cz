@@ -15,7 +15,7 @@ UOMON is a lightweight login server monitoring tool for Ultima Online shards. It
 
 ## Downloads
 
-* [UOMON](/files/toolbox/UOMON (Login Server Monitor).zip) (24 KB)
+* [UOMON](/files/toolbox/UOMON-LoginServerMonitor.zip) (24 KB)
 
 ---
 *Archived from the [UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019) (archive.org, 2019).*
