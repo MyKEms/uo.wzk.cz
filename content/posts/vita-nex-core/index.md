@@ -15,7 +15,7 @@ Vita-Nex: Core is a comprehensive framework extension for RunUO and ServUO serve
 
 ## Downloads
 
-- [Vita-Nex Core 5.2.0.0](/files/toolbox/Vita-Nex_ Core 5.2.0.0.zip) (1.0 MB)
+- [Vita-Nex Core 5.2.0.0](/files/toolbox/Vita-Nex-Core-5.2.0.0.zip) (1.0 MB)
 
 ---
 

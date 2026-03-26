@@ -15,7 +15,7 @@ The Mythic Package Editor is an essential tool for working with UO's modern UOP 
 
 ## Downloads
 
-- [Mythic Package Editor 1.2](/files/toolbox/Mythic Package Editor 1.2.3540.29933.zip) (9.4 MB)
+- [Mythic Package Editor 1.2](/files/toolbox/Mythic-Package-Editor-1.2.3540.29933.zip) (9.4 MB)
 
 ---
 *Archived from the [UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019) (archive.org, 2019).*

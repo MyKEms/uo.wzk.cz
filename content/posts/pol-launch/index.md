@@ -15,7 +15,7 @@ POLLaunch 0.97 is a launcher and management utility for POL (Penultima Online) s
 
 ## Download
 
-- [POLLaunch 0.97](/files/toolbox/POLLaunch 097.zip) (38 KB)
+- [POLLaunch 0.97](/files/toolbox/POLLaunch-097.zip) (38 KB)
 
 ---
 *Archived from the [UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019) (archive.org, 2019).*

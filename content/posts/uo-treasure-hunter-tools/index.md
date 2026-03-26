@@ -15,7 +15,7 @@ UO Treasure Hunter Tools is a collection of utilities related to the UO treasure
 
 ## Download
 
-- [UO Treasure Hunter Tools](/files/toolbox/UO Treasure Hunter Tools.zip) (1.2 MB)
+- [UO Treasure Hunter Tools](/files/toolbox/UO-Treasure-Hunter-Tools.zip) (1.2 MB)
 
 ---
 *Archived from the [UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019) (archive.org, 2019).*

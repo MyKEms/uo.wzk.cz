@@ -15,7 +15,7 @@ Client Auto Update 0.87 is a patching and auto-update system for UO freeshard cl
 
 ## Downloads
 
-* [Client Auto Update 0.87](/files/toolbox/Client Auto Update 0.87.zip) (3.3 MB)
+* [Client Auto Update 0.87](/files/toolbox/Client-Auto-Update-0.87.zip) (3.3 MB)
 
 ---
 *Archived from the [UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019) (archive.org, 2019).*

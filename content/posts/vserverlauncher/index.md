@@ -15,7 +15,7 @@ vServerLauncher 1.1 is a graphical server launcher for UO server emulators. It p
 
 ## Download
 
-- [vServerLauncher 1.1](/files/toolbox/vServerLauncher 1.1.zip) (1.0 MB)
+- [vServerLauncher 1.1](/files/toolbox/vServerLauncher-1.1.zip) (1.0 MB)
 
 ---
 *Archived from the [UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019) (archive.org, 2019).*

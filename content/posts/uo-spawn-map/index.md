@@ -15,7 +15,7 @@ UO Spawn Map Utility is a graphical tool for visualizing and managing NPC and cr
 
 ## Download
 
-- [UO Spawn Map Utility](/files/toolbox/UO Spawn Map Utility.zip) (2.3 MB)
+- [UO Spawn Map Utility](/files/toolbox/UO-Spawn-Map-Utility.zip) (2.3 MB)
 
 ---
 *Archived from the [UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019) (archive.org, 2019).*

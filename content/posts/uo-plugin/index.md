@@ -15,7 +15,7 @@ UoPlugIn Version 4.2 is a plugin framework for the Ultima Online client. It allo
 
 ## Downloads
 
-* [UoPlugIn 4.2](/files/toolbox/UoPlugIn Version 4.2.zip) (36 KB)
+* [UoPlugIn 4.2](/files/toolbox/UoPlugIn-Version-4.2.zip) (36 KB)
 
 ---
 *Archived from the [UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019) (archive.org, 2019).*

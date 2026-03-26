@@ -15,7 +15,7 @@ UOLog 1.2 is a packet logging tool for Ultima Online with full source code inclu
 
 ## Downloads
 
-* [UOLog 1.2 Source](/files/toolbox/UOLog 1.2 Source.zip) (40 KB)
+* [UOLog 1.2 Source](/files/toolbox/UOLog-1.2-Source.zip) (40 KB)
 
 ---
 *Archived from the [UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019) (archive.org, 2019).*

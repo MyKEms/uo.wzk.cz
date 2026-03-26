@@ -15,7 +15,7 @@ Mass M Decompiler (Publish 7) is a decompilation and analysis tool for Ultima On
 
 ## Download
 
-- [Mass M Decompiler](/files/toolbox/Mass M Decompiler.zip) (604 KB)
+- [Mass M Decompiler](/files/toolbox/Mass-M-Decompiler.zip) (604 KB)
 
 ---
 *Archived from the [UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019) (archive.org, 2019).*

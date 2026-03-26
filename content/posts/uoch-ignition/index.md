@@ -15,7 +15,7 @@ UOCH Ignition is an updated version of the UOCH character health monitoring tool
 
 ## Downloads
 
-* [UOCH Ignition](/files/toolbox/UOCH Ignition.zip) (39 KB)
+* [UOCH Ignition](/files/toolbox/UOCH-Ignition.zip) (39 KB)
 
 ---
 *Archived from the [UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019) (archive.org, 2019).*

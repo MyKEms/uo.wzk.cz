@@ -14,7 +14,7 @@ Sphere Script Stripper 0.99i (build 10) is a utility for cleaning and processing
 
 ## Download
 
-- [Sphere Script Stripper 0.99i build 10](/files/toolbox/Sphere Script Stripper 0.99i build 10.zip) (36 KB)
+- [Sphere Script Stripper 0.99i build 10](/files/toolbox/Sphere-Script-Stripper-0.99i-build-10.zip) (36 KB)
 
 ---
 

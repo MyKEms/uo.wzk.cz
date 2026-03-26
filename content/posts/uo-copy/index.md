@@ -15,7 +15,7 @@ UOCopy 1.0 is a file management utility for Ultima Online client installations. 
 
 ## Downloads
 
-* [UOCopy 1.0](/files/toolbox/UOCopy 1.0.zip) (102 KB)
+* [UOCopy 1.0](/files/toolbox/UOCopy-1.0.zip) (102 KB)
 
 ---
 *Archived from the [UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019) (archive.org, 2019).*

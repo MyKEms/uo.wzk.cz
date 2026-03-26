@@ -15,7 +15,7 @@ OrB Multi Template Manager 1.0 is a tool for managing and editing multi (buildin
 
 ## Download
 
-- [OrB Multi Template Manager 1.0](/files/toolbox/OrB Multi Template Manager 1.0.zip) (2.3 MB)
+- [OrB Multi Template Manager 1.0](/files/toolbox/OrB-Multi-Template-Manager-1.0.zip) (2.3 MB)
 
 ---
 *Archived from the [UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019) (archive.org, 2019).*

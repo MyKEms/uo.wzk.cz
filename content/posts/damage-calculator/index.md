@@ -15,7 +15,7 @@ Damage Calculator is a combat mathematics tool for Ultima Online. It computes da
 
 ## Download
 
-- [Damage Calculator](/files/toolbox/Damage Calculator.zip) (130 KB)
+- [Damage Calculator](/files/toolbox/Damage-Calculator.zip) (130 KB)
 
 ---
 *Archived from the [UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019) (archive.org, 2019).*

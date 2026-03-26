@@ -15,7 +15,7 @@ UOCoast 1.0 is a coastal navigation and mapping tool for Ultima Online's sea tra
 
 ## Downloads
 
-* [UOCoast 1.0](/files/toolbox/UOCoast 1.0.zip) (104 KB)
+* [UOCoast 1.0](/files/toolbox/UOCoast-1.0.zip) (104 KB)
 
 ---
 *Archived from the [UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019) (archive.org, 2019).*

@@ -15,7 +15,7 @@ UO3DMV (Ultima Online 3D Model Viewer) Release 6 is a viewer for Ultima Online's
 
 ## Download
 
-- [UO3DMV R.6](/files/toolbox/UO3DMV R.6.zip) (423 KB)
+- [UO3DMV R.6](/files/toolbox/UO3DMV-R.6.zip) (423 KB)
 
 ---
 *Archived from the [UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019) (archive.org, 2019).*

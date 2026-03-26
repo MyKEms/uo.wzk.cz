@@ -15,7 +15,7 @@ UO Companion is a helper application that runs alongside the Ultima Online clien
 
 ## Downloads
 
-* [UO Companion](/files/toolbox/UO Companion.zip) (1.7 MB)
+* [UO Companion](/files/toolbox/UO-Companion.zip) (1.7 MB)
 
 ---
 *Archived from the [UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019) (archive.org, 2019).*
