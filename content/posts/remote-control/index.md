@@ -14,7 +14,7 @@ Remote Control is a suite of remote administration tools for UO server managemen
 
 ## Download
 
-This file (75 MB) exceeds the 25 MB hosting limit and will be available via Cloudflare R2 once configured. Contact the site maintainer for access.
+- [Remote Control / RemoteSphere](https://pub-79b5028945c441d990e0babe712bcbb6.r2.dev/toolbox/Remote%20Control.zip) (75 MB)
 
 ---
 

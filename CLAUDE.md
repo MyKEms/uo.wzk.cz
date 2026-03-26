@@ -59,8 +59,8 @@ Hugo static site hosted on Cloudflare Pages. Maintained as a resource for [UO Er
 7 tools exceed Cloudflare Pages' 25MB per-file limit and need R2 hosting:
 - OrionUO-master.zip (27MB), JustUO.zip (77MB), polserver-master.zip (101MB)
 - Sphere.zip (128MB), ASSORTED SCRIPTS.zip (65MB), UOCartographer.zip (29MB), Remote Control.zip (75MB)
-- Staged in `~/Downloads/toolbox-r2/` for upload to a Cloudflare R2 bucket
-- R2 bucket: TBD (10GB free tier, free egress)
+- R2 bucket: `uo-wzk-cz-files`, public URL: `https://pub-79b5028945c441d990e0babe712bcbb6.r2.dev/toolbox/`
+- R2 free tier: 10GB storage, free egress
 
 ## Deployment
 

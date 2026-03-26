@@ -14,7 +14,7 @@ Sphere (later SphereServer) is one of the oldest and most established Ultima Onl
 
 ## Download
 
-This file (128 MB) exceeds the 25 MB hosting limit and will be available via Cloudflare R2 once configured. Contact the site maintainer for access.
+- [Sphere Server + Scripts](https://pub-79b5028945c441d990e0babe712bcbb6.r2.dev/toolbox/Sphere.zip) (128 MB)
 
 ---
 
