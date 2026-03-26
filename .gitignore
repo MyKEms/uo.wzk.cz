@@ -4,3 +4,4 @@ resources/
 wp-export/
 mw-export/
 .DS_Store
+.wrangler/
