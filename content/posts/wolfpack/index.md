@@ -18,7 +18,7 @@ WolfPack is a unique UO server emulator written in Python, offering a completely
 
 ## Downloads
 
-- [WolfPack 12.9.13 Beta](/files/toolbox/WolfPack-12.9.13 (BETA).zip) (3.5 MB)
+- [WolfPack 12.9.13 Beta](/files/toolbox/WolfPack-12.9.13-BETA.zip) (3.5 MB)
 
 ---
 

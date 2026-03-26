@@ -15,7 +15,7 @@ MultiList (Beta Release 5) is a viewer and browser for Ultima Online multi objec
 
 ## Download
 
-- [MultiList Beta Release 5](/files/toolbox/MultiList  (Beta Release 5).zip) (13 MB)
+- [MultiList Beta Release 5](/files/toolbox/MultiList-BetaRelease5.zip) (13 MB)
 
 ---
 *Archived from the [UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019) (archive.org, 2019).*
