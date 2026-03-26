@@ -15,7 +15,7 @@ A comprehensive collection of script archives for multiple UO server platforms. 
 
 ## Download
 
-This file (65 MB) exceeds the 25 MB hosting limit and will be available via Cloudflare R2 once configured. Contact the site maintainer for access.
+- [Assorted Scripts Collection](https://pub-79b5028945c441d990e0babe712bcbb6.r2.dev/toolbox/ASSORTED%20SCRIPTS.zip) (65 MB)
 
 ---
 *Archived from the [UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019) (archive.org, 2019).*

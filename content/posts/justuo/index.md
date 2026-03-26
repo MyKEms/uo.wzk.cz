@@ -14,7 +14,7 @@ JustUO was a popular community-maintained fork of RunUO that focused on fixing b
 
 ## Downloads
 
-This file (77 MB) exceeds the 25 MB hosting limit and will be available via Cloudflare R2 once configured. Contact the site maintainer for access.
+- [JustUO + uo-crystal-master](https://pub-79b5028945c441d990e0babe712bcbb6.r2.dev/toolbox/JustUO.zip) (77 MB)
 
 ---
 

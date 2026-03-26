@@ -19,7 +19,7 @@ OrionUO is an open-source alternative Ultima Online client written in C++. It pr
 
 ## Download
 
-This file (27 MB) exceeds the 25 MB hosting limit and will be available via Cloudflare R2 once configured. Contact the site maintainer for access.
+- [OrionUO (Source + Binaries)](https://pub-79b5028945c441d990e0babe712bcbb6.r2.dev/toolbox/OrionUO-master.zip) (27 MB)
 
 ---
 *Archived from the [UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019) (archive.org, 2019).*
