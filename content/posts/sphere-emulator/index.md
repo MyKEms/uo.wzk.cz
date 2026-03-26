@@ -14,7 +14,7 @@ Sphere (later SphereServer) is one of the oldest and most established Ultima Onl
 
 ## Download
 
-- [Sphere Server + Scripts](https://pub-79b5028945c441d990e0babe712bcbb6.r2.dev/toolbox/Sphere.zip) (128 MB)
+- [Sphere Server + Scripts](https://files.uo.wzk.cz/toolbox/Sphere.zip) (128 MB)
 
 ---
 

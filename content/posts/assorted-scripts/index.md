@@ -15,7 +15,7 @@ A comprehensive collection of script archives for multiple UO server platforms. 
 
 ## Download
 
-- [Assorted Scripts Collection](https://pub-79b5028945c441d990e0babe712bcbb6.r2.dev/toolbox/ASSORTED%20SCRIPTS.zip) (65 MB)
+- [Assorted Scripts Collection](https://files.uo.wzk.cz/toolbox/ASSORTED%20SCRIPTS.zip) (65 MB)
 
 ---
 *Archived from the [UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019) (archive.org, 2019).*
