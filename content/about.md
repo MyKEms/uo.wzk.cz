@@ -38,7 +38,7 @@ Together, this archive preserves **185+ tools and tutorials** for Ultima Online 
 
 This is a preservation archive of cached content. The tools and files are provided as-is, without any warranty. We are not responsible for the accuracy, functionality, or authorship of the archived content. All tools remain the property of their original authors.
 
-If you are an author of any tool archived here and would like it removed or updated, please contact us.
+If you are an author of any tool archived here and would like it removed or updated, or if you find a download that looks harmful, see [Security & Abuse Reports](/security/) — every report is reviewed manually and acted on.
 
 ## UO Erebor
 

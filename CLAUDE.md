@@ -97,7 +97,8 @@ hugo server -D
 
 - **188 published posts** in `content/posts/` (6 original + 103 Manawydan + 7 ultima.cz + 72 Toolbox) + 7 drafts
 - **Every post needs a `description:`** (50–170 chars, English, starts with what the tool is) — CI fails otherwise. All front matter is YAML.
-- **Standalone pages**: `content/about.md`, `content/archive.md`, `content/sitemap.md`
+- **Standalone pages**: `content/about.md`, `content/archive.md`, `content/sitemap.md`, `content/security.md` (abuse/security reporting; linked from footer, disclaimer, About)
+- **Security policy**: `SECURITY.md` (GitHub) + `/security/` (web) + `static/.well-known/security.txt` (RFC 9116 — **renew `Expires` yearly**, currently 2027-09-30). Reports go to GitHub private vulnerability reporting or issues; every report is reviewed manually.
 - **Categories** (CI-enforced list): Graphics, Client, GM, Server, Sphere, UOKR, Tutorials, News — each has `content/categories/<name>/_index.md` with an SEO description. A post may have two (e.g. Tutorials + Sphere).
 - **Tags**: Author names (RadstaR, Arya, Kons, Orbsydia, Punt, Ravenal, VD, Lynx, M@B, Marty, Aramis) + "Manawydan Archive" + "ultima.cz Archive" + "Toolbox Archive" (tags are authors/sources only — no platform tags like RunUO)
 - **Source badges**: `params.source: manawydan` shows green "MW" badge, `params.source: ultima-cz` shows brown "UCZ" badge, `params.source: toolbox` shows blue "TB" badge
