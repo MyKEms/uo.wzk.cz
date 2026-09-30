@@ -8,7 +8,7 @@ Combined Ultima Online tools archive merging four sources:
 - **ultima.cz** — Czech UO community tutorials (2003-2014), cached March 2026
 - **[UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019)** — archive.org collection of 160+ UO shard development tools (Public Domain, 2019), merged March 2026
 
-Hugo static site hosted on Cloudflare Pages. Maintained as a resource for [UO Erebor](http://uoerebor.cz/) shard development. 188 published posts (+7 drafts). Site title: **Ultima Online Tools Archive** (short: UO Tools Archive).
+Hugo static site hosted on Cloudflare Pages. Maintained as a resource for [UO Erebor](https://uoerebor.cz/) shard development. 188 published posts (+7 drafts). Site title: **Ultima Online Tools Archive** (short: UO Tools Archive).
 
 ## Tech stack
 

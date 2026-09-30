@@ -85,4 +85,4 @@ V Mulpatcheru nemusíte vkládat animaci na stejnou pozici, ale můžete ji bez 
 
 ---
 
-*Archived from the [Manawydan UO tools archive](http://ultima.manawydan.cz/) (originally by RadstaR, 2004-2016).*
+*Archived from the [Manawydan UO tools archive](https://web.archive.org/web/2015/http://ultima.manawydan.cz/) (originally by RadstaR, 2004-2016).*

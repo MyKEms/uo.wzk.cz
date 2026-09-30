@@ -9,7 +9,7 @@ Ultima Online tools archive — the largest Czech collection of UO development r
 - **ultima.cz** — Czech UO community tutorials (2003-2014) by Lynx, M@B, Marty, Aramis
 - **[UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019)** — archive.org collection of 160+ UO tools (Public Domain, 2019)
 
-Maintained as a resource for [UO Erebor](http://uoerebor.cz/) shard development.
+Maintained as a resource for [UO Erebor](https://uoerebor.cz/) shard development.
 
 **Live site:** https://uo.wzk.cz/
 

@@ -1,9 +1,9 @@
 # Cloudflare Pages response headers
 
 /*
-  Strict-Transport-Security: max-age=31536000
+  Strict-Transport-Security: max-age=31536000; includeSubDomains
   X-Frame-Options: DENY
-  Content-Security-Policy: frame-ancestors 'none'; base-uri 'self'; object-src 'none'; form-action 'self'
+  Content-Security-Policy: frame-ancestors 'none'; base-uri 'self'; object-src 'none'; form-action 'self'; upgrade-insecure-requests
   Permissions-Policy: camera=(), microphone=(), geolocation=(), payment=(), usb=()
   Referrer-Policy: strict-origin-when-cross-origin
   Cross-Origin-Opener-Policy: same-origin
@@ -17,6 +17,7 @@
 
 /files/*
   Cache-Control: public, max-age=604800
+  X-Robots-Tag: noindex
 
 # Only uo.wzk.cz should be indexed — keep the pages.dev hostnames out of search
 https://uo-wzk-cz.pages.dev/*
