@@ -1,5 +1,6 @@
 ---
 title: "Deco Editor"
+description: "Deco Editor by Arya is a Java 5 editor for deco.xml decoration files used by Ultima Online shard world-building tools. Archived from Manawydan."
 date: 2012-01-01T00:00:00
 slug: "deco-editor"
 draft: false

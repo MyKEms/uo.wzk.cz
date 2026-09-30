@@ -1,5 +1,6 @@
 ---
 title: "RadUOL Checker 1.2.0"
+description: "RadUOL Checker 1.2.0 by RadstaR scans UO Landscaper BMP images for errors before generating Ultima Online maps. Delphi 2006 source included."
 date: 2012-01-01T00:00:00
 slug: "raduol-checker"
 draft: false

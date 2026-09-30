@@ -1,5 +1,6 @@
 ---
 title: "Razor Enhanced"
+description: "Razor Enhanced 0.6.62 is a Razor fork for Ultima Online with Python scripting, extended macros and a script editor. Includes EnhancedMap and source."
 date: 2019-03-31T00:00:00
 slug: "razor-enhanced"
 draft: false

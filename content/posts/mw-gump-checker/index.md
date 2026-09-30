@@ -1,5 +1,6 @@
 ---
 title: "Manawydan Gump Checker 1.5.0"
+description: "Manawydan Gump Checker 1.5.0 by RadstaR checks position and transparency of Ultima Online paperdoll item gumps before they are patched in."
 date: 2012-01-01T00:00:00
 slug: "mw-gump-checker"
 draft: false

@@ -1,5 +1,6 @@
 ---
 title: "WorldMaker Map Editor"
+description: "WorldMaker Map Editor by Punt is a Qt4-based editor for Ultima Online mapX.mul terrain files. C source code and required Qt4 DLLs included."
 date: 2012-01-01T00:00:00
 slug: "worldmaker-map-editor"
 draft: false

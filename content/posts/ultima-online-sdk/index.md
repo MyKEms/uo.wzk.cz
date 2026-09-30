@@ -1,5 +1,6 @@
 ---
 title: "Ultima Online SDK 2.2"
+description: "Ultima Online SDK 2.2 is a C# library for reading Ultima Online client data files, archived with DLLs and source for .NET 1 and .NET 2."
 date: 2012-01-01T00:00:00
 slug: "ultima-online-sdk"
 draft: false

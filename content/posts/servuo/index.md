@@ -1,5 +1,6 @@
 ---
 title: "ServUO"
+description: "ServUO is an open-source C# Ultima Online server emulator forked from RunUO, supporting expansions up to Time of Legends. Source from May 2018."
 date: 2019-03-31T00:00:00
 slug: "servuo"
 draft: false

@@ -1,5 +1,6 @@
 ---
 title: "Legacy UOP to MUL Converter"
+description: "Legacy UOP to MUL Converter is a small utility that converts legacy Ultima Online UOP package files back into the classic MUL file format."
 date: 2012-01-01T00:00:00
 slug: "legacy-uop-converter"
 draft: false

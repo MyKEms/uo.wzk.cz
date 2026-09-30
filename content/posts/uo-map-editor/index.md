@@ -1,5 +1,6 @@
 ---
 title: "Ultima Online Map Editor 0.2 Alpha"
+description: "Ultima Online Map Editor 0.2 Alpha is an early editor for the Ultima Online MAP0.MUL terrain file. C source code included. From Manawydan."
 date: 2012-01-01T00:00:00
 slug: "uo-map-editor"
 draft: false

@@ -1,5 +1,6 @@
 ---
 title: "Stavby a multi.mul (Buildings and multi.mul)"
+description: "Czech tutorial by RadstaR showing how to extract a building from Ultima Online statics and save it into multi.mul with WorldMaker Multi Editor."
 date: 2010-01-01T00:00:00
 slug: "tutorial-buildings-multi-mul"
 draft: false

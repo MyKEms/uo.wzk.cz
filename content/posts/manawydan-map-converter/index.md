@@ -1,10 +1,12 @@
 ---
 title: "Manawydan Map Converter"
+description: "Manawydan Map Converter is a C# tool that converts an Ultima Online map from the classic 2D client format to the Kingdom Reborn format. Source included."
 date: 2017-07-12T13:49:58
 slug: "manawydan-map-converter"
 draft: false
 categories:
   - "Graphics"
+  - "UOKR"
 tags:
   - "Manawydan Archive"
 params:

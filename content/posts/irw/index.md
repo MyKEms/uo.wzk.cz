@@ -1,17 +1,18 @@
 ---
 title: "IRW (Item Resource Workshop)"
+description: "IRW 1.1 to 1.4 is a plugin-based Ultima Online client launcher from NecroTools with encryption, macro, dress and info plugins. Source included."
 date: 2019-03-31T00:00:00
 slug: "irw"
 draft: false
 categories:
-  - "Graphics"
+  - "Client"
 tags:
   - "Toolbox Archive"
 params:
   source: toolbox
 ---
 
-IRW (Item Resource Workshop) is a comprehensive resource editing tool for Ultima Online. It provides facilities for browsing, viewing, and editing various UO client resource files including items, art, and other game assets. The archive contains over 1,000 files including the full IRW application and associated UO data files. A substantial tool for serious client-side modding.
+IRW 1.1 to 1.4 is a plugin-based Ultima Online client launcher from NecroTools with encryption, macro, dress and info plugins. Source included.
 
 ## Download
 

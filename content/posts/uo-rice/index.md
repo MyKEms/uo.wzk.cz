@@ -1,5 +1,6 @@
 ---
 title: "UO Rice -3.5"
+description: "UO Rice -3.5 is a patcher that removes encryption from the Ultima Online client so it can connect to freeshards. Source code included."
 date: 2012-01-01T00:00:00
 slug: "uo-rice"
 draft: false

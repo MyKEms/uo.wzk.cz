@@ -1,5 +1,6 @@
 ---
 title: "UoPlugIn 4.2"
+description: "UoPlugIn 4.2 by Ashran and Beosil (1998) patches the Ultima Online client in memory at runtime to add options such as showing hitpoints."
 date: 2019-03-31T00:00:00
 slug: "uo-plugin"
 draft: false
@@ -11,7 +12,7 @@ params:
   source: toolbox
 ---
 
-UoPlugIn Version 4.2 is a plugin framework for the Ultima Online client. It allows loading custom DLL modules that can extend client functionality, add overlay features, or provide additional information during gameplay. The plugin system works by hooking into the client process.
+UoPlugIn 4.2 by Ashran and Beosil (1998) patches the Ultima Online client in memory at runtime to add options such as showing hitpoints.
 
 ## Downloads
 

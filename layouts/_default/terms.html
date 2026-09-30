@@ -1,0 +1,30 @@
+{{ define "main" }}
+  <div class="terms">
+    <h1 class="post-title">{{ .Title }}</h1>
+    {{ with .Content }}<div class="index-content">{{ . }}</div>{{ end }}
+    {{- $sources := slice "manawydan archive" "toolbox archive" "ultima.cz archive" -}}
+    {{- if eq .Data.Plural "tags" }}
+      <h2>Authors</h2>
+      <ul class="category-grid category-grid--compact">
+        {{- range .Data.Terms.ByCount }}{{ if not (in $sources (lower .Page.Title)) }}
+          <li class="category-card"><a href="{{ .Page.RelPermalink }}"><strong>{{ .Page.Title }}</strong> <span class="count">{{ .Count }}</span></a></li>
+        {{- end }}{{ end }}
+      </ul>
+      <h2>Archive sources</h2>
+      <ul class="category-grid category-grid--compact">
+        {{- range .Data.Terms.ByCount }}{{ if in $sources (lower .Page.Title) }}
+          <li class="category-card"><a href="{{ .Page.RelPermalink }}"><strong>{{ .Page.Title }}</strong> <span class="count">{{ .Count }}</span></a></li>
+        {{- end }}{{ end }}
+      </ul>
+    {{- else }}
+      <ul class="category-grid">
+        {{- range .Data.Terms.ByCount }}
+          <li class="category-card">
+            <a href="{{ .Page.RelPermalink }}"><strong>{{ .Page.Title }}</strong> <span class="count">{{ .Count }}</span></a>
+            {{ with .Page.Description }}<p>{{ . }}</p>{{ end }}
+          </li>
+        {{- end }}
+      </ul>
+    {{- end }}
+  </div>
+{{ end }}

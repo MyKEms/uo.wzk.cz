@@ -1,5 +1,6 @@
 ---
 title: "MultiList"
+description: "MultiList Beta Release 5 is a Java shard tool for browsing Ultima Online multi structures such as houses, castles and boats from multi.mul."
 date: 2019-03-31T00:00:00
 slug: "multilist"
 draft: false

@@ -1,5 +1,6 @@
 ---
 title: "RunUO Scripts Database"
+description: "RunUO Scripts Database is an offline list of links to RunUO scripts for Ultima Online shards, saved in MHT and XLS formats. Archived from Manawydan."
 date: 2012-01-01T00:00:00
 slug: "runuo-scripts-database"
 draft: false

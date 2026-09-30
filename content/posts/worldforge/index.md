@@ -1,5 +1,6 @@
 ---
 title: "WorldForge"
+description: "WorldForge is a classic Delphi map editor for Ultima Online map0, map2 and map3.mul files, archived with RadstaR RadMap WorldForge and 6.4 builds."
 date: 2017-07-11T16:22:21
 slug: "worldforge"
 draft: false

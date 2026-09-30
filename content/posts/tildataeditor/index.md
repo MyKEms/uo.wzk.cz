@@ -1,5 +1,6 @@
 ---
 title: "TildataEditor"
+description: "TildataEditor (2006) is a Windows editor for the Ultima Online tiledata.mul file, a newer tool than the 2001 TilData Editor. From Manawydan."
 date: 2012-01-01T00:00:00
 slug: "tildataeditor"
 draft: false

@@ -1,0 +1,34 @@
+{{- /* JSON-LD structured data: WebSite on home, SoftwareApplication / TechArticle on posts, BreadcrumbList everywhere else */ -}}
+{{- $p := .page -}}
+{{- $site := dict "@type" "WebSite" "@id" (printf "%s#website" site.BaseURL) "url" site.BaseURL "name" site.Title "alternateName" site.Params.shortName "description" site.Params.description "inLanguage" "en" "publisher" (dict "@type" "Person" "name" site.Params.author) -}}
+{{- $graph := slice $site -}}
+{{- if $p.IsPage -}}
+  {{- $authors := slice -}}
+  {{- range $p.Params.tags -}}
+    {{- if not (in (slice "Manawydan Archive" "Toolbox Archive" "ultima.cz Archive" "RunUO") .) -}}
+      {{- $authors = $authors | append (dict "@type" "Person" "name" .) -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $isTutorial := in $p.Params.categories "Tutorials" -}}
+  {{- $main := dict "@type" (cond $isTutorial "TechArticle" "SoftwareApplication") "name" $p.Title "headline" $p.Title "description" .desc "url" $p.Permalink "image" .img "datePublished" ($p.Date.Format "2006-01-02") "isPartOf" (dict "@id" (printf "%s#website" site.BaseURL)) -}}
+  {{- if not $isTutorial -}}
+    {{- $main = merge $main (dict "applicationCategory" "DeveloperApplication" "applicationSubCategory" (delimit ($p.Params.categories | default (slice "Tools")) ", ") "isAccessibleForFree" true "offers" (dict "@type" "Offer" "price" "0" "priceCurrency" "USD") "keywords" (printf "Ultima Online, UO, %s" (delimit ($p.Params.categories | default (slice)) ", "))) -}}
+  {{- else -}}
+    {{- $main = merge $main (dict "about" "Ultima Online modding") -}}
+  {{- end -}}
+  {{- with $authors }}{{ $main = merge $main (dict "author" .) }}{{ end -}}
+  {{- $graph = $graph | append $main -}}
+{{- end -}}
+{{- if not $p.IsHome -}}
+  {{- $crumbs := slice (dict "@type" "ListItem" "position" 1 "name" "Home" "item" site.BaseURL) -}}
+  {{- if $p.IsPage -}}
+    {{- with index ($p.Params.categories | default (slice)) 0 -}}
+      {{- with site.GetPage (printf "/categories/%s" (urlize .)) -}}
+        {{- $crumbs = $crumbs | append (dict "@type" "ListItem" "position" 2 "name" .Title "item" .Permalink) -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $crumbs = $crumbs | append (dict "@type" "ListItem" "position" (add (len $crumbs) 1) "name" $p.Title "item" $p.Permalink) -}}
+  {{- $graph = $graph | append (dict "@type" "BreadcrumbList" "itemListElement" $crumbs) -}}
+{{- end -}}
+<script type="application/ld+json">{{ dict "@context" "https://schema.org" "@graph" $graph | jsonify | safeJS }}</script>

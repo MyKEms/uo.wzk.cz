@@ -1,5 +1,6 @@
 ---
 title: "Manawydan UOSA BIN to MUL Convertor 1.1.1"
+description: "Manawydan UOSA BIN Convertor 1.1.1 by RadstaR exports Enhanced client animations unpacked from UOP into BMP frames for classic Ultima Online."
 date: 2012-01-01T00:00:00
 slug: "mw-uosa-bin-convertor"
 draft: false

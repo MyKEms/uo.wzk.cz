@@ -1,14 +1,18 @@
-+++
-title = "Jak na Static? (How to Use Static Tool)"
-slug = "tutorial-jak-na-static"
-date = 2014-08-21T00:00:00
-draft = false
-categories = ["Tutorials"]
-tags = ["Lynx", "ultima.cz Archive"]
-
-[params]
-  source = "ultima-cz"
-+++
+---
+title: "Jak na Static? (How to Use Static Tool)"
+description: "Czech guide by Lynx to the Axis Static Tool for Sphere, which freezes dynamic items from a worldsave into Ultima Online statics files."
+slug: "tutorial-jak-na-static"
+date: 2014-08-21T00:00:00
+draft: false
+categories:
+  - "Tutorials"
+  - "Sphere"
+tags:
+  - "Lynx"
+  - "ultima.cz Archive"
+params:
+  source: ultima-cz
+---
 
 Návod k modulu Static Tool, který je obsažen v Axisu a je určený pro zmrazení dynamických itemů na statické do mapy.
 

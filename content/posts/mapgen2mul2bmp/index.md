@@ -1,5 +1,6 @@
 ---
 title: "Map Generator 2 XML Converter for Mul2Bmp v1.0"
+description: "Map Generator 2 XML Converter by Punt converts WorldMaker Map Generator 2 XML files into the format used by Mul2Bmp for Ultima Online maps."
 date: 2012-01-01T00:00:00
 slug: "mapgen2mul2bmp"
 draft: false

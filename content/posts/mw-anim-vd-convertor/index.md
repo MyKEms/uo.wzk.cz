@@ -1,5 +1,6 @@
 ---
 title: "Manawydan Anim to VD Convertor 1.1.0"
+description: "Manawydan Anim to VD Convertor 1.1.0 by RadstaR converts BMP animation frames into the VD file format used by MulPatcher for Ultima Online."
 date: 2012-01-01T00:00:00
 slug: "mw-anim-vd-convertor"
 draft: false

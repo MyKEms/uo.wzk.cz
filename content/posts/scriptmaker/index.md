@@ -1,10 +1,11 @@
 ---
 title: "Scriptmaker 1.1"
+description: "Scriptmaker 1.1 is a form-based generator of item and NPC scripts for Sphere 0.55i Ultima Online servers, producing ready SCP code."
 date: 2019-03-31T00:00:00
 slug: "scriptmaker"
 draft: false
 categories:
-  - "Server"
+  - "Sphere"
 tags:
   - "Toolbox Archive"
 params:

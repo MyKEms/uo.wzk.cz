@@ -1,5 +1,6 @@
 ---
 title: "WorldForge POL"
+description: "WorldForge POL is a version of the WorldForge Ultima Online map editor with support for POL servers, archived with its source code."
 date: 2012-01-01T00:00:00
 slug: "worldforge-pol"
 draft: false

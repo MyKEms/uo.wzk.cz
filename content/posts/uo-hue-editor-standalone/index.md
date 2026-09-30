@@ -1,5 +1,6 @@
 ---
 title: "UO Hue Editor"
+description: "UO Hue Editor is a standalone Delphi editor for the Ultima Online hues.mul color palette file, for creating custom hues. Source code included."
 date: 2019-03-31T00:00:00
 slug: "uo-hue-editor-standalone"
 draft: false

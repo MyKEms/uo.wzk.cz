@@ -1,5 +1,6 @@
 ---
 title: "Location Editor 1.1.0.0"
+description: "Location Editor 1.1 by Arya is a C# tool that generates the XML location list used by the RunUO [go command on Ultima Online shards."
 date: 2012-01-01T00:00:00
 slug: "location-editor"
 draft: false

@@ -1,5 +1,6 @@
 ---
 title: "UOKR File Finder 1.0.0"
+description: "UOKR File Finder 1.0.0 identifies the type of files unpacked from Ultima Online Kingdom Reborn UOP packages. Archived from Manawydan."
 date: 2012-01-01T00:00:00
 slug: "uokr-file-finder"
 draft: false

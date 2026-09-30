@@ -1,5 +1,6 @@
 ---
 title: "UOLog 1.2 (Source)"
+description: "UOLog 1.2 is a packet logger for the Ultima Online client with HexLex filters for capturing chosen packets. C source code of the last 1.x release."
 date: 2019-03-31T00:00:00
 slug: "uo-log"
 draft: false

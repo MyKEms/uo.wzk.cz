@@ -1,5 +1,6 @@
 ---
 title: "CentrED"
+description: "CentrED is a client/server map editor for Ultima Online that lets several builders edit terrain and statics together. Windows and Linux builds."
 date: 2017-07-11T13:58:44
 slug: "centred"
 draft: false

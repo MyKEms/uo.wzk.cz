@@ -1,5 +1,6 @@
 ---
 title: "RadItems Database 1.1.0"
+description: "RadItems Database 1.1.0 by RadstaR stores Ultima Online item images in a database for offline browsing. It does not patch any client files."
 date: 2012-01-01T00:00:00
 slug: "raditems-database"
 draft: false

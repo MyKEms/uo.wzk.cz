@@ -1,5 +1,6 @@
 ---
 title: "AnimSharpEdit 1.0.0"
+description: "AnimSharpEdit 1.0.0 is a C# tool for centering Ultima Online animation frames exported from MulPatcher, a successor to AnimEdit 0.2."
 date: 2012-01-01T00:00:00
 slug: "animsharpedit"
 draft: false

@@ -1,5 +1,6 @@
 ---
 title: "RunUO RE 1.2.7.0"
+description: "RunUO RE 1.2.7.0 is a modified RunUO Ultima Online server emulator, archived with its C# source code and changelog from the Manawydan collection."
 date: 2012-01-01T00:00:00
 slug: "runuo-re"
 draft: false

@@ -1,5 +1,6 @@
 ---
 title: "Manawydan Infinity Convertor 1.3.0"
+description: "Manawydan Infinity Convertor 1.3.0 by RadstaR converts Infinity Engine GIF animations into Ultima Online animations for MulPatcher."
 date: 2012-01-01T00:00:00
 slug: "mw-infinity-convertor"
 draft: false

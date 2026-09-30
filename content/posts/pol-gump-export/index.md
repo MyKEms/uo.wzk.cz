@@ -1,5 +1,6 @@
 ---
 title: "POLGumpExport"
+description: "POLGumpExport is a Gump Studio plugin DLL that exports gump designs as eScript for the POL (Penultima Online) Ultima Online server emulator."
 date: 2019-03-31T00:00:00
 slug: "pol-gump-export"
 draft: false

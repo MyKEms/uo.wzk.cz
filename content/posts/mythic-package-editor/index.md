@@ -1,5 +1,6 @@
 ---
 title: "Mythic Package Editor"
+description: "Mythic Package Editor 1.2 is a tool for viewing, extracting and repacking Ultima Online UOP package files used by newer clients and Stygian Abyss."
 date: 2019-03-31
 slug: "mythic-package-editor"
 draft: false

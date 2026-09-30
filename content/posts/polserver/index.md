@@ -1,5 +1,6 @@
 ---
 title: "POL Server"
+description: "POL (Penultima Online) is an Ultima Online server emulator written in C++ with its own eScript language. Full source with CMake build and docs."
 date: 2019-03-31T00:00:00
 slug: "polserver"
 draft: false

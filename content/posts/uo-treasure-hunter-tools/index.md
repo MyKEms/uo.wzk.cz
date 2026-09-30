@@ -1,17 +1,18 @@
 ---
 title: "UO Treasure Hunter Tools"
+description: "UO Treasure Hunter Tools is a CodeProject utility for Ultima Online treasure hunters that helps locate treasure map dig spots. Demo and source."
 date: 2019-03-31T00:00:00
 slug: "uo-treasure-hunter-tools"
 draft: false
 categories:
-  - "GM"
+  - "Client"
 tags:
   - "Toolbox Archive"
 params:
   source: toolbox
 ---
 
-UO Treasure Hunter Tools is a collection of utilities related to the UO treasure hunting system. It includes tools for decoding treasure map coordinates, calculating dig locations, and managing treasure chest content. Useful for both players planning treasure hunts and GMs configuring the treasure system on their shard.
+UO Treasure Hunter Tools is a CodeProject utility for Ultima Online treasure hunters that helps locate treasure map dig spots. Demo and source.
 
 ## Download
 

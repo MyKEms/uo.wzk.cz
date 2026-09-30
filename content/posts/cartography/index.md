@@ -1,5 +1,6 @@
 ---
 title: "Cartography .86"
+description: "Cartography .86 by Punt converts between BMP images and the Ultima Online multimap.rle file used for treasure and world maps. C source included."
 date: 2012-01-01T00:00:00
 slug: "cartography"
 draft: false

@@ -1,5 +1,6 @@
 ---
 title: "EasyUO / Codename Alexandria"
+description: "EasyUO is a scripting and automation platform for the Ultima Online client. This 130 MB archive bundles EasyUO 1.42/1.5, OpenEUO and Codename Alexandria."
 date: 2019-03-31T00:00:00
 slug: "easyuo"
 draft: false

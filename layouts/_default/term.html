@@ -1,0 +1,10 @@
+{{ define "main" }}
+  <nav class="breadcrumbs" aria-label="Breadcrumb"><a href="/">Home</a> › <a href="{{ .Parent.RelPermalink }}">{{ .Parent.Title }}</a> › {{ .Title }}</nav>
+  <h1 class="post-title">{{ .Title }} <span class="count">({{ len .Pages }})</span></h1>
+  {{ with .Content }}<div class="index-content">{{ . }}</div>{{ end }}
+  <div class="posts term-list">
+    {{ range .Pages.ByTitle }}
+      {{ partial "post-row.html" . }}
+    {{ end }}
+  </div>
+{{ end }}

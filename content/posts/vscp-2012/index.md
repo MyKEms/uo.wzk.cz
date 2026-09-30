@@ -1,5 +1,6 @@
 ---
 title: "vSCP 2012"
+description: "vSCP 2012 is a syntax editor for Sphere server SCP scripts with highlighting, autocomplete, code folding, bookmarks and help for Sphere elements."
 date: 2017-07-12T11:13:43
 slug: "vscp-2012"
 draft: false

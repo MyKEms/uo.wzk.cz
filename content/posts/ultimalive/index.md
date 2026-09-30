@@ -1,5 +1,6 @@
 ---
 title: "UltimaLive"
+description: "UltimaLive is a system for RunUO and ServUO that streams live map and statics changes to connected Ultima Online clients without patching. With source."
 date: 2019-03-31T00:00:00
 slug: "ultimalive"
 draft: false
@@ -7,7 +8,6 @@ categories:
   - "Server"
 tags:
   - "Toolbox Archive"
-  - "RunUO"
 params:
   source: toolbox
 ---

@@ -1,5 +1,6 @@
 ---
 title: "SphereScripter"
+description: "SphereScripter (Sphere Script Generator v0.1 by Patrick Donlin, 2002) helps create item, weapon and armor SCP scripts for Sphere servers."
 date: 2019-03-31T00:00:00
 slug: "sphere-scripter"
 draft: false

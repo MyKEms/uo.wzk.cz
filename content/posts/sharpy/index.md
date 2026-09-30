@@ -1,5 +1,6 @@
 ---
 title: "Sharpy (TNG C#)"
+description: "Sharpy (TNG C#) is a 2007 .NET telnet-based remote console tool related to Sphere Ultima Online server administration. Binaries included."
 date: 2019-03-31T00:00:00
 slug: "sharpy"
 draft: false

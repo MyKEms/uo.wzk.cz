@@ -1,5 +1,6 @@
 ---
 title: "SpeedHack"
+description: "SpeedHack is a small client-side tool that changes the movement speed of the Ultima Online client. Use only where shard rules allow it."
 date: 2019-03-31T00:00:00
 slug: "speedhack"
 draft: true

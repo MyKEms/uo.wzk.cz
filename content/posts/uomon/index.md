@@ -1,17 +1,18 @@
 ---
 title: "UOMON (Login Server Monitor)"
+description: "UOMON 1.16 is a public-domain login server monitor that polls the official Ultima Online login servers and starts the client when one is up."
 date: 2019-03-31T00:00:00
 slug: "uomon"
 draft: false
 categories:
-  - "Server"
+  - "Client"
 tags:
   - "Toolbox Archive"
 params:
   source: toolbox
 ---
 
-UOMON is a lightweight login server monitoring tool for Ultima Online shards. It periodically checks whether the shard's login server is responding to connection attempts and can alert administrators when the server goes down. A simple but essential tool for maintaining shard uptime and quickly detecting outages.
+UOMON 1.16 is a public-domain login server monitor that polls the official Ultima Online login servers and starts the client when one is up.
 
 ## Downloads
 

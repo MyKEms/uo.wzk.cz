@@ -1,5 +1,6 @@
 ---
 title: "CopyMul Utils"
+description: "CopyMul Utils are two small Windows programs for copying and inserting data between Ultima Online MUL files. Archived from the Manawydan collection."
 date: 2012-01-01T00:00:00
 slug: "copymul-utils"
 draft: false

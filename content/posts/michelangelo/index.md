@@ -1,5 +1,6 @@
 ---
 title: "Michelangelo 0.30.9"
+description: "Michelangelo 0.30.9 is a Windows tool for adding and removing items, gumps and animations in Ultima Online verdata.mul, UOP patch and MUL files."
 date: 2012-01-01T00:00:00
 slug: "michelangelo"
 draft: false

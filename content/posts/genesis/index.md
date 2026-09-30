@@ -1,5 +1,6 @@
 ---
 title: "Genesis 2.5.2f"
+description: "Genesis 2.5.2f by Ravenal is an Ultima Online map compiler that turns designed terrain into map and statics files for a custom shard world."
 date: 2012-01-01T00:00:00
 slug: "genesis"
 draft: false
