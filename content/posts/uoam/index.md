@@ -1,8 +1,9 @@
 ---
 title: "UOAM"
+description: "UOAM (UO Auto Map) is a classic real-time map for Ultima Online with position tracking, shared markers and party view. Includes 8.x and UOAM Server."
 date: 2019-03-31
 slug: "uoam"
-draft: false
+draft: true
 categories:
   - "Client"
 tags:

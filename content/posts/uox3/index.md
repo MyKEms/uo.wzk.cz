@@ -1,5 +1,6 @@
 ---
 title: "UOX3"
+description: "UOX3 (Ultima Offline eXperiment 3) is one of the oldest Ultima Online server emulators, written in C++. Windows and Linux 0.99.2b packages."
 date: 2019-03-31T00:00:00
 slug: "uox3"
 draft: false

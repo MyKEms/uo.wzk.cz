@@ -1,5 +1,6 @@
 ---
 title: "Sphere Syntax Editor"
+description: "Sphere Syntax Editor is the vSCP 2012 syntax editor for Sphere SCP scripts under another name, with highlighting and autocomplete. Toolbox copy."
 date: 2019-03-31T00:00:00
 slug: "sphere-syntax-editor"
 draft: false

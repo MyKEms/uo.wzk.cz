@@ -1,5 +1,6 @@
 ---
 title: "CentrED+"
+description: "CentrED+ is a modified CentrED 0.6.1 map editor for Ultima Online with better client file support, tile groups, brushes and multi-user editing."
 date: 2017-07-11T14:11:35
 slug: "centred-plus"
 draft: false

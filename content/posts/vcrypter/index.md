@@ -1,10 +1,11 @@
 ---
 title: "vCrypter 1.2"
+description: "vCrypter 1.2 calculates Ultima Online login encryption keys for a given classic or enhanced client version, for use in sphereCrypt.ini."
 date: 2019-03-31T00:00:00
 slug: "vcrypter"
 draft: false
 categories:
-  - "Server"
+  - "Sphere"
 tags:
   - "Toolbox Archive"
 params:

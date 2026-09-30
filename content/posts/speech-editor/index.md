@@ -1,5 +1,6 @@
 ---
 title: "Speech Editor 1.0"
+description: "Speech Editor 1.0 is a Windows editor for the Ultima Online speech.mul file, which holds keyword phrases recognized by NPCs and the server."
 date: 2012-01-01T00:00:00
 slug: "speech-editor"
 draft: false
@@ -24,4 +25,4 @@ Program edit file speech.mul.
 
 ---
 
-*Archived from the [Manawydan UO tools archive](http://ultima.manawydan.cz/) (originally by RadstaR, 2004-2016).*
+*Archived from the [Manawydan UO tools archive](https://web.archive.org/web/2015/http://ultima.manawydan.cz/) (originally by RadstaR, 2004-2016).*

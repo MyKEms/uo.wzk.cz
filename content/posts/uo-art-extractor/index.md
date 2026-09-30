@@ -1,5 +1,6 @@
 ---
 title: "UO Art Extractor"
+description: "UO Art Extractor is a Windows tool that saves Ultima Online land tiles, static art and gumps from the client files as image files."
 date: 2012-01-01T00:00:00
 slug: "uo-art-extractor"
 draft: false
@@ -24,4 +25,4 @@ Program export pictures from arts and gumps.
 
 ---
 
-*Archived from the [Manawydan UO tools archive](http://ultima.manawydan.cz/) (originally by RadstaR, 2004-2016).*
+*Archived from the [Manawydan UO tools archive](https://web.archive.org/web/2015/http://ultima.manawydan.cz/) (originally by RadstaR, 2004-2016).*

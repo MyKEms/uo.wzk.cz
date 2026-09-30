@@ -1,5 +1,6 @@
 ---
 title: "Pandoras Box3"
+description: "Pandora's Box by Arya is a shard building and administration tool for RunUO Ultima Online servers, with Mondain's Legacy support in version 3."
 date: 2017-07-11T16:58:02
 slug: "pandoras-box3"
 draft: false
@@ -34,7 +35,6 @@ Pandora’s Box it’s an Ultima Online utility for building and administrate sh
 
 ![Manawydan screenshot](pandorasbox-mw.jpg)
 
-  * [Pandora’s Box 2.0.0.5 (Manawydan)](/files/manawydan/arya/pandorasbox2005.html) (1 MB)
   * [Pandora’s Box 2.0.0.5 C# Source code](/files/manawydan/arya/pandorasbox2005source.rar) (1.84 MB)
   * [Pandora’s Box 2.0.0.5 RunUO 2 update](/files/manawydan/arya/pandorasbox2005_runuo2.rar) (460 KB)
   * [Pandora’s Box 2.0.0.7 update](/files/manawydan/arya/pandorasbox2007.rar) (353 KB)

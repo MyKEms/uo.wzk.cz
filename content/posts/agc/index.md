@@ -1,5 +1,6 @@
 ---
 title: "AGC 5.0 (Automated Game Controller)"
+description: "AGC 5.0 Beta 2.4 (Automated Game Controller) is a macro and automation program for the Ultima Online client, configured through a settings file."
 date: 2019-03-31T00:00:00
 slug: "agc"
 draft: true

@@ -1,5 +1,6 @@
 ---
 title: "Remote Control (RemoteSphere)"
+description: "Remote Control is a set of remote administration tools for Ultima Online servers, mainly RemoteSphere, a Java console client for Sphere servers."
 date: 2019-03-31T00:00:00
 slug: "remote-control"
 draft: false

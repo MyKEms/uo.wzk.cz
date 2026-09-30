@@ -1,0 +1,17 @@
+# {{ site.Title }}
+
+> {{ site.Params.description }}
+
+This site is a static preservation archive of Ultima Online (UO) freeshard development tools and tutorials. Each tool page has a short description, screenshots where available, and download links to the original archives (Windows software, mostly 2000–2019). Sources: uo.wzk.cz (MyKE, 2009–2017), the Manawydan/Eranova archive by RadstaR (2004–2016), ultima.cz tutorials (2003–2014, Czech) and the UO FreeShard Community Tool Box (archive.org, 2019). Downloads are provided as-is.
+
+- [All tools by category]({{ "sitemap/" | absURL }})
+- [About this archive]({{ "about/" | absURL }})
+{{ range site.Taxonomies.categories.ByCount }}
+## {{ .Page.Title }}
+{{ with .Page.Description }}
+{{ . }}
+{{ end }}
+{{ range .Pages.ByTitle -}}
+- [{{ .Title }}]({{ .Permalink }}){{ with .Description }}: {{ . }}{{ end }}
+{{ end -}}
+{{ end }}

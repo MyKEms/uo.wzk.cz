@@ -1,5 +1,6 @@
 ---
 title: "Injection 2015"
+description: "Injection 2015 is a client-side assistant for Ultima Online, an alternative to UO Assist with macros and scripting for crafting and automation."
 date: 2017-07-11T17:26:08
 slug: "injection-2015"
 draft: false

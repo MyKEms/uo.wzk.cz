@@ -1,5 +1,6 @@
 ---
 title: "Damage Calculator"
+description: "Damage Calculator is a small console program that computes Ultima Online weapon damage from stats, skills and modifiers for balancing and testing."
 date: 2019-03-31T00:00:00
 slug: "damage-calculator"
 draft: false

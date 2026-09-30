@@ -1,5 +1,6 @@
 ---
 title: "SphereMonitor"
+description: "SphereMonitor is a small Windows utility that connects to a Sphere server by host and port to watch that the Ultima Online shard is running."
 date: 2019-03-31T00:00:00
 slug: "sphere-monitor"
 draft: false

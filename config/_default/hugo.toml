@@ -1,8 +1,14 @@
 baseURL = "https://uo.wzk.cz/"
-languageCode = "en-us"
-title = "UO Tools Archive"
+languageCode = "en"
+title = "Ultima Online Tools Archive"
 theme = "terminal"
-paginate = 20
+enableRobotsTXT = true
+enableGitInfo = true
+summaryLength = 40
+capitalizeListTitles = false
+
+[pagination]
+  pagerSize = 20
 
 # Match WordPress permalink structure: /slug/
 [permalinks]
@@ -22,4 +28,32 @@ paginate = 20
   tag = "tags"
 
 [outputs]
-  home = ["HTML", "RSS"]
+  home = ["HTML", "RSS", "llms"]
+
+[outputFormats]
+  [outputFormats.llms]
+    mediaType = "text/plain"
+    baseName = "llms"
+    isPlainText = true
+    notAlternative = true
+
+[sitemap]
+  changeFreq = "monthly"
+  priority = 0.5
+
+[services.rss]
+  limit = 50
+
+[related]
+  includeNewer = true
+  threshold = 60
+  toLower = true
+  [[related.indices]]
+    name = "categories"
+    weight = 100
+  [[related.indices]]
+    name = "tags"
+    weight = 40
+  [[related.indices]]
+    name = "keywords"
+    weight = 80

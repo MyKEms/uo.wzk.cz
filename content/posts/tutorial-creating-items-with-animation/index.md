@@ -1,5 +1,6 @@
 ---
 title: "Vytváření itemů s animací (Creating Items with Animation)"
+description: "Czech tutorial by RadstaR on creating a new Ultima Online item with new art and an existing animation using MULBuilder, InsideUO and Anim.IDX Patcher."
 date: 2010-01-01T00:00:00
 slug: "tutorial-creating-items-with-animation"
 draft: false
@@ -84,4 +85,4 @@ Klikněte vedle okna **FILE** na **>...** a otevřete si soubor **ANIM.IDX**, kt
 
 ---
 
-*Archived from the [Manawydan UO tools archive](http://ultima.manawydan.cz/) (originally by RadstaR, 2004-2016).*
+*Archived from the [Manawydan UO tools archive](https://web.archive.org/web/2015/http://ultima.manawydan.cz/) (originally by RadstaR, 2004-2016).*

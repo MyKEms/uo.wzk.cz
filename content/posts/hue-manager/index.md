@@ -1,5 +1,6 @@
 ---
 title: "Hue Manager 1.0"
+description: "Hue Manager 1.0 by Arya is a C# editor for Ultima Online hues.mul color palettes, for viewing and changing item and creature hues. Source included."
 date: 2012-01-01T00:00:00
 slug: "hue-manager"
 draft: false
@@ -24,4 +25,4 @@ Program pro úpravu barev.
 
 ---
 
-*Archived from the [Manawydan UO tools archive](http://ultima.manawydan.cz/) (originally by RadstaR, 2004-2016).*
+*Archived from the [Manawydan UO tools archive](https://web.archive.org/web/2015/http://ultima.manawydan.cz/) (originally by RadstaR, 2004-2016).*

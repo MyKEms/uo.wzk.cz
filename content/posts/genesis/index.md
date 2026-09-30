@@ -1,5 +1,6 @@
 ---
 title: "Genesis 2.5.2f"
+description: "Genesis 2.5.2f by Ravenal is an Ultima Online map compiler that turns designed terrain into map and statics files for a custom shard world."
 date: 2012-01-01T00:00:00
 slug: "genesis"
 draft: false
@@ -26,8 +27,8 @@ UO Map Compiler Utility for compiling your maps.
 
 ## Links
 
-- [Homepage](http://www.mygametools.com/)
+- Homepage: mygametools.com (offline)
 
 ---
 
-*Archived from the [Manawydan UO tools archive](http://ultima.manawydan.cz/) (originally by RadstaR, 2004-2016).*
+*Archived from the [Manawydan UO tools archive](https://web.archive.org/web/2015/http://ultima.manawydan.cz/) (originally by RadstaR, 2004-2016).*

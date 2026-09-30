@@ -1,5 +1,6 @@
 ---
 title: "Dialog Studio 1.4"
+description: "Dialog Studio 1.4 is a visual gump and dialog designer for Sphere servers that exports ready-to-use SCP dialog script code for Ultima Online."
 date: 2019-03-31T00:00:00
 slug: "dialog-studio"
 draft: false

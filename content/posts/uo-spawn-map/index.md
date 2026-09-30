@@ -1,5 +1,6 @@
 ---
 title: "UO Spawn Map Utility"
+description: "UO Spawn Map Utility 1.03 is an old Windows program for viewing creature and NPC spawn locations on Ultima Online maps. InstallShield setup."
 date: 2019-03-31T00:00:00
 slug: "uo-spawn-map"
 draft: false

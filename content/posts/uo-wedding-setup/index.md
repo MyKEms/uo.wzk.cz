@@ -1,5 +1,6 @@
 ---
 title: "UO Wedding Setup 3.1.0"
+description: "UO Wedding Setup 3.1.0 is a macro tool for Ultima Online staff that types prepared wedding ceremony scripts in game and writes texts into books."
 date: 2019-03-31T00:00:00
 slug: "uo-wedding-setup"
 draft: false
@@ -11,7 +12,7 @@ params:
   source: toolbox
 ---
 
-UO Wedding Setup 3.1.0 is a Game Master event tool for organizing and running in-game wedding ceremonies in Ultima Online. It provides pre-built scripts and configurations for wedding events including ceremony text, decorations placement, ring exchange mechanics, and celebration effects. A unique and charming tool from the era when freeshard GMs regularly hosted community events.
+UO Wedding Setup 3.1.0 is a macro tool for Ultima Online staff that types prepared wedding ceremony scripts in game and writes texts into books.
 
 ## Download
 

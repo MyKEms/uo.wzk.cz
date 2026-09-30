@@ -1,5 +1,6 @@
 ---
 title: "UO3DMV R.6"
+description: "UO3DMV R.6 (1999, by LXD) is a freeware 3D map viewer and editor for the Ultima Online world with terrain, static and first-person view modes."
 date: 2019-03-31T00:00:00
 slug: "uo-3dmv"
 draft: false
@@ -11,7 +12,7 @@ params:
   source: toolbox
 ---
 
-UO3DMV (Ultima Online 3D Model Viewer) Release 6 is a viewer for Ultima Online's 3D model assets. While UO is primarily a 2D isometric game, certain client versions and the Kingdom Reborn client used 3D models. This tool allows inspecting and previewing these 3D assets outside the game client.
+UO3DMV R.6 (1999, by LXD) is a freeware 3D map viewer and editor for the Ultima Online world with terrain, static and first-person view modes.
 
 ## Download
 

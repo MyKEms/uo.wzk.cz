@@ -1,5 +1,6 @@
 ---
 title: "Gump Editor 0.31 Beta"
+description: "Gump Editor 0.31 Beta is a Windows tool for viewing gump graphics and adding new or edited gumps into the Ultima Online verdata.mul patch file."
 date: 2012-01-01T00:00:00
 slug: "gump-editor"
 draft: false
@@ -24,4 +25,4 @@ Program add gumps to verdata.mul.
 
 ---
 
-*Archived from the [Manawydan UO tools archive](http://ultima.manawydan.cz/) (originally by RadstaR, 2004-2016).*
+*Archived from the [Manawydan UO tools archive](https://web.archive.org/web/2015/http://ultima.manawydan.cz/) (originally by RadstaR, 2004-2016).*

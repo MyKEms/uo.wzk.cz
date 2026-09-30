@@ -1,5 +1,6 @@
 ---
 title: "UOCartographer"
+description: "UOCartographer is a map rendering tool for Ultima Online that creates high-resolution map images from client map data for docs and websites."
 date: 2019-03-31T00:00:00
 slug: "uo-cartographer"
 draft: false

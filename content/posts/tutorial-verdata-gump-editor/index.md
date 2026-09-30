@@ -1,14 +1,17 @@
-+++
-title = "Jak na Verdata 2 - GUMP Editor"
-slug = "tutorial-verdata-gump-editor"
-date = 2014-08-21T00:00:00
-draft = false
-categories = ["Tutorials"]
-tags = ["Lynx", "ultima.cz Archive"]
-
-[params]
-  source = "ultima-cz"
-+++
+---
+title: "Jak na Verdata 2 - GUMP Editor"
+description: "Czech tutorial by Lynx on editing Ultima Online gump graphics in verdata.mul with GUMP Editor and applying the patch with VerdataPatcher."
+slug: "tutorial-verdata-gump-editor"
+date: 2014-08-21T00:00:00
+draft: false
+categories:
+  - "Tutorials"
+tags:
+  - "Lynx"
+  - "ultima.cz Archive"
+params:
+  source: ultima-cz
+---
 
 GUMP Editor je momentálně nejlepší program pro úpravu gumpů (grafická statická data). Na rozdíl od Paradise Gump Patcheru zvládá rychlé vykreslování obrázků a může pracovat jen s určitou částí grafických souborů k vytvoření patche.
 

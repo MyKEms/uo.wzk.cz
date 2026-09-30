@@ -1,5 +1,6 @@
 ---
 title: "Oprava grafiky"
+description: "Oprava grafiky by RadstaR is a fix for the halo effect around several Ultima Online paperdoll items, installed into verdata.mul. MulBuilder source."
 date: 2012-01-01T00:00:00
 slug: "oprava-grafiky"
 draft: false
@@ -24,4 +25,4 @@ Opravuje efekt 'svatozáře' kolem několika itemů v paperdollu. Instalátor ap
 
 ---
 
-*Archived from the [Manawydan UO tools archive](http://ultima.manawydan.cz/) (originally by RadstaR, 2004-2016).*
+*Archived from the [Manawydan UO tools archive](https://web.archive.org/web/2015/http://ultima.manawydan.cz/) (originally by RadstaR, 2004-2016).*

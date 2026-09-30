@@ -1,5 +1,6 @@
 ---
 title: "WolfPack"
+description: "WolfPack 12.9.13 Beta is an Ultima Online server emulator in C++ with game logic scripted in Python, editable without recompiling the server."
 date: 2019-03-31T00:00:00
 slug: "wolfpack"
 draft: false

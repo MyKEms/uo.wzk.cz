@@ -1,14 +1,17 @@
-+++
-title = "Filozofie stavění (Medieval Building Philosophy)"
-slug = "tutorial-filozofie-staveni"
-date = 2014-08-21T00:00:00
-draft = false
-categories = ["Tutorials"]
-tags = ["Lynx", "ultima.cz Archive"]
-
-[params]
-  source = "ultima-cz"
-+++
+---
+title: "Filozofie stavění (Medieval Building Philosophy)"
+description: "Czech article by Lynx with practical rules for building believable medieval houses, floors, stairs and decorations on Ultima Online shards."
+slug: "tutorial-filozofie-staveni"
+date: 2014-08-21T00:00:00
+draft: false
+categories:
+  - "Tutorials"
+tags:
+  - "Lynx"
+  - "ultima.cz Archive"
+params:
+  source: ultima-cz
+---
 
 Toto není návod, ale pár základních rad a zásad pro stavění. Nejdříve je podstatné pochopit, o jakou stavbu jde a podle toho se přizpůsobit.
 

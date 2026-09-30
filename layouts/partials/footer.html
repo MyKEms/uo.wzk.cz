@@ -2,7 +2,7 @@
 <footer class="footer">
   <div class="footer__inner">
     <div class="copyright">
-      <span>&copy; {{ now.Year }} MyKE</span>
+      <span>&copy; {{ now.Year }} MyKE · <a href="/about/">About</a> · <a href="/sitemap/">All tools</a> · <a href="/security/">Report a problem</a> · <a href="/index.xml">RSS</a> · <a href="https://github.com/MyKEms/uo.wzk.cz" rel="noopener">Source on GitHub</a> · Content <a href="https://creativecommons.org/licenses/by-nc/4.0/" rel="license noopener">CC BY-NC 4.0</a></span>
     </div>
   </div>
 </footer>
@@ -12,7 +12,7 @@
 
 {{ $bundle := slice $menu $cp | resources.Concat "bundle.js" | resources.Minify }}
 
-<script type="text/javascript" src="{{ $bundle.RelPermalink }}"></script>
+<script src="{{ $bundle.RelPermalink }}" defer></script>
 
 <!-- Extended footer section-->
 {{ partial "extended_footer.html" . }}

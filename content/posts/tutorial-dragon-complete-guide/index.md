@@ -1,14 +1,17 @@
-+++
-title = "Dragon - Kompletní návod (Dragon Complete Guide)"
-slug = "tutorial-dragon-complete-guide"
-date = 2003-10-08T00:00:00
-draft = false
-categories = ["Tutorials"]
-tags = ["Marty", "ultima.cz Archive"]
-
-[params]
-  source = "ultima-cz"
-+++
+---
+title: "Dragon - Kompletní návod (Dragon Complete Guide)"
+description: "Czech guide by Marty (2003) to generating an Ultima Online map0.mul from a BMP image with Dragon and freezing statics with DragonSP."
+slug: "tutorial-dragon-complete-guide"
+date: 2003-10-08T00:00:00
+draft: false
+categories:
+  - "Tutorials"
+tags:
+  - "Marty"
+  - "ultima.cz Archive"
+params:
+  source: ultima-cz
+---
 
 Dragon je utilita pro tvorbu vlastní Ultima Online mapy pracující pod OS Windows. Mapu (map0.mul) generuje z BMP obrázku, který si nakreslíte podle šablony barev, která je součástí programu. Dragon SP (Dragon Static Patch) zmrazí dynamické itemy do souborů statics0.mul a staidx0.mul.
 

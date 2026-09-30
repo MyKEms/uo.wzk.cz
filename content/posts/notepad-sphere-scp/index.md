@@ -1,5 +1,6 @@
 ---
 title: "Notepad++ Sphere SCP Edition"
+description: "Notepad++ 4.1.2 SphereSCP Edition is a Notepad++ installer preconfigured with syntax highlighting for Sphere server SCP scripts for Ultima Online."
 date: 2019-03-31T00:00:00
 slug: "notepad-sphere-scp"
 draft: false

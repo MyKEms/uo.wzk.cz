@@ -1,17 +1,18 @@
 ---
 title: "UOCopy 1.0"
+description: "UOCopy 1.0 copies map tiles and static items from one Ultima Online map0.mul and statics0.mul to another, for example to reuse OSI towns."
 date: 2019-03-31T00:00:00
 slug: "uo-copy"
 draft: false
 categories:
-  - "Client"
+  - "Graphics"
 tags:
   - "Toolbox Archive"
 params:
   source: toolbox
 ---
 
-UOCopy 1.0 is a file management utility for Ultima Online client installations. It facilitates copying, backing up, and managing UO client files — particularly useful when maintaining multiple client installations for different freeshards that require different client file versions.
+UOCopy 1.0 copies map tiles and static items from one Ultima Online map0.mul and statics0.mul to another, for example to reuse OSI towns.
 
 ## Downloads
 

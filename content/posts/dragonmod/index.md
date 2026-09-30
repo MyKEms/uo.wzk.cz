@@ -1,5 +1,6 @@
 ---
 title: "DragonMod"
+description: "DragonMod is a set of add-ons for the Dragon map generator that builds Ultima Online maps and statics from painted BMP images, with extra terrains."
 date: 2017-07-12T13:37:24
 slug: "dragonmod"
 draft: false

@@ -1,5 +1,6 @@
 ---
 title: "Vita-Nex: Core"
+description: "Vita-Nex: Core 5.2.0.0 is a C# framework extension for RunUO and ServUO Ultima Online servers with PvP battles, events, notify and utility systems."
 date: 2019-03-31T00:00:00
 slug: "vita-nex-core"
 draft: false
@@ -7,7 +8,6 @@ categories:
   - "Server"
 tags:
   - "Toolbox Archive"
-  - "RunUO"
 params:
   source: toolbox
 ---

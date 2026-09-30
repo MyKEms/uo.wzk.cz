@@ -1,5 +1,6 @@
 ---
 title: "RadItems Database 1.1.0"
+description: "RadItems Database 1.1.0 by RadstaR stores Ultima Online item images in a database for offline browsing. It does not patch any client files."
 date: 2012-01-01T00:00:00
 slug: "raditems-database"
 draft: false
@@ -27,4 +28,4 @@ This program can only save images to database, cannot patch any Ultima Online fi
 
 ---
 
-*Archived from the [Manawydan UO tools archive](http://ultima.manawydan.cz/) (originally by RadstaR, 2004-2016).*
+*Archived from the [Manawydan UO tools archive](https://web.archive.org/web/2015/http://ultima.manawydan.cz/) (originally by RadstaR, 2004-2016).*

@@ -1,0 +1,5 @@
+{{- $s := .page.Params.source -}}
+{{- $labels := dict "manawydan" (slice "Manawydan Archive" "MW" "") "ultima-cz" (slice "ultima.cz Archive" "UCZ" " source-badge--ucz") "toolbox" (slice "Toolbox Archive" "TB" " source-badge--toolbox") -}}
+{{- with index $labels (string $s) -}}
+  <span class="source-badge{{ index . 2 }}" title="{{ index . 0 }}">{{ if $.short }}{{ index . 1 }}{{ else }}{{ index . 0 }}{{ end }}</span>
+{{- end -}}

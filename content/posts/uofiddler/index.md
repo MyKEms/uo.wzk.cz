@@ -1,5 +1,6 @@
 ---
 title: "UOFiddler"
+description: "UOFiddler is a viewer and editor for almost every Ultima Online 2D client file, based on the Ultima SDK. Version 4.6 plus UOP Packer plugin."
 date: 2017-07-11T16:03:40
 slug: "uofiddler"
 draft: false

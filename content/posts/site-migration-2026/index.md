@@ -1,5 +1,6 @@
 ---
 title: "Site Migration: WordPress to Hugo + Manawydan Archive Merged"
+description: "News: uo.wzk.cz moved from WordPress to Hugo in March 2026 and merged the Manawydan Ultima Online tools archive rescued by Golfin."
 date: 2026-03-18T00:00:00
 slug: "site-migration-2026"
 draft: false
@@ -19,7 +20,7 @@ Why the move? WordPress was overkill for what is essentially a frozen archive �
 
 The bigger news: **ultima.manawydan.cz** (originally at eranova.cz) has been merged into this site.
 
-For those who don't know — RadstaR ran a comprehensive UO tools archive from 2004 to 2016, collecting editors, convertors, server emulators, and tutorials for Ultima Online development. It was the go-to Czech resource for UO modding. The site was hosted by [Manawydan.cz](http://www.manawydan.cz/) (a Czechoslovak UO shard) and later went offline when the hosting expired.
+For those who don't know — RadstaR ran a comprehensive UO tools archive from 2004 to 2016, collecting editors, convertors, server emulators, and tutorials for Ultima Online development. It was the go-to Czech resource for UO modding. The site was hosted by Manawydan.cz (a Czechoslovak UO shard) and later went offline when the hosting expired.
 
 **Golfin** from the UO Erebor community had cached the entire Manawydan archive on his servers, preserving it from being lost. In March 2026, we recovered this cache — 176 MB of tools, screenshots, tutorials, and downloads — and merged it into uo.wzk.cz.
 

@@ -1,5 +1,6 @@
 ---
 title: "UOAnimTool"
+description: "UOAnimTool is a viewer for Ultima Online animations that exports frames to several image formats. Versions 1.0.1.0 CZ and 1.0.2.0 with C# source."
 date: 2012-01-01T00:00:00
 slug: "uoanimtool"
 draft: false
@@ -26,4 +27,4 @@ Program to viewing and extracting animations.
 
 ---
 
-*Archived from the [Manawydan UO tools archive](http://ultima.manawydan.cz/) (originally by RadstaR, 2004-2016).*
+*Archived from the [Manawydan UO tools archive](https://web.archive.org/web/2015/http://ultima.manawydan.cz/) (originally by RadstaR, 2004-2016).*

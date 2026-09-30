@@ -1,5 +1,6 @@
 ---
 title: "UOLaunchPad"
+description: "UOLaunchPad is a launcher for Ultima Online that writes per-shard login.cfg and uo.cfg settings so players can switch between freeshards quickly."
 date: 2019-03-31T00:00:00
 slug: "uo-launchpad"
 draft: false

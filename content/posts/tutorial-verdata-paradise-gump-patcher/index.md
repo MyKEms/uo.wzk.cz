@@ -1,14 +1,17 @@
-+++
-title = "Jak na Verdata 1 - Paradise Gump Patcher"
-slug = "tutorial-verdata-paradise-gump-patcher"
-date = 2014-08-21T00:00:00
-draft = false
-categories = ["Tutorials"]
-tags = ["Lynx", "ultima.cz Archive"]
-
-[params]
-  source = "ultima-cz"
-+++
+---
+title: "Jak na Verdata 1 - Paradise Gump Patcher"
+description: "Czech tutorial by Lynx introducing Paradise Gump Patcher for editing Ultima Online gump graphics and patching them into verdata.mul."
+slug: "tutorial-verdata-paradise-gump-patcher"
+date: 2014-08-21T00:00:00
+draft: false
+categories:
+  - "Tutorials"
+tags:
+  - "Lynx"
+  - "ultima.cz Archive"
+params:
+  source: ultima-cz
+---
 
 Tento seriál o tvorbě grafiky věnuji programu Paradise Gump Patcher, kterým lze předělat většinu oken. První díl se zabývá seznámením s programem.
 

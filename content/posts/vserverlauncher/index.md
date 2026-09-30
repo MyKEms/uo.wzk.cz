@@ -1,10 +1,11 @@
 ---
 title: "vServerLauncher 1.1"
+description: "vServerLauncher 1.1 downloads, installs and runs the latest SphereServer nightly build with scripts and helper tools in a few clicks."
 date: 2019-03-31T00:00:00
 slug: "vserverlauncher"
 draft: false
 categories:
-  - "Server"
+  - "Sphere"
 tags:
   - "Toolbox Archive"
 params:

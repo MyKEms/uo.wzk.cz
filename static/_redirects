@@ -3,4 +3,13 @@
 /feed           /index.xml      301
 /wp-admin/*     /               301
 /wp-login.php   /               301
-/xmlrpc.php     /               410
+
+# Paginated listings were replaced by single-page lists (2026-09)
+/page/*                       /                        301
+/posts/page/*                 /posts/                  301
+/categories/:cat/page/*       /categories/:cat/        301
+/tags/:tag/page/*             /tags/:tag/              301
+
+# Removed tools (2026-09): flagged by antivirus / Netcraft, obsolete
+/tdv-patchmaker/              /categories/client/      301
+/tdv-patchmaker               /categories/client/      301

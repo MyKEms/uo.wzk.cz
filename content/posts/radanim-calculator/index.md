@@ -1,5 +1,6 @@
 ---
 title: "RadAnim Calculator"
+description: "RadAnim Calculator by RadstaR computes the first and last animation frame numbers for a given Ultima Online animation ID in anim.idx."
 date: 2017-07-11T17:38:09
 slug: "radanim-calculator"
 draft: false

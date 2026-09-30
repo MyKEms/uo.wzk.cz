@@ -1,5 +1,6 @@
 ---
 title: "UoLoopX"
+description: "UoLoopX is a macro loop program for the Ultima Online client, a newer relative of UO Loop, archived with an Italian version and PDF help."
 date: 2019-03-31T00:00:00
 slug: "uo-loopx"
 draft: false

@@ -1,10 +1,12 @@
 ---
 title: "Axis II"
+description: "Axis II is the Game Master tool for Sphere servers: item and NPC browser, travel, commands and Static Tool. Includes UOP art and map support."
 date: 2017-07-12T11:22:10
 slug: "axis-ii"
 draft: false
 categories:
   - "GM"
+  - "Sphere"
 tags:
   - "Manawydan Archive"
 params:
