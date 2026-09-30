@@ -1,17 +1,19 @@
 ---
 title: "Multi Scripter 1.1"
+description: "Multi Scripter 1.1 by Slayde adds custom building designs to the Ultima Online multi.idx and multi.mul files so Sphere shards can place them as houses."
 date: 2019-03-31T00:00:00
 slug: "multi-scripter"
 draft: false
 categories:
-  - "Server"
+  - "Graphics"
+  - "Sphere"
 tags:
   - "Toolbox Archive"
 params:
   source: toolbox
 ---
 
-Multi Scripter 1.1 is a bulk script processing tool for UO server development. It enables batch operations on multiple script files simultaneously — useful for large-scale script migrations, formatting changes, or content generation across entire server script packages.
+Multi Scripter 1.1 by Slayde adds custom building designs to the Ultima Online multi.idx and multi.mul files so Sphere shards can place them as houses.
 
 ## Download
 

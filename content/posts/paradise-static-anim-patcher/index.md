@@ -1,5 +1,6 @@
 ---
 title: "Paradise Static Anim Patcher"
+description: "Paradise Static Anim Patcher is a Windows tool for editing animated static items in Ultima Online client files. Archived from Manawydan."
 date: 2012-01-01T00:00:00
 slug: "paradise-static-anim-patcher"
 draft: false
@@ -24,4 +25,4 @@ Program edit statics animations.
 
 ---
 
-*Archived from the [Manawydan UO tools archive](http://ultima.manawydan.cz/) (originally by RadstaR, 2004-2016).*
+*Archived from the [Manawydan UO tools archive](https://web.archive.org/web/2015/http://ultima.manawydan.cz/) (originally by RadstaR, 2004-2016).*

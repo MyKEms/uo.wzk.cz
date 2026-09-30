@@ -1,5 +1,6 @@
 ---
 title: "AnimEdit 0.2"
+description: "AnimEdit 0.2 is a small Ultima Online utility for centering animation frames exported from MulPatcher before patching them back into the client."
 date: 2012-01-01T00:00:00
 slug: "animedit"
 draft: false
@@ -24,4 +25,4 @@ Program to center animations exported from mulpatcher.
 
 ---
 
-*Archived from the [Manawydan UO tools archive](http://ultima.manawydan.cz/) (originally by RadstaR, 2004-2016).*
+*Archived from the [Manawydan UO tools archive](https://web.archive.org/web/2015/http://ultima.manawydan.cz/) (originally by RadstaR, 2004-2016).*

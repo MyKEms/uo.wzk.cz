@@ -1,5 +1,6 @@
 ---
 title: "AutoIt Warlock Script"
+description: "AutoIt Warlock Script is a set of AutoIt keyboard macro scripts found in the UO Toolbox; the scripts themselves target the game Shadowbane."
 date: 2019-03-31T00:00:00
 slug: "autoit-warlock"
 draft: true

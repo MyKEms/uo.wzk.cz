@@ -1,5 +1,6 @@
 ---
 title: "Assorted UO Scripts Collection"
+description: "Assorted UO Scripts is a 65 MB bundle of Ultima Online server script packs for RunUO, Orbsydia and Sphere, plus Daat99 OWLTR and UOSteam macros."
 date: 2019-03-31T00:00:00
 slug: "assorted-scripts"
 draft: false

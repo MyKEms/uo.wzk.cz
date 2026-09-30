@@ -1,14 +1,17 @@
-+++
-title = "Jak na animace v UO (UO Animation Guide)"
-slug = "tutorial-jak-na-animace"
-date = 2005-01-10T00:00:00
-draft = false
-categories = ["Tutorials"]
-tags = ["M@B", "ultima.cz Archive"]
-
-[params]
-  source = "ultima-cz"
-+++
+---
+title: "Jak na animace v UO (UO Animation Guide)"
+description: "Czech guide by M@B (2005) to Ultima Online animation structure: directions, frame offsets and counts, and creating patches with UOAnim."
+slug: "tutorial-jak-na-animace"
+date: 2005-01-10T00:00:00
+draft: false
+categories:
+  - "Tutorials"
+tags:
+  - "M@B"
+  - "ultima.cz Archive"
+params:
+  source: ultima-cz
+---
 
 Tento článek vás naučí vkládat animace do UO. Použité programy: **InsideUO**, **UO Animation Calculator**, **Michelangelo**, **UOAnim**.
 

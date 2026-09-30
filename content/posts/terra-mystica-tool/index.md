@@ -1,5 +1,6 @@
 ---
 title: "Terra Mystica Tool"
+description: "Terra Mystica Tool (TMTool) is a small German Windows utility from the Terra Mystica Ultima Online freeshard, archived from the UO Toolbox."
 date: 2019-03-31T00:00:00
 slug: "terra-mystica-tool"
 draft: false

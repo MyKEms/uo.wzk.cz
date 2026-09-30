@@ -1,17 +1,18 @@
 ---
 title: "SUMP"
+description: "SUMP is a C# Ultima Online client patcher with options for encryption removal, multi-client, always light, no-draw, global sound and stamina."
 date: 2019-03-31T00:00:00
 slug: "sump"
 draft: false
 categories:
-  - "Graphics"
+  - "Client"
 tags:
   - "Toolbox Archive"
 params:
   source: toolbox
 ---
 
-SUMP is a utility for working with Ultima Online MUL (data) files. It provides basic operations on UO's proprietary asset files including viewing, extracting, and simple modifications to art, tile, and other game data files.
+SUMP is a C# Ultima Online client patcher with options for encryption removal, multi-client, always light, no-draw, global sound and stamina.
 
 ## Download
 

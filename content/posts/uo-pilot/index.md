@@ -1,5 +1,6 @@
 ---
 title: "UO Pilot"
+description: "UO Pilot is a scriptable automation program for the Ultima Online client by WKnight. This archive holds several builds and 0.96 beta source."
 date: 2019-03-31T00:00:00
 slug: "uo-pilot"
 draft: true

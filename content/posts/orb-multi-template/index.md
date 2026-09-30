@@ -1,5 +1,6 @@
 ---
 title: "OrB Multi Template Manager 1.0"
+description: "OrB Multi Template Manager 1.0 by Dev Slay is a Windows tool for managing and editing multi building templates for Ultima Online shards."
 date: 2019-03-31T00:00:00
 slug: "orb-multi-template"
 draft: false

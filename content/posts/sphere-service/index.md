@@ -1,5 +1,6 @@
 ---
 title: "SphereService"
+description: "SphereService runs SphereSvr as a background tray service on Windows, restarting the Ultima Online server after crashes and starting it on boot."
 date: 2019-03-31T00:00:00
 slug: "sphere-service"
 draft: false

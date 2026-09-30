@@ -1,0 +1,10 @@
+<article class="post on-list compact-post">
+  <h3 class="post-title"><a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a></h3>
+  <div class="post-meta">
+    {{- range .Params.categories -}}
+      <span class="post-category"><a href="{{ (printf "/categories/%s/" (urlize .)) }}">{{ . }}</a></span>
+    {{- end -}}
+    {{- partial "source-badge.html" (dict "page" . "short" false) -}}
+  </div>
+  {{- with .Description }}<p class="post-summary">{{ . }}</p>{{ end }}
+</article>

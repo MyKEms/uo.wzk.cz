@@ -1,5 +1,6 @@
 ---
 title: "UOCH Ignition"
+description: "UOCH Ignition is a 2002 build of UOCH by NecroPotence, an Ultima Online client patcher, bundled with an Ignition configuration file."
 date: 2019-03-31T00:00:00
 slug: "uoch-ignition"
 draft: false
@@ -11,7 +12,7 @@ params:
   source: toolbox
 ---
 
-UOCH Ignition is an updated version of the UOCH character health monitoring tool. The Ignition variant provides improved compatibility with newer UO client versions and potentially additional features over the original UOCH release.
+UOCH Ignition is a 2002 build of UOCH by NecroPotence, an Ultima Online client patcher, bundled with an Ignition configuration file.
 
 ## Downloads
 

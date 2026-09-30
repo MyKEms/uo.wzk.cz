@@ -1,5 +1,6 @@
 ---
 title: "UOAssist"
+description: "UOAssist is the original third-party assistant for Ultima Online with macros, hotkeys and spell shortcuts, predating Razor. 175 MB archive."
 date: 2019-03-31T00:00:00
 slug: "uoassist"
 draft: false
@@ -11,7 +12,7 @@ params:
   source: toolbox
 ---
 
-UOAssist was the first widely-used third-party assistant program for Ultima Online, predating Razor. It provided essential features like macro recording, hotkeys, spell casting shortcuts, item identification, and inventory management. At its peak, UOAssist was so ubiquitous that OSI/EA officially supported it with a special API. This large archive (175 MB) likely contains multiple versions spanning the tool's long history. A piece of UO history.
+UOAssist is the original third-party assistant for Ultima Online with macros, hotkeys and spell shortcuts, predating Razor. 175 MB archive.
 
 ## Downloads
 

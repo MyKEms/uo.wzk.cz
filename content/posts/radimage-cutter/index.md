@@ -1,5 +1,6 @@
 ---
 title: "RadImage Cutter 1.0.0"
+description: "RadImage Cutter 1.0.0 by RadstaR cuts a large image into smaller tiles of a chosen size, for preparing Ultima Online gump and art graphics."
 date: 2012-01-01T00:00:00
 slug: "radimage-cutter"
 draft: false
@@ -25,4 +26,4 @@ Program 'cuts' picture to pictures with selected size.
 
 ---
 
-*Archived from the [Manawydan UO tools archive](http://ultima.manawydan.cz/) (originally by RadstaR, 2004-2016).*
+*Archived from the [Manawydan UO tools archive](https://web.archive.org/web/2015/http://ultima.manawydan.cz/) (originally by RadstaR, 2004-2016).*

@@ -1,17 +1,18 @@
 ---
 title: "UOCoast 1.0"
+description: "UO Coast Creator 1.0 generates OSI-style coastlines between land and water in an Ultima Online map0.mul and writes the shore items to items.wsc."
 date: 2019-03-31T00:00:00
 slug: "uo-coast"
 draft: false
 categories:
-  - "Client"
+  - "Graphics"
 tags:
   - "Toolbox Archive"
 params:
   source: toolbox
 ---
 
-UOCoast 1.0 is a coastal navigation and mapping tool for Ultima Online's sea travel system. It provides information about coastal routes, port locations, and sea travel paths across the UO world maps.
+UO Coast Creator 1.0 generates OSI-style coastlines between land and water in an Ultima Online map0.mul and writes the shore items to items.wsc.
 
 ## Downloads
 

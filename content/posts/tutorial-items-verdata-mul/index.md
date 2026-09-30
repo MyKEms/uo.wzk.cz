@@ -1,5 +1,6 @@
 ---
 title: "Vkládání itemů do verdata.mul (Adding Items to verdata.mul)"
+description: "Czech tutorial by RadstaR on adding a new item graphic and its tiledata properties to the Ultima Online verdata.mul file with MulBuilder."
 date: 2010-01-01T00:00:00
 slug: "tutorial-items-verdata-mul"
 draft: false
@@ -55,6 +56,10 @@ V okně **Properties** do položky **Name** zadejte jméno itemu, které se zobr
 
 Teď nám již nic nebrání vygenerovat upravené soubory. Klikněte tedy v hlavním okně na **ORIGINAL/IMPORT ALL ESSENCIAL** — chvilku počkejte. Nakonec vyberte **GENERATE/ALL** a na vybrané místo se vám uloží upravené soubory.
 
+## Related download
+
+- [Pridanie itemu – zbraň](/files/manawydan/Pridanie_item_zbran.pdf) — adding a new weapon item (PDF, Slovak)
+
 ---
 
-*Archived from the [Manawydan UO tools archive](http://ultima.manawydan.cz/) (originally by RadstaR, 2004-2016).*
+*Archived from the [Manawydan UO tools archive](https://web.archive.org/web/2015/http://ultima.manawydan.cz/) (originally by RadstaR, 2004-2016).*

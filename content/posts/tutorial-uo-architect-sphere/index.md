@@ -1,14 +1,18 @@
-+++
-title = "Stavíte na Sphere? Zkuste UO Architect!"
-slug = "tutorial-uo-architect-sphere"
-date = 2006-07-26T00:00:00
-draft = false
-categories = ["Tutorials"]
-tags = ["Aramis", "ultima.cz Archive"]
-
-[params]
-  source = "ultima-cz"
-+++
+---
+title: "Stavíte na Sphere? Zkuste UO Architect!"
+description: "Czech tutorial by Aramis (2006) on designing a building in UO Architect and placing it on a Sphere Ultima Online server with .unextract."
+slug: "tutorial-uo-architect-sphere"
+date: 2006-07-26T00:00:00
+draft: false
+categories:
+  - "Tutorials"
+  - "Sphere"
+tags:
+  - "Aramis"
+  - "ultima.cz Archive"
+params:
+  source: ultima-cz
+---
 
 Návod jak v UO Architektu vytvořit stavbu a převést ji na Sphere server.
 

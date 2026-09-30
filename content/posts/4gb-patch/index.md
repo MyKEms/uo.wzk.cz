@@ -1,5 +1,6 @@
 ---
 title: "4GB Patch"
+description: "4GB Patch is a Large Address Aware patcher that lets 32-bit executables such as the Ultima Online client.exe use up to 4 GB of memory."
 date: 2019-03-31
 slug: "4gb-patch"
 draft: false

@@ -1,51 +1,37 @@
-name: Validate Hugo Build
+name: Validate
 
 on:
   pull_request:
     branches: [main, dev]
-  push:
-    branches: [main, dev]
-    paths-ignore:
-      - 'README.md'
-      - 'CLAUDE.md'
-      - '.gitignore'
-      - 'LICENSE'
+  workflow_call:        # run by deploy.yml before every deploy
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+env:
+  HUGO_VERSION: 0.158.0
+  # sha256 of hugo_extended_${HUGO_VERSION}_linux-amd64.deb from the release's checksums.txt
+  HUGO_SHA256: b63b49c2961f6f9f761368f790c34f26b62c4b17dc915f014db6885f7cd5681f
 
 jobs:
   validate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v6
         with:
+          fetch-depth: 0   # enableGitInfo needs history for lastmod
 
-          fetch-depth: 0
-
-      - name: Install Hugo
+      - name: Install Hugo (checksum-verified)
         run: |
-          wget -q https://github.com/gohugoio/hugo/releases/download/v0.158.0/hugo_extended_0.158.0_linux-amd64.deb
-          sudo dpkg -i hugo_extended_0.158.0_linux-amd64.deb
+          deb="hugo_extended_${HUGO_VERSION}_linux-amd64.deb"
+          wget -q "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/${deb}"
+          echo "${HUGO_SHA256}  ${deb}" | sha256sum -c -
+          sudo dpkg -i "${deb}"
 
-      - name: Build site
-        run: hugo --minify
+      - name: Build site (warnings are errors)
+        run: hugo --minify --panicOnWarning
 
-      - name: Check for broken internal links
-        run: |
-          # Verify all /files/ download links point to existing files
-          grep -roh '/files/[^)>]*' content/posts/*/index.md | sort -u | while read f; do
-            if [ ! -f "static$f" ]; then
-              echo "BROKEN LINK: $f"
-              exit 1
-            fi
-          done
-          echo "All download links valid"
-
-      - name: Check file size limits
-        run: |
-          # Cloudflare Pages 25MB per-file limit
-          oversized=$(find public static -type f -size +25M 2>/dev/null)
-          if [ -n "$oversized" ]; then
-            echo "Files exceeding 25MB Cloudflare Pages limit:"
-            echo "$oversized"
-            exit 1
-          fi
-          echo "All files within size limits"
+      - name: Site checks (front matter, downloads, orphans, internal links, SEO, size)
+        run: python3 .github/scripts/check_site.py

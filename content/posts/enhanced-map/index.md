@@ -1,5 +1,6 @@
 ---
 title: "Enhanced Map"
+description: "Enhanced Map 0.2.1.12 is a real-time map overlay for Ultima Online showing player position, party members and location markers. Used with Razor Enhanced."
 date: 2019-03-31T00:00:00
 slug: "enhanced-map"
 draft: false

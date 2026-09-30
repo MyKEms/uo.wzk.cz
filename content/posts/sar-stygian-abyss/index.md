@@ -1,10 +1,11 @@
 ---
 title: "SAR - Stygian Abyss Re-Loader"
+description: "SAR (Stygian Abyss Re-Loader) 0.3.0 is a .NET loader utility for the Ultima Online Stygian Abyss enhanced client, from an Italian freeshard."
 date: 2019-03-31T00:00:00
 slug: "sar-stygian-abyss"
 draft: false
 categories:
-  - "Client"
+  - "UOKR"
 tags:
   - "Toolbox Archive"
 params:

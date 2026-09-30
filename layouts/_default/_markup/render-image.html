@@ -1,13 +1,16 @@
 {{- $src := .Destination -}}
 {{- $page := .Page -}}
+{{- $w := 0 }}{{ $h := 0 -}}
 {{- if not (strings.HasPrefix $src "/") -}}
   {{- with $page.Resources.Get $src -}}
     {{- $src = .RelPermalink -}}
+    {{- if and (ne .MediaType.SubType "svg") (ne .MediaType.SubType "gif") }}{{ $w = .Width }}{{ $h = .Height }}{{ end -}}
   {{- end -}}
 {{- end -}}
-<img src="{{ $src | safeURL }}"
-  {{- with .Text }} alt="{{ . }}"{{ end -}}
+{{- $alt := .Text | default (printf "%s screenshot" ($page.Title | plainify)) -}}
+<img src="{{ $src | safeURL }}" alt="{{ $alt }}"
   {{- with .Title }} title="{{ . }}"{{ end -}}
+  {{- if $w }} width="{{ $w }}" height="{{ $h }}"{{ end }}
   loading="lazy"
   decoding="async"
 />

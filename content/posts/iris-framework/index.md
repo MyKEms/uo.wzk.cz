@@ -1,5 +1,6 @@
 ---
 title: "Iris Developer Framework 0.4"
+description: "Iris Developer Framework 0.4 is a set of developer tools for the Iris2 3D client for Ultima Online, archived from the Manawydan collection."
 date: 2012-01-01T00:00:00
 slug: "iris-framework"
 draft: false
@@ -28,4 +29,4 @@ Iris client programs.
 
 ---
 
-*Archived from the [Manawydan UO tools archive](http://ultima.manawydan.cz/) (originally by RadstaR, 2004-2016).*
+*Archived from the [Manawydan UO tools archive](https://web.archive.org/web/2015/http://ultima.manawydan.cz/) (originally by RadstaR, 2004-2016).*

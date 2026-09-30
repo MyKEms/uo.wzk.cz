@@ -1,5 +1,6 @@
 ---
 title: "Sphere Server"
+description: "Sphere Server (SphereServer) is a C++ Ultima Online server emulator scripted in SCP. This archive has a 2018 Windows build, configs and scripts."
 date: 2019-03-31T00:00:00
 slug: "sphere-emulator"
 draft: false

@@ -1,5 +1,6 @@
 ---
 title: "Manawydan Civilization 3 Convertor 1.3.0"
+description: "Manawydan Civilization 3 Convertor 1.3.0 by RadstaR converts Civilization 3 FLC animations into Ultima Online animations for MulPatcher."
 date: 2012-01-01T00:00:00
 slug: "mw-civilization-convertor"
 draft: false
@@ -26,4 +27,4 @@ Convert Civilization 3 animations (FLC) to Ultima Online (Mulpatcher compatible)
 
 ---
 
-*Archived from the [Manawydan UO tools archive](http://ultima.manawydan.cz/) (originally by RadstaR, 2004-2016).*
+*Archived from the [Manawydan UO tools archive](https://web.archive.org/web/2015/http://ultima.manawydan.cz/) (originally by RadstaR, 2004-2016).*

@@ -1,5 +1,6 @@
 ---
 title: "SpyUO"
+description: "SpyUO 1.10 is a packet sniffer that shows decrypted Ultima Online client and server packets, with loot and vendor analyzers. 1.03 source included."
 date: 2019-03-31T00:00:00
 slug: "spyuo"
 draft: false

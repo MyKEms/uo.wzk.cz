@@ -1,5 +1,6 @@
 ---
 title: "Manawydan Sound Editor 1.2.1"
+description: "Manawydan Sound Editor 1.2.1 by RadstaR is a Windows editor for the Ultima Online sound files, for extracting and replacing game sounds."
 date: 2012-01-01T00:00:00
 slug: "mw-sound-editor"
 draft: false
@@ -25,4 +26,4 @@ Sound files editor.
 
 ---
 
-*Archived from the [Manawydan UO tools archive](http://ultima.manawydan.cz/) (originally by RadstaR, 2004-2016).*
+*Archived from the [Manawydan UO tools archive](https://web.archive.org/web/2015/http://ultima.manawydan.cz/) (originally by RadstaR, 2004-2016).*

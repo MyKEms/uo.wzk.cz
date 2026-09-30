@@ -1,5 +1,6 @@
 ---
 title: "PolRestart"
+description: "PolRestart by Shadowlord is a watchdog that restarts a crashed POL or Sphere Ultima Online server, in console and Windows versions. Source included."
 date: 2019-03-31T00:00:00
 slug: "pol-restart"
 draft: false

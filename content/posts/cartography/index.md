@@ -1,5 +1,6 @@
 ---
 title: "Cartography .86"
+description: "Cartography .86 by Punt converts between BMP images and the Ultima Online multimap.rle file used for treasure and world maps. C source included."
 date: 2012-01-01T00:00:00
 slug: "cartography"
 draft: false
@@ -26,4 +27,4 @@ Program export/import BMP to multimap.rle and backwards.
 
 ---
 
-*Archived from the [Manawydan UO tools archive](http://ultima.manawydan.cz/) (originally by RadstaR, 2004-2016).*
+*Archived from the [Manawydan UO tools archive](https://web.archive.org/web/2015/http://ultima.manawydan.cz/) (originally by RadstaR, 2004-2016).*

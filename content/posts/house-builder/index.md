@@ -1,5 +1,6 @@
 ---
 title: "House Builder RC13c"
+description: "House Builder RC13c is a C# tool for designing and editing Ultima Online houses and other multi-tile buildings. Source code included."
 date: 2012-01-01T00:00:00
 slug: "house-builder"
 draft: false
@@ -25,4 +26,4 @@ Program to building and editing houses etc.
 
 ---
 
-*Archived from the [Manawydan UO tools archive](http://ultima.manawydan.cz/) (originally by RadstaR, 2004-2016).*
+*Archived from the [Manawydan UO tools archive](https://web.archive.org/web/2015/http://ultima.manawydan.cz/) (originally by RadstaR, 2004-2016).*

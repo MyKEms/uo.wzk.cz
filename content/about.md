@@ -1,6 +1,7 @@
 ---
 title: "About This Archive"
 slug: "about"
+description: "About the Ultima Online Tools Archive: where the 190+ UO tools come from (uo.wzk.cz, Manawydan, ultima.cz, FreeShard Tool Box), credits and removal requests."
 draft: false
 ---
 
@@ -37,18 +38,18 @@ Together, this archive preserves **185+ tools and tutorials** for Ultima Online 
 
 This is a preservation archive of cached content. The tools and files are provided as-is, without any warranty. We are not responsible for the accuracy, functionality, or authorship of the archived content. All tools remain the property of their original authors.
 
-If you are an author of any tool archived here and would like it removed or updated, please contact us.
+If you are an author of any tool archived here and would like it removed or updated, or if you find a download that looks harmful, see [Security & Abuse Reports](/security/) — every report is reviewed manually and acted on.
 
 ## UO Erebor
 
-This archive is maintained primarily as a resource for the development of [UO Erebor](http://uoerebor.cz/) — a Czech Ultima Online shard run by the Erebor game masters. The tools collected here are actively used for world building, custom graphics, and server development on Erebor.
+This archive is maintained primarily as a resource for the development of [UO Erebor](https://uoerebor.cz/) — a Czech Ultima Online shard run by the Erebor game masters. The tools collected here are actively used for world building, custom graphics, and server development on Erebor.
 
 ## External Resources
 
 Other community archives and mirrors preserving Ultima Online development tools:
 
 - **[Ashkantra UO Mirror](https://mirror.ashkantra.de/)** — large download mirror of UO clients, tools, emulators, source code, and shard scripts (preserving since 2000)
-- **[CentrED#](https://github.com/kaczynskid/centern)** — actively developed map editor on GitHub (C# rewrite of CentrED+)
+- **[CentrED#](https://github.com/kaczy93/centredsharp)** — actively developed map editor on GitHub (C# rewrite of CentrED+)
 - **[ServUO](https://github.com/ServUO/ServUO)** — actively maintained RunUO-based server emulator
 - **[ClassicUO](https://github.com/ClassicUO/ClassicUO)** — open-source Ultima Online client
 - **[UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019)** — archive.org ISO with 160+ UO tools (source of our Toolbox Archive posts)

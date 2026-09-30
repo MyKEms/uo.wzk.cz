@@ -1,5 +1,6 @@
 ---
 title: "UO Patch File Maker 3.0"
+description: "UO Patch File Maker 3.0 Final is a German patch system for Ultima Online shards: an admin tool builds MUL patches and a player engine applies them."
 date: 2019-03-31T00:00:00
 slug: "uo-patch-file-maker"
 draft: false

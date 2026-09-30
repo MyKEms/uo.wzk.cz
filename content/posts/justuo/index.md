@@ -1,5 +1,6 @@
 ---
 title: "JustUO"
+description: "JustUO is a community fork of the RunUO Ultima Online server emulator. This archive also includes uo-crystal-master with custom scripts and systems."
 date: 2019-03-31T00:00:00
 slug: "justuo"
 draft: false

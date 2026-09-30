@@ -1,5 +1,6 @@
 ---
 title: "XMLSpawner"
+description: "XMLSpawner 2.1 is the XML-based spawner system for RunUO and ServUO Ultima Online servers, with conditional spawns, quests and attachments."
 date: 2019-03-31T00:00:00
 slug: "xmlspawner"
 draft: false
@@ -7,7 +8,6 @@ categories:
   - "Server"
 tags:
   - "Toolbox Archive"
-  - "RunUO"
 params:
   source: toolbox
 ---

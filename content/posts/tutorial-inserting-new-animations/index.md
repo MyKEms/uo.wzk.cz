@@ -1,5 +1,6 @@
 ---
 title: "Vkládání nových animací (Inserting New Animations)"
+description: "Czech tutorial by RadstaR on inserting a new creature animation into Ultima Online verdata.mul or anim.mul with UOAnim, Michelangelo and MulPatcher."
 date: 2010-01-01T00:00:00
 slug: "tutorial-inserting-new-animations"
 draft: false
@@ -84,4 +85,4 @@ V Mulpatcheru nemusíte vkládat animaci na stejnou pozici, ale můžete ji bez 
 
 ---
 
-*Archived from the [Manawydan UO tools archive](http://ultima.manawydan.cz/) (originally by RadstaR, 2004-2016).*
+*Archived from the [Manawydan UO tools archive](https://web.archive.org/web/2015/http://ultima.manawydan.cz/) (originally by RadstaR, 2004-2016).*

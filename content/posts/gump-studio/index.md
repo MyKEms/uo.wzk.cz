@@ -1,5 +1,6 @@
 ---
 title: "Gump Studio"
+description: "Gump Studio 1.8 is a visual gump designer for Ultima Online that exports dialogs as scripts for RunUO, Sphere and other servers. Includes the quinted mod."
 date: 2017-07-11T15:50:23
 slug: "gump-studio"
 draft: false

@@ -1,5 +1,6 @@
 ---
 title: "RadMap Worldforge 1.4.1"
+description: "RadMap Worldforge 1.4.1 by RadstaR is a map editor for Ultima Online map0.mul to map5.mul, based on WorldForge. Delphi source for 1.2.6."
 date: 2012-01-01T00:00:00
 slug: "radmap-worldforge"
 draft: false
@@ -29,4 +30,4 @@ Program to edit files from map0.mul to map5.mul.
 
 ---
 
-*Archived from the [Manawydan UO tools archive](http://ultima.manawydan.cz/) (originally by RadstaR, 2004-2016).*
+*Archived from the [Manawydan UO tools archive](https://web.archive.org/web/2015/http://ultima.manawydan.cz/) (originally by RadstaR, 2004-2016).*

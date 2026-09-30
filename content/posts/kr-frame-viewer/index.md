@@ -1,5 +1,6 @@
 ---
 title: "KR Frame Viewer 0.6.1"
+description: "KR Frame Viewer 0.6.1 by Kons is a viewer for animation frames unpacked from Kingdom Reborn animationframe and paperdoll UOP files for Ultima Online."
 date: 2012-01-01T00:00:00
 slug: "kr-frame-viewer"
 draft: false
@@ -26,4 +27,4 @@ This is simple program to see Frames of unpacked animationframeX.uop, paperdoll.
 
 ---
 
-*Archived from the [Manawydan UO tools archive](http://ultima.manawydan.cz/) (originally by RadstaR, 2004-2016).*
+*Archived from the [Manawydan UO tools archive](https://web.archive.org/web/2015/http://ultima.manawydan.cz/) (originally by RadstaR, 2004-2016).*

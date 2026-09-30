@@ -1,5 +1,6 @@
 ---
 title: "ConnectUO"
+description: "ConnectUO is an Ultima Online freeshard browser and launcher that lists servers and connects the client in one click. Desktop 0.2.3.3 and source."
 date: 2019-03-31
 slug: "connectuo"
 draft: false

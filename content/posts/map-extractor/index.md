@@ -1,5 +1,6 @@
 ---
 title: "Map Extractor"
+description: "Map Extractor 1.6 by Dougan Ironfist copies, resizes and splices Ultima Online map and statics files between facets and map sizes, with static ID remap."
 date: 2017-07-11T16:34:44
 slug: "map-extractor"
 draft: false

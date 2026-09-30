@@ -1,5 +1,6 @@
 ---
 title: "Paradise Static Art Editor"
+description: "Paradise Static Art Editor is a Windows editor for the Ultima Online tiledata.mul file, which holds item and land tile names and flags."
 date: 2012-01-01T00:00:00
 slug: "paradise-static-art-editor"
 draft: false
@@ -24,4 +25,4 @@ Program edit file tiledata.mul.
 
 ---
 
-*Archived from the [Manawydan UO tools archive](http://ultima.manawydan.cz/) (originally by RadstaR, 2004-2016).*
+*Archived from the [Manawydan UO tools archive](https://web.archive.org/web/2015/http://ultima.manawydan.cz/) (originally by RadstaR, 2004-2016).*

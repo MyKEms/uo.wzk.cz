@@ -1,5 +1,6 @@
 ---
 title: "Razor"
+description: "Razor is a widely used Ultima Online assistant with macros, hotkeys, dress and organizer agents, counters and overhead messages. Classic build."
 date: 2019-03-31
 slug: "razor-assistant"
 draft: false

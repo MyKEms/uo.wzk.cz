@@ -9,13 +9,13 @@ Ultima Online tools archive — the largest Czech collection of UO development r
 - **ultima.cz** — Czech UO community tutorials (2003-2014) by Lynx, M@B, Marty, Aramis
 - **[UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019)** — archive.org collection of 160+ UO tools (Public Domain, 2019)
 
-Maintained as a resource for [UO Erebor](http://uoerebor.cz/) shard development.
+Maintained as a resource for [UO Erebor](https://uoerebor.cz/) shard development.
 
 **Live site:** https://uo.wzk.cz/
 
 ## Content
 
-- **185 tool/tutorial posts** — map editors, graphics tools, animation convertors, server emulators, client assistants, GM tools, scripting utilities
+- **188 tool/tutorial posts** — map editors, graphics tools, animation convertors, server emulators, client assistants, GM tools, scripting utilities
 - **~260 download files** (~353 MB) — original archives preserved as-is
 - **11 Czech tutorials** — items, animations, buildings, verdata/MUL files, map generation, building philosophy
 - **Categories:** Graphics, Client, GM, Server, Sphere, UOKR, Tutorials, News
@@ -60,7 +60,7 @@ Push to `main` or `dev` triggers GitHub Actions → Hugo build → Cloudflare Pa
 | `main` | Production | https://uo.wzk.cz/ |
 | `dev` | Preview | https://dev.uo-wzk-cz.pages.dev/ |
 
-**Note:** The `dev` preview loads CSS from production (due to `baseURL`), so CSS changes are only visible after merging to `main`.
+**Checks:** after `hugo --minify`, run `python3 .github/scripts/check_site.py` (same checks as CI).
 
 ### Required GitHub Secrets
 
@@ -75,7 +75,7 @@ Push to `main` or `dev` triggers GitHub Actions → Hugo build → Cloudflare Pa
 uo.wzk.cz/
 ├── config/_default/              # hugo.toml, params.toml, menus.toml
 ├── content/
-│   ├── posts/slug/index.md       # Page bundles (185 tool/tutorial posts)
+│   ├── posts/slug/index.md       # Page bundles (188 published posts + 7 drafts)
 │   ├── about.md                  # About/credits page
 │   ├── archive.md                # Archive by date
 │   └── sitemap.md                # All tools by category
@@ -103,9 +103,9 @@ uo.wzk.cz/
 │   │   ├── sphere/
 │   │   ├── uokr/
 │   │   └── vd/
-│   ├── files/toolbox/            # Toolbox Archive downloads (62 ZIPs, 132MB)
+│   ├── files/toolbox/            # Toolbox Archive downloads (60 files)
 │   ├── images/                   # Background, logos, bod.gif bullet icon
-│   └── style.css                 # Custom CSS
+│   └── _redirects                # Legacy + pagination redirects
 ├── themes/terminal/              # Theme (vendored)
 ├── .github/workflows/            # CI/CD
 ├── wp-export/                    # WordPress export data (gitignored)
@@ -154,3 +154,7 @@ Found a broken link or want to add a missing tool? Open an [issue](https://githu
 ## License
 
 Site code and original content: [CC BY-NC 4.0](LICENSE). Third-party tools and downloads remain the property of their respective authors.
+
+## Security & abuse reports
+
+See [SECURITY.md](SECURITY.md). Found a harmful download or have a removal request? [Report it privately](https://github.com/MyKEms/uo.wzk.cz/security/advisories/new) or [open an issue](https://github.com/MyKEms/uo.wzk.cz/issues/new) — every report is reviewed manually.
