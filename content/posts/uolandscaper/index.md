@@ -1,5 +1,6 @@
 ---
 title: "UOLandscaper"
+description: "UOLandscaper 1.4 by Orbsydia generates Ultima Online map and statics files from painted BMP images, with versions 1.1 to 1.4 archived."
 date: 2017-07-12T14:01:41
 slug: "uolandscaper"
 draft: false

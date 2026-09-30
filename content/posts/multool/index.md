@@ -1,5 +1,6 @@
 ---
 title: "MULTool 0.10.0"
+description: "MULTool 0.10.0 is a small Windows utility for editing Ultima Online map files and copying statics between map areas. Archived from Manawydan."
 date: 2012-01-01T00:00:00
 slug: "multool"
 draft: false

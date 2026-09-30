@@ -1,5 +1,6 @@
 ---
 title: "UO Protocol Guide"
+description: "UO Protocol Guide by Kons is a PDF reference of Ultima Online client and server network packets, from the T2A era to the Kingdom Reborn client."
 date: 2012-01-01T00:00:00
 slug: "uo-protocol-guide"
 draft: false

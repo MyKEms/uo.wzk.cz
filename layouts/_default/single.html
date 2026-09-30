@@ -1,8 +1,10 @@
 {{ define "main" }}
 <article class="post">
-  <h1 class="post-title">
-    <a href="{{ .Permalink }}">{{ .Title | markdownify }}</a>
-  </h1>
+  <nav class="breadcrumbs" aria-label="Breadcrumb">
+    <a href="/">Home</a>
+    {{- with index (.Params.categories | default (slice)) 0 }} › <a href="/categories/{{ urlize . }}/">{{ . }}</a>{{ end }} › {{ .Title }}
+  </nav>
+  <h1 class="post-title">{{ .Title | markdownify }}</h1>
   <div class="post-meta">
     {{- if .Date -}}
       <time class="post-date">
@@ -18,21 +20,13 @@
     {{- if and (.Param "readingTime") (eq (.Param "readingTime") true) -}}
       <span class="post-reading-time">{{ .ReadingTime }} {{ $.Site.Params.minuteReadingTime | default "min read" }} ({{ .WordCount }} {{ $.Site.Params.words | default "words" }})</span>
     {{- end -}}
-    {{- if eq (.Params.source) "manawydan" -}}
-      <span class="source-badge">Manawydan Archive</span>
-    {{- end -}}
-    {{- if eq (.Params.source) "ultima-cz" -}}
-      <span class="source-badge source-badge--ucz">ultima.cz Archive</span>
-    {{- end -}}
-    {{- if eq (.Params.source) "toolbox" -}}
-      <span class="source-badge source-badge--toolbox">Toolbox Archive</span>
-    {{- end -}}
+    {{- partial "source-badge.html" (dict "page" . "short" false) -}}
   </div>
 
   {{ if .Params.tags }}
     <span class="post-tags">
       {{ range .Params.tags }}
-      #<a href="{{ (urlize (printf "tags/%s/" .)) | absLangURL }}">{{ . }}</a>&nbsp;
+      #<a href="/tags/{{ urlize . }}/">{{ . }}</a>&nbsp;
       {{ end }}
     </span>
   {{ end }}
@@ -54,6 +48,18 @@
       </div>
     {{- end -}}
   </div>
+
+  {{- $related := site.RegularPages.Related . | first 6 }}
+  {{- with $related }}
+  <section class="related">
+    <h2>Related tools</h2>
+    <ul>
+      {{- range . }}
+      <li><a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ with index (.Params.categories | default (slice)) 0 }} <span class="sitemap-author">{{ . }}</span>{{ end }}</li>
+      {{- end }}
+    </ul>
+  </section>
+  {{- end }}
 
   {{ if eq .Type $.Site.Params.contentTypeName }}
     {{ partial "posts_pagination.html" . }}

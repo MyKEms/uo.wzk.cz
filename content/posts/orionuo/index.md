@@ -1,5 +1,6 @@
 ---
 title: "OrionUO"
+description: "OrionUO is an open-source C++ alternative client for Ultima Online with improved rendering and the Orion Assistant. Full source and binaries."
 date: 2019-03-31
 slug: "orionuo"
 draft: false

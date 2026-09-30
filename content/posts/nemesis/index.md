@@ -1,10 +1,11 @@
 ---
 title: "Nemesis"
+description: "Nemesis by Arya is unfinished C# source code for an Ultima Online item viewer that reads art, hues, tiledata and verdata files. Source only."
 date: 2012-01-01T00:00:00
 slug: "nemesis"
 draft: false
 categories:
-  - "GM"
+  - "Graphics"
 tags:
   - "Arya"
   - "Manawydan Archive"

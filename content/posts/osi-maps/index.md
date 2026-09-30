@@ -1,5 +1,6 @@
 ---
 title: "OSI Maps for UO Landscaper"
+description: "OSI Maps for UO Landscaper are the original Ultima Online facet surfaces, without heights, prepared as images for regeneration in UO Landscaper 1.1."
 date: 2012-01-01T00:00:00
 slug: "osi-maps"
 draft: false

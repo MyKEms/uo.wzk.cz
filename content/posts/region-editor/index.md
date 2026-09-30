@@ -1,10 +1,11 @@
 ---
 title: "Region Editor"
+description: "Region Editor is a map-based editor for RunUO Regions.xml on Ultima Online shards: regions, sub-regions and spawns. Dougan Ironfist and Arya versions."
 date: 2017-07-11T16:29:53
 slug: "region-editor"
 draft: false
 categories:
-  - "RunUO"
+  - "GM"
 tags:
   - "Manawydan Archive"
   - "Arya"

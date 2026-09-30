@@ -1,5 +1,6 @@
 ---
 title: "CentrED#"
+description: "CentrED# is a C# rewrite of the CentrED client/server map editor for Ultima Online by kaczy93, running on Windows, Linux and macOS. MIT licensed."
 date: 2026-02-07T00:00:00
 slug: "centred-sharp"
 draft: false
@@ -16,24 +17,24 @@ CentrED# is a complete C# rewrite of the original [CentrED](/centred/) map edito
 - Client/Server map editor (same architecture as original CentrED)
 - Cross-platform: **Windows**, **Linux**, **macOS** (including Apple Silicon)
 - Built on .NET — no legacy FreePascal/Lazarus dependencies
-- Active development (722 commits, v0.6.11.30 as of February 2026)
+- Active development (723 commits, v0.6.11.31 as of June 2026)
 - MIT license
 - Acknowledges work from ServUO, ModernUO, ClassicUO, and UOFiddler
 
 ## Downloads
 
-Latest release: **v0.6.11.30** (February 7, 2026)
+Latest release: **v0.6.11.31** (June 30, 2026)
 
-Download from GitHub Releases — files are too large to host here (~26-32 MB each):
+Download from GitHub Releases — the editor builds are too large to host here (~26–28 MB each):
 
 | File | Size |
 |------|------|
 | [CentrED-Windows-x64](https://github.com/kaczy93/centredsharp/releases/latest) | 26 MB |
 | [CentrED-Linux-x64](https://github.com/kaczy93/centredsharp/releases/latest) | 26 MB |
 | [CentrED-macOS-arm64](https://github.com/kaczy93/centredsharp/releases/latest) | 27 MB |
-| [Cedserver-Windows-x64](https://github.com/kaczy93/centredsharp/releases/latest) | 32 MB |
-| [Cedserver-Linux-x64](https://github.com/kaczy93/centredsharp/releases/latest) | 32 MB |
-| [Cedserver-macOS-arm64](https://github.com/kaczy93/centredsharp/releases/latest) | 30 MB |
+| [Cedserver-Windows-x64](https://github.com/kaczy93/centredsharp/releases/latest) | 190 KB |
+| [Cedserver-Linux-x64](https://github.com/kaczy93/centredsharp/releases/latest) | 155 KB |
+| [Cedserver-macOS-arm64](https://github.com/kaczy93/centredsharp/releases/latest) | 155 KB |
 
 ## Building from Source
 

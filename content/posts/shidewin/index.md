@@ -1,5 +1,6 @@
 ---
 title: "ShideWin 1.1"
+description: "ShideWin 1.1 is a small Windows utility that forces hidden windows to become visible, used with multiple Ultima Online client windows."
 date: 2019-03-31T00:00:00
 slug: "shidewin"
 draft: true

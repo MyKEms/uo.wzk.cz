@@ -1,5 +1,6 @@
 ---
 title: "UO Loop"
+description: "UO Loop is a small macro loop program for the Ultima Online client that repeats simple in-game action sequences such as skill training."
 date: 2019-03-31T00:00:00
 slug: "uo-loop"
 draft: false

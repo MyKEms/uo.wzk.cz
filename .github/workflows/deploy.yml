@@ -11,27 +11,45 @@ on:
       - 'wp-export/**'
       - 'LICENSE'
 
+concurrency:
+  group: deploy-${{ github.ref_name }}
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+
+env:
+  HUGO_VERSION: 0.158.0
+  HUGO_SHA256: b63b49c2961f6f9f761368f790c34f26b62c4b17dc915f014db6885f7cd5681f
+  WRANGLER_VERSION: 4.145.0
+
 jobs:
+  validate:
+    uses: ./.github/workflows/validate.yml
+
   deploy:
+    needs: validate
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     permissions:
       contents: read
       deployments: write
     steps:
       - uses: actions/checkout@v6
         with:
-
           fetch-depth: 0
 
-      - name: Install Hugo
+      - name: Install Hugo (checksum-verified)
         run: |
-          wget -q https://github.com/gohugoio/hugo/releases/download/v0.158.0/hugo_extended_0.158.0_linux-amd64.deb
-          sudo dpkg -i hugo_extended_0.158.0_linux-amd64.deb
+          deb="hugo_extended_${HUGO_VERSION}_linux-amd64.deb"
+          wget -q "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/${deb}"
+          echo "${HUGO_SHA256}  ${deb}" | sha256sum -c -
+          sudo dpkg -i "${deb}"
 
       - run: hugo --minify
 
       - name: Deploy to Cloudflare Pages
-        run: npx wrangler pages deploy public --project-name=uo-wzk-cz --branch=${{ github.ref_name }}
+        run: npx --yes "wrangler@${WRANGLER_VERSION}" pages deploy public --project-name=uo-wzk-cz --branch="${{ github.ref_name }}"
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}

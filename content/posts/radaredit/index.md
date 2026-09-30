@@ -1,5 +1,6 @@
 ---
 title: "RadarEdit"
+description: "RadarEdit is a small Windows editor for the Ultima Online radarcol.mul file, which sets the colors of tiles on the in-game radar map."
 date: 2012-01-01T00:00:00
 slug: "radaredit"
 draft: false

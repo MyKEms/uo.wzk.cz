@@ -1,5 +1,6 @@
 ---
 title: "WorldMaker Multi Editor"
+description: "WorldMaker Multi Editor by Punt is a Qt4 editor for the Ultima Online multi.mul file, used to build and export houses and other multis."
 date: 2012-01-01T00:00:00
 slug: "worldmaker-multi-editor"
 draft: false

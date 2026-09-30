@@ -1,5 +1,6 @@
 ---
 title: "POLLaunch"
+description: "POLLaunch 0.97 is a graphical launcher for POL (Penultima Online) Ultima Online servers, for starting and stopping the server without a console."
 date: 2019-03-31T00:00:00
 slug: "pol-launch"
 draft: false

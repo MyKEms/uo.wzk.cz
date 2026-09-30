@@ -1,5 +1,6 @@
 ---
 title: "UOCH"
+description: "UOCH by NecroPotence is an Ultima Online client patcher that removes encryption and adds client tweaks. Versions 1.0 to 2.2 with source code."
 date: 2019-03-31T00:00:00
 slug: "uoch"
 draft: false
@@ -11,7 +12,7 @@ params:
   source: toolbox
 ---
 
-UOCH (UO Character Health) is a character health and status monitoring tool for Ultima Online. It provides an external overlay or display showing real-time health, mana, and stamina information for your character and potentially nearby players. Useful for PvP situations where quick status awareness is critical.
+UOCH by NecroPotence is an Ultima Online client patcher that removes encryption and adds client tweaks. Versions 1.0 to 2.2 with source code.
 
 ## Downloads
 

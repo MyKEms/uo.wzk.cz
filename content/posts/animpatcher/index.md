@@ -1,5 +1,6 @@
 ---
 title: "Anim.IDX Patcher"
+description: "Anim.IDX Patcher is a tool that changes which animation ID a creature uses by editing the Ultima Online anim.idx file. Delphi source included."
 date: 2012-01-01T00:00:00
 slug: "animpatcher"
 draft: false

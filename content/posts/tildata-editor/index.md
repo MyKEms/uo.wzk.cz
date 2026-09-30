@@ -1,5 +1,6 @@
 ---
 title: "TilData Editor"
+description: "TilData Editor (TileData.exe, 2001) is a Windows editor for the Ultima Online tiledata.mul file with item and land tile names and flags."
 date: 2012-01-01T00:00:00
 slug: "tildata-editor"
 draft: false

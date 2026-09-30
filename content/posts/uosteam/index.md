@@ -1,5 +1,6 @@
 ---
 title: "UOSteam"
+description: "UOSteam 1.0.5 is an Ultima Online assistant with its own macro language for movement, combat and item handling. Includes docs and script repo."
 date: 2019-03-31
 slug: "uosteam"
 draft: false

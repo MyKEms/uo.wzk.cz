@@ -1,5 +1,6 @@
 ---
 title: "Skill Tools"
+description: "Skill Tools is a small Windows utility for editing the list and names of skills in the Ultima Online client skills files. Archived from Manawydan."
 date: 2012-01-01T00:00:00
 slug: "skill-tools"
 draft: false

@@ -1,5 +1,6 @@
 ---
 title: "UOMap Fix 0.6"
+description: "UOMap Fix 0.6 is a utility that repairs jagged tooth-like edges appearing in Ultima Online map files after generating terrain from BMP images."
 date: 2012-01-01T00:00:00
 slug: "uo-map-fix"
 draft: false

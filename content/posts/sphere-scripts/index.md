@@ -1,5 +1,6 @@
 ---
 title: "Sphere Scripts Collection"
+description: "Sphere Scripts Collection is an archive of complete Sphere server script packs for Ultima Online, including The Lost Isles shard and Grim scripts."
 date: 2012-01-01T00:00:00
 slug: "sphere-scripts"
 draft: false

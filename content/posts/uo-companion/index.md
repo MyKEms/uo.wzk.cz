@@ -1,5 +1,6 @@
 ---
 title: "UO Companion"
+description: "UO Companion is an old helper program that runs alongside the Ultima Online client, archived as its original installer from the UO Toolbox."
 date: 2019-03-31T00:00:00
 slug: "uo-companion"
 draft: false

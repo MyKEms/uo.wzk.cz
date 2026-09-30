@@ -1,5 +1,6 @@
 ---
 title: "UO House Editor 2.05"
+description: "UO House Editor 2.05 is a Windows tool for designing houses and other buildings for Ultima Online shards. Archived from the Manawydan collection."
 date: 2012-01-01T00:00:00
 slug: "uo-house-editor"
 draft: false

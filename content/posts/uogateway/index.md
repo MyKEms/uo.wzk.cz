@@ -1,5 +1,6 @@
 ---
 title: "UOGateway"
+description: "UOGateway 1.9.0.1266 Beta is the client of the UOGateway freeshard list, a combined Ultima Online shard browser, patcher and launcher."
 date: 2019-03-31T00:00:00
 slug: "uogateway"
 draft: false
@@ -11,7 +12,7 @@ params:
   source: toolbox
 ---
 
-UOGateway 1.9.0.1266 (Beta) is a network gateway and proxy tool for Ultima Online connections. It acts as a relay between UO clients and servers, providing features like connection encryption, server list manipulation, and network traffic management. Useful for shard operators who need to route connections through specific network configurations or provide additional security layers.
+UOGateway 1.9.0.1266 Beta is the client of the UOGateway freeshard list, a combined Ultima Online shard browser, patcher and launcher.
 
 ## Downloads
 

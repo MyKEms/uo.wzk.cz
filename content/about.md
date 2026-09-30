@@ -1,6 +1,7 @@
 ---
 title: "About This Archive"
 slug: "about"
+description: "About the Ultima Online Tools Archive: where the 190+ UO tools come from (uo.wzk.cz, Manawydan, ultima.cz, FreeShard Tool Box), credits and removal requests."
 draft: false
 ---
 
@@ -48,7 +49,7 @@ This archive is maintained primarily as a resource for the development of [UO Er
 Other community archives and mirrors preserving Ultima Online development tools:
 
 - **[Ashkantra UO Mirror](https://mirror.ashkantra.de/)** — large download mirror of UO clients, tools, emulators, source code, and shard scripts (preserving since 2000)
-- **[CentrED#](https://github.com/kaczynskid/centern)** — actively developed map editor on GitHub (C# rewrite of CentrED+)
+- **[CentrED#](https://github.com/kaczy93/centredsharp)** — actively developed map editor on GitHub (C# rewrite of CentrED+)
 - **[ServUO](https://github.com/ServUO/ServUO)** — actively maintained RunUO-based server emulator
 - **[ClassicUO](https://github.com/ClassicUO/ClassicUO)** — open-source Ultima Online client
 - **[UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019)** — archive.org ISO with 160+ UO tools (source of our Toolbox Archive posts)

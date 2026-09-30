@@ -1,5 +1,6 @@
 ---
 title: "WorldMaker Dekaru's Edition 1.1"
+description: "WorldMaker Dekaru's Edition 1.1 is a modified WorldMaker editor for Ultima Online mapX.mul files by Punt and Dekaru. Sources included."
 date: 2012-01-01T00:00:00
 slug: "worldmaker-dekarus"
 draft: false

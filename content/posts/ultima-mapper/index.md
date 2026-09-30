@@ -1,5 +1,6 @@
 ---
 title: "Ultima Mapper"
+description: "Ultima Mapper is a standalone map viewer for Ultima Online that renders all facets from client data files, with zoom, search and image export."
 date: 2019-03-31T00:00:00
 slug: "ultima-mapper"
 draft: false

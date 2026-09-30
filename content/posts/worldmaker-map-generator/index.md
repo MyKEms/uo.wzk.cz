@@ -1,5 +1,6 @@
 ---
 title: "WorldMaker Map Generator"
+description: "WorldMaker Map Generator by Punt generates Ultima Online map and statics files from UO Landscaper BMP images, reusing its transitions."
 date: 2012-01-01T00:00:00
 slug: "worldmaker-map-generator"
 draft: false

@@ -8,14 +8,14 @@ Combined Ultima Online tools archive merging four sources:
 - **ultima.cz** — Czech UO community tutorials (2003-2014), cached March 2026
 - **[UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019)** — archive.org collection of 160+ UO shard development tools (Public Domain, 2019), merged March 2026
 
-Hugo static site hosted on Cloudflare Pages. Maintained as a resource for [UO Erebor](http://uoerebor.cz/) shard development. ~185 posts total.
+Hugo static site hosted on Cloudflare Pages. Maintained as a resource for [UO Erebor](http://uoerebor.cz/) shard development. 188 published posts (+7 drafts). Site title: **Ultima Online Tools Archive** (short: UO Tools Archive).
 
 ## Tech stack
 
 - **SSG**: Hugo extended (v0.158.0+)
 - **Theme**: [Terminal](https://github.com/panr/hugo-theme-terminal) (vendored in `themes/terminal/`)
 - **Hosting**: Cloudflare Pages (project: `uo-wzk-cz`)
-- **CI/CD**: GitHub Actions — `deploy.yml` (build + deploy) and `validate.yml` (build + link checks on PRs)
+- **CI/CD**: GitHub Actions — `validate.yml` (PRs + called by deploy), `deploy.yml` (validate → build → deploy, pinned wrangler), `links.yml` (weekly external link report). All checks live in `.github/scripts/check_site.py` — run it locally after `hugo --minify`.
 - **Analytics**: Cloudflare Web Analytics (JS snippet in footer partial)
 - **License**: CC BY-NC 4.0
 - **Repo**: https://github.com/MyKEms/uo.wzk.cz
@@ -31,19 +31,27 @@ Hugo static site hosted on Cloudflare Pages. Maintained as a resource for [UO Er
 
 ## Custom layout overrides (in `layouts/`)
 
-- `partials/footer.html` — clean footer "© YYYY MyKE" + Cloudflare analytics + disclaimer partial
+- `_default/baseof.html` — SEO `<title>` patterns, `<main>` landmark
+- `partials/head.html` — replaces theme head: meta description (front matter `description` → summary fallback), canonical, OG/Twitter (`images/og-image.jpg`), single fingerprinted CSS bundle (theme CSS + `assets/site.css`, relative URL)
+- `partials/schema.html` — JSON-LD: WebSite, SoftwareApplication (tools) / TechArticle (tutorials), BreadcrumbList
+- `index.html` + `content/_index.md` — home: intro, category cards, recently added (no pagination)
+- `_default/term.html`, `_default/terms.html`, `_default/list.html` — single-page compact lists (no pagination; old `/page/N` URLs 301 via `static/_redirects`); `/tags/` splits Authors vs Archive sources
+- `partials/post-row.html`, `partials/source-badge.html` — shared list row + MW/UCZ/TB badge
+- `404.html` — helpful 404 with links
+- `index.llms.txt` → `/llms.txt` (AEO: every tool with its description, by category); `robots.txt` → Sitemap line
+- `partials/footer.html` — footer "© YYYY MyKE" + About/All tools/RSS/GitHub/license links + Cloudflare analytics + disclaimer partial
 - `partials/logo.html` — custom logo with UO image + text (overrides theme's escaped logoText)
 - `partials/disclaimer.html` — site-wide archive disclaimer banner
-- `_default/single.html` — overrides theme single.html to show source badges on posts (`params.source: manawydan`, `ultima-cz`, or `toolbox`)
-- `_default/list.html` — compact post listing (title + category badge, no images/summaries)
+- `_default/single.html` — breadcrumbs, source badge, "Related tools" (Hugo related content by category/tags) (`params.source: manawydan`, `ultima-cz`, or `toolbox`)
 - `_default/archive-page.html` — archive grouped by year/month (used by `content/archive.md`)
 - `_default/sitemap-page.html` — all tools index by category (used by `content/sitemap.md`)
-- `_default/_markup/render-image.html` — resolves page bundle images to absolute paths
+- `_default/_markup/render-image.html` — resolves page bundle images, adds width/height and a fallback alt (`<title> screenshot`)
 
 ## Custom styling
 
-- `static/style.css` — UO background wallpaper, semi-transparent content area, logo styling, archive disclaimer, source badge, UO-style bullet points (loaded automatically by Terminal theme if file exists)
-- `static/images/background.jpg` — UO wallpaper from original WordPress site
+- `assets/site.css` — (bundled + fingerprinted by head.html) UO background wallpaper (WebP + JPEG fallback), semi-transparent content area, logo styling, archive disclaimer, source badge, UO-style bullet points compact lists, category cards, breadcrumbs, related tools
+- `static/images/background.webp` / `background.jpg` — UO wallpaper (1920px, from original WordPress site)
+- `static/images/og-image.jpg` — 1200×630 social share image; `static/favicon.png`, `static/apple-touch-icon.png` — gold "UO" icon
 - `static/images/logo.jpg` — UO logo from original WordPress site
 - `static/images/bod.gif` — UO bullet point icon from Manawydan
 - `static/images/mw_logo.jpg` — Manawydan logo (used on about page)
@@ -52,7 +60,7 @@ Hugo static site hosted on Cloudflare Pages. Maintained as a resource for [UO Er
 
 - **Original (uo.wzk.cz)**: 27 ZIP files in `static/files/`. Posts reference them as `/files/filename.zip`.
 - **Manawydan archive**: ~170 files in `static/files/manawydan/` with subdirectories by author (arya/, kons/, orbsydia/, punt/, radstar/, ravenal/, runuo/, sphere/, uokr/, vd/). Posts reference them as `/files/manawydan/...`. Total ~172MB.
-- **Toolbox archive**: 62 ZIP files in `static/files/toolbox/`. Posts reference them as `/files/toolbox/filename.zip`. Total ~132MB. Files over 25MB (Cloudflare Pages limit) are hosted on Cloudflare R2 — see R2 section below.
+- **Toolbox archive**: 60 files in `static/files/toolbox/`. Posts reference them as `/files/toolbox/filename.zip`. Total ~132MB. Files over 25MB (Cloudflare Pages limit) are hosted on Cloudflare R2 — see R2 section below.
 
 ### Large files (Cloudflare R2)
 
@@ -87,12 +95,19 @@ hugo server -D
 
 ## Content structure
 
-- **185 posts** in `content/posts/` (6 original + 103 from Manawydan + 7 ultima.cz tutorials + 69 from Toolbox Archive)
+- **188 published posts** in `content/posts/` (6 original + 103 Manawydan + 7 ultima.cz + 72 Toolbox) + 7 drafts
+- **Every post needs a `description:`** (50–170 chars, English, starts with what the tool is) — CI fails otherwise. All front matter is YAML.
 - **Standalone pages**: `content/about.md`, `content/archive.md`, `content/sitemap.md`
-- **Categories**: Graphics, Client, GM, Server, Sphere, UOKR, Tutorials, News
-- **Tags**: Author names (RadstaR, Arya, Kons, Orbsydia, Punt, Ravenal, VD, Lynx, M@B, Marty, Aramis) + "Manawydan Archive" + "ultima.cz Archive" + "Toolbox Archive" + "RunUO"
+- **Categories** (CI-enforced list): Graphics, Client, GM, Server, Sphere, UOKR, Tutorials, News — each has `content/categories/<name>/_index.md` with an SEO description. A post may have two (e.g. Tutorials + Sphere).
+- **Tags**: Author names (RadstaR, Arya, Kons, Orbsydia, Punt, Ravenal, VD, Lynx, M@B, Marty, Aramis) + "Manawydan Archive" + "ultima.cz Archive" + "Toolbox Archive" (tags are authors/sources only — no platform tags like RunUO)
 - **Source badges**: `params.source: manawydan` shows green "MW" badge, `params.source: ultima-cz` shows brown "UCZ" badge, `params.source: toolbox` shows blue "TB" badge
 - **Navigation**: Home, All Tools, Categories, Authors, Tutorials, Archive, About (7 items, `showMenuItems = 7`)
+
+## Quarantine & removed downloads
+
+- `quarantine/` holds files pulled from the site because antivirus/Netcraft flags them (cheats, bots, UOAM.zip — Bitdefender deletes it on checkout). It is outside `static/`, so it is **never deployed**. Their posts are `draft: true`.
+- **Never put a download in `static/files/` without linking it from a published post** — CI's orphan check fails on unlinked files (drafts don't count), because unlinked files are still public.
+- TDVPatchmaker was removed entirely (Netcraft/Cloudflare abuse report 871959ba769f7534, Sep 2026).
 
 ## Important notes
 
@@ -103,6 +118,6 @@ hugo server -D
 - Images were unwrapped from clickable links to avoid 404s on listing pages
 - Manawydan posts use date 2012-01-01 (archive date), tutorials use 2010-01-01
 - Toolbox Archive posts use date 2019-03-31 (ISO archive date)
-- The `dev` preview loads CSS from production (due to `baseURL`), so CSS-only changes are not visible on dev — must merge to `main` to verify
-- UO bullet icons (bod.gif) are inlined as base64 in style.css for the top navigation
+- CSS is referenced by relative fingerprinted URL, so the `dev` preview shows its own CSS
+- UO bullet icons (bod.gif) are inlined as base64 in assets/site.css for the top navigation
 - **After every content or structural change, update README.md and CLAUDE.md** to keep post counts, author lists, and documentation in sync

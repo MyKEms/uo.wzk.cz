@@ -1,5 +1,6 @@
 ---
 title: "SphereScriptGenerator"
+description: "Sphere Script Generator (55i) by Patrick Donlin is a form-based generator of weapon, armor and item SCP scripts for Sphere Ultima Online servers."
 date: 2019-03-31T00:00:00
 slug: "sphere-script-generator"
 draft: false

@@ -1,5 +1,6 @@
 ---
 title: "UO Localization 2.2"
+description: "UO Localization 2.2 is a small editor for Ultima Online cliloc localization files, used to translate client messages. Versions 2.1 and 2.2."
 date: 2012-01-01T00:00:00
 slug: "uo-localization"
 draft: false

@@ -1,10 +1,11 @@
 ---
 title: "UO:SA Loader v2.3.0.0"
+description: "UO:SA Loader 2.3 by Kons removes encryption and changes the server IP of the Ultima Online Stygian Abyss enhanced client for freeshards."
 date: 2012-01-01T00:00:00
 slug: "uosa-loader"
 draft: false
 categories:
-  - "Client"
+  - "UOKR"
 tags:
   - "Kons"
   - "Manawydan Archive"

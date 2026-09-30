@@ -1,10 +1,11 @@
 ---
 title: "Cliloc Editor 2"
+description: "Cliloc Editor 2 is a .NET editor for Ultima Online cliloc localization files: search, edit, add and remove client text strings by cliloc ID."
 date: 2019-03-31
 slug: "cliloc-editor"
 draft: false
 categories:
-  - "Client"
+  - "Graphics"
 tags:
   - "Toolbox Archive"
 params:

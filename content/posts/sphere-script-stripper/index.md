@@ -1,5 +1,6 @@
 ---
 title: "Sphere Script Stripper"
+description: "Sphere Script Stripper 0.99i build 10 is a utility for cleaning Sphere server SCP scripts, removing comments and empty lines before release."
 date: 2019-03-31T00:00:00
 slug: "sphere-script-stripper"
 draft: false

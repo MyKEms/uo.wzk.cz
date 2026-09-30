@@ -1,5 +1,6 @@
 ---
 title: "UOAnim"
+description: "UOAnim is a simple Windows tool for creating new Ultima Online creature animations frame by frame and saving them as UOP patch files."
 date: 2012-01-01T00:00:00
 slug: "uoanim"
 draft: false

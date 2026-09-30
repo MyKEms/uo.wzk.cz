@@ -1,5 +1,6 @@
 ---
 title: "Updatemap"
+description: "Updatemap replaces all occurrences of a chosen item ID in Ultima Online map and statics files with another ID. From the Manawydan collection."
 date: 2012-01-01T00:00:00
 slug: "updatemap"
 draft: false

@@ -1,5 +1,6 @@
 ---
 title: "Change UOP"
+description: "Change UOP is a small Windows utility that changes the ID of a complete animation stored inside an Ultima Online UOP package file. From Manawydan."
 date: 2012-01-01T00:00:00
 slug: "change-uop"
 draft: false

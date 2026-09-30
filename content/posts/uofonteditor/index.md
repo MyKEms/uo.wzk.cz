@@ -1,5 +1,6 @@
 ---
 title: "UOFontEditor"
+description: "UOFontEditor is a Windows editor for the Unicode fonts used by the Ultima Online client. Archived from the Manawydan UO tools collection."
 date: 2012-01-01T00:00:00
 slug: "uofonteditor"
 draft: false

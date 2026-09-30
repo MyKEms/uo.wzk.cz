@@ -8,6 +8,12 @@ autoCover = false
 showLastUpdated = false
 ReadMore = "Read More"
 
+# SEO
+description = "Free archive of 180+ Ultima Online (UO) shard development tools: map editors, MUL/UOP graphics editors, server emulators, GM tools, client utilities and Czech modding tutorials."
+shortName = "UO Tools Archive"
+author = "MyKE"
+ogImage = "images/og-image.jpg"
+
 [logo]
-  logoText = "UO Tools Archive"
+  logoText = "Ultima Online Tools Archive"
   logoHomeLink = "/"

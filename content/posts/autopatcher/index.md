@@ -1,5 +1,6 @@
 ---
 title: "Autopatcher"
+description: "Autopatcher by VD is a Windows tool for creating and applying verdata patches to Ultima Online client files. Delphi source code included."
 date: 2012-01-01T00:00:00
 slug: "autopatcher"
 draft: false

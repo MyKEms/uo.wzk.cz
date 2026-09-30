@@ -1,5 +1,6 @@
 ---
 title: "WorldMaker Map Generator 2"
+description: "WorldMaker Map Generator 2 by Punt builds Ultima Online map and statics files from BMP images in UO Landscaper format. Altitude mod included."
 date: 2012-01-01T00:00:00
 slug: "worldmaker-map-generator-2"
 draft: false

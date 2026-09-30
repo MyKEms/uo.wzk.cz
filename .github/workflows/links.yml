@@ -1,0 +1,32 @@
+name: External link report
+
+on:
+  schedule:
+    - cron: '0 6 * * 1'   # Mondays 06:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+env:
+  HUGO_VERSION: 0.158.0
+  HUGO_SHA256: b63b49c2961f6f9f761368f790c34f26b62c4b17dc915f014db6885f7cd5681f
+
+jobs:
+  external-links:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Install Hugo (checksum-verified)
+        run: |
+          deb="hugo_extended_${HUGO_VERSION}_linux-amd64.deb"
+          wget -q "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/${deb}"
+          echo "${HUGO_SHA256}  ${deb}" | sha256sum -c -
+          sudo dpkg -i "${deb}"
+
+      - run: hugo --minify
+
+      # Report only — dead third-party links are expected in an archive; see the job summary
+      - run: python3 .github/scripts/check_site.py external

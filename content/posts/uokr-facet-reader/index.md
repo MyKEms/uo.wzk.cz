@@ -1,5 +1,6 @@
 ---
 title: "UOKR Facet Reader 1.4"
+description: "UOKR Facet Reader 1.4 displays the content of map facet files unpacked from Ultima Online Kingdom Reborn Facet UOP packages. Delphi source."
 date: 2012-01-01T00:00:00
 slug: "uokr-facet-reader"
 draft: false

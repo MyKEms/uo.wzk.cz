@@ -1,5 +1,6 @@
 ---
 title: "House Builder RC13c"
+description: "House Builder RC13c is a C# tool for designing and editing Ultima Online houses and other multi-tile buildings. Source code included."
 date: 2012-01-01T00:00:00
 slug: "house-builder"
 draft: false

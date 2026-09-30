@@ -1,5 +1,6 @@
 ---
 title: "Site Migration: WordPress to Hugo + Manawydan Archive Merged"
+description: "News: uo.wzk.cz moved from WordPress to Hugo in March 2026 and merged the Manawydan Ultima Online tools archive rescued by Golfin."
 date: 2026-03-18T00:00:00
 slug: "site-migration-2026"
 draft: false

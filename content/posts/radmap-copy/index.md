@@ -1,5 +1,6 @@
 ---
 title: "RadMap Copy"
+description: "RadMap Copy by RadstaR copies a region from one Ultima Online map to another, including terrain and statics. Versions 2.2.0 and 3.0.1."
 date: 2017-07-11T16:12:23
 slug: "radmap-copy"
 draft: false

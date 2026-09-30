@@ -1,5 +1,6 @@
 ---
 title: "UO Localization Editor 2.0.0 Final"
+description: "UO Localization Editor 2.0.0 Final by Ravenal is a Windows editor for Ultima Online cliloc files, used to translate client text strings."
 date: 2012-01-01T00:00:00
 slug: "uo-localization-editor"
 draft: false
@@ -7,6 +8,7 @@ categories:
   - "Graphics"
 tags:
   - "Orbsydia"
+  - "Ravenal"
   - "Manawydan Archive"
 params:
   source: manawydan

@@ -1,17 +1,18 @@
 ---
 title: "SkillCreator"
+description: "SkillCreator by Sebastian Hartte builds new Ultima Online skills.mul and skills.idx files from an XML list of skill names and usable flags."
 date: 2019-03-31T00:00:00
 slug: "skill-creator"
 draft: false
 categories:
-  - "Server"
+  - "Graphics"
 tags:
   - "Toolbox Archive"
 params:
   source: toolbox
 ---
 
-SkillCreator is a tool for creating and configuring custom skills for UO server emulators. It provides a guided interface for defining skill properties, gain rates, and associated actions, then generates the corresponding server script code.
+SkillCreator by Sebastian Hartte builds new Ultima Online skills.mul and skills.idx files from an XML list of skill names and usable flags.
 
 ## Download
 

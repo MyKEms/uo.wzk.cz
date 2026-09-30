@@ -1,5 +1,6 @@
 ---
 title: "Client Auto Update 0.87"
+description: "Client Auto Update 0.87 is a patcher and launcher that lets Ultima Online freeshard players download updated client files from a shard server."
 date: 2019-03-31T00:00:00
 slug: "client-auto-update"
 draft: false

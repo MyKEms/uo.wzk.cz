@@ -1,10 +1,11 @@
 ---
 title: "ScriptAnalizer"
+description: "Analyse Scripts 496r (ScriptAnalizer) is a console tool that checks Sphere server scripts for logic and syntax errors. German documentation."
 date: 2019-03-31T00:00:00
 slug: "script-analizer"
 draft: false
 categories:
-  - "Server"
+  - "Sphere"
 tags:
   - "Toolbox Archive"
 params:

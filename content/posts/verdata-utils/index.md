@@ -1,5 +1,6 @@
 ---
 title: "Verdata Utils"
+description: "Verdata Utils are small Windows programs for patching and repairing the Ultima Online verdata.mul patch file. Archived from Manawydan."
 date: 2012-01-01T00:00:00
 slug: "verdata-utils"
 draft: false

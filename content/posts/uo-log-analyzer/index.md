@@ -1,10 +1,11 @@
 ---
 title: "UO Log Analyzer 1.0.2.6"
+description: "UO Log Analyzer 1.0.2.6 (RunUO Log Analyzer) parses RunUO server console logs for Ultima Online shard admins. Includes help and a Flash demo."
 date: 2012-01-01T00:00:00
 slug: "uo-log-analyzer"
 draft: false
 categories:
-  - "Graphics"
+  - "Server"
 tags:
   - "Manawydan Archive"
 params:
