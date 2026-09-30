@@ -154,3 +154,7 @@ Found a broken link or want to add a missing tool? Open an [issue](https://githu
 ## License
 
 Site code and original content: [CC BY-NC 4.0](LICENSE). Third-party tools and downloads remain the property of their respective authors.
+
+## Security & abuse reports
+
+See [SECURITY.md](SECURITY.md). Found a harmful download or have a removal request? [Report it privately](https://github.com/MyKEms/uo.wzk.cz/security/advisories/new) or [open an issue](https://github.com/MyKEms/uo.wzk.cz/issues/new) — every report is reviewed manually.

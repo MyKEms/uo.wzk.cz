@@ -1,0 +1,6 @@
+Contact: https://github.com/MyKEms/uo.wzk.cz/security/advisories/new
+Contact: https://github.com/MyKEms/uo.wzk.cz/issues/new
+Expires: 2027-09-30T00:00:00.000Z
+Policy: https://uo.wzk.cz/security/
+Canonical: https://uo.wzk.cz/.well-known/security.txt
+Preferred-Languages: en, cs
