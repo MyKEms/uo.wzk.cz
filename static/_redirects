@@ -13,3 +13,7 @@
 # Removed tools (2026-09): flagged by antivirus / Netcraft, obsolete
 /tdv-patchmaker/              /categories/client/      301
 /tdv-patchmaker               /categories/client/      301
+
+# Removed downloads: explicit rules so Pages never serves a stale cached copy
+/files/toolbox/TDVPatchmaker.zip          /security/   301
+/files/toolbox/UOAM.zip                   /security/   301
