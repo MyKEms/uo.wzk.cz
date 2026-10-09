@@ -21,8 +21,8 @@ Program remove client encryption.
 
 ## Downloads
 
-- [Download](/files/manawydan/uorice.rar) (83 KB)
-- [Source code](/files/manawydan/uorice_source.rar) (1.23 MB)
+- [Download](https://files.uo.wzk.cz/manawydan/uorice.rar) (83 KB)
+- [Source code](https://files.uo.wzk.cz/manawydan/uorice_source.rar) (1.23 MB)
 
 ---
 

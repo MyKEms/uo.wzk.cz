@@ -16,7 +16,7 @@ UO Coast Creator 1.0 generates OSI-style coastlines between land and water in an
 
 ## Downloads
 
-* [UOCoast 1.0](/files/toolbox/UOCoast-1.0.zip) (104 KB)
+* [UOCoast 1.0](https://files.uo.wzk.cz/toolbox/UOCoast-1.0.zip) (104 KB)
 
 ---
 *Archived from the [UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019) (archive.org, 2019).*

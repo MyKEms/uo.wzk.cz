@@ -21,7 +21,7 @@ Program edit skills files.
 
 ## Downloads
 
-- [Download](/files/manawydan/skilltools.rar) (45 KB)
+- [Download](https://files.uo.wzk.cz/manawydan/skilltools.rar) (45 KB)
 
 ---
 

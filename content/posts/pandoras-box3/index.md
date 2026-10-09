@@ -27,7 +27,7 @@ Pandora’s Box it’s an Ultima Online utility for building and administrate sh
 
 ## Downloads
 
-  * [PandorasBox3.0.0.5.zip](</files/PandorasBox3.0.0.5.zip>)
+  * [PandorasBox3.0.0.5.zip](<https://files.uo.wzk.cz/PandorasBox3.0.0.5.zip>)
 
 ## Manawydan Archive Downloads
 
@@ -35,13 +35,13 @@ Pandora’s Box it’s an Ultima Online utility for building and administrate sh
 
 ![Manawydan screenshot](pandorasbox-mw.jpg)
 
-  * [Pandora’s Box 2.0.0.5 C# Source code](/files/manawydan/arya/pandorasbox2005source.rar) (1.84 MB)
-  * [Pandora’s Box 2.0.0.5 RunUO 2 update](/files/manawydan/arya/pandorasbox2005_runuo2.rar) (460 KB)
-  * [Pandora’s Box 2.0.0.7 update](/files/manawydan/arya/pandorasbox2007.rar) (353 KB)
-  * [Pandora’s Box 3.0.0.2](/files/manawydan/arya/pandorasbox3002.rar) (670 KB)
+  * [Pandora’s Box 2.0.0.5 C# Source code](https://files.uo.wzk.cz/manawydan/arya/pandorasbox2005source.rar) (1.84 MB)
+  * [Pandora’s Box 2.0.0.5 RunUO 2 update](https://files.uo.wzk.cz/manawydan/arya/pandorasbox2005_runuo2.rar) (460 KB)
+  * [Pandora’s Box 2.0.0.7 update](https://files.uo.wzk.cz/manawydan/arya/pandorasbox2007.rar) (353 KB)
+  * [Pandora’s Box 3.0.0.2](https://files.uo.wzk.cz/manawydan/arya/pandorasbox3002.rar) (670 KB)
 
 ## Others
 
   * [Official Pandora’s Box website](<https://code.google.com/archive/p/pandorasbox3/>)
-  * [PandorasBox3.0.0.5_source_code.zip](</files/PandorasBox3.0.0.5_source_code.zip>)
-  * [PandorasBox-MLItemsDll.zip](</files/PandorasBox-MLItemsDll.zip>)
+  * [PandorasBox3.0.0.5_source_code.zip](<https://files.uo.wzk.cz/PandorasBox3.0.0.5_source_code.zip>)
+  * [PandorasBox-MLItemsDll.zip](<https://files.uo.wzk.cz/PandorasBox-MLItemsDll.zip>)

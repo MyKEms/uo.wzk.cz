@@ -16,7 +16,7 @@ AGC (Automated Game Controller) 5.0 Beta 2.4 is an automation and game control t
 
 ## Downloads
 
-- [AGC 5.0 Beta 2.4](/files/toolbox/AGC-5.0-BETA-2.4.zip) (359 KB)
+- [AGC 5.0 Beta 2.4](https://files.uo.wzk.cz/toolbox/AGC-5.0-BETA-2.4.zip) (359 KB)
 
 ---
 *Archived from the [UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019) (archive.org, 2019).*

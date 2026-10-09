@@ -21,8 +21,8 @@ Database with links to RunUO scripts.
 
 ## Downloads
 
-- [MHT format](/files/manawydan/runuo/runuo_scripts_mht.rar) (123 KB)
-- [XLS format](/files/manawydan/runuo/runuo_scripts_xls.rar) (286 KB)
+- [MHT format](https://files.uo.wzk.cz/manawydan/runuo/runuo_scripts_mht.rar) (123 KB)
+- [XLS format](https://files.uo.wzk.cz/manawydan/runuo/runuo_scripts_xls.rar) (286 KB)
 
 ---
 

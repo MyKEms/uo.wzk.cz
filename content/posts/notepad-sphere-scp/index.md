@@ -15,7 +15,7 @@ A custom installer for Notepad++ 4.1.2 preconfigured with syntax highlighting fo
 
 ## Download
 
-- [Notepad++ SphereSCP Edition](/files/toolbox/Notepad++4.1.2.SphereSCP_Edititon.Installer.zip) (1.9 MB)
+- [Notepad++ SphereSCP Edition](https://files.uo.wzk.cz/toolbox/Notepad++4.1.2.SphereSCP_Edititon.Installer.zip) (1.9 MB)
 
 ---
 

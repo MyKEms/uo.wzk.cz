@@ -22,7 +22,7 @@ Convert BMP pictures to VD file format.
 
 ## Downloads
 
-- [Download](/files/manawydan/radstar/mw_anim_vd_convertor110.7z) (422 KB)
+- [Download](https://files.uo.wzk.cz/manawydan/radstar/mw_anim_vd_convertor110.7z) (422 KB)
 
 ---
 

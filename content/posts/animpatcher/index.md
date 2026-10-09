@@ -21,8 +21,8 @@ Program change mobiles animation ID.
 
 ## Downloads
 
-- [Download](/files/manawydan/animpatcher.rar) (172 KB)
-- [Delphi source code](/files/manawydan/animpatcher_source.rar) (7 KB)
+- [Download](https://files.uo.wzk.cz/manawydan/animpatcher.rar) (172 KB)
+- [Delphi source code](https://files.uo.wzk.cz/manawydan/animpatcher_source.rar) (7 KB)
 
 ---
 

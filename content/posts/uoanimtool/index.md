@@ -21,9 +21,9 @@ Program to viewing and extracting animations.
 
 ## Downloads
 
-- [1.0.1.0 CZ](/files/manawydan/uoanimtool.rar) (33 KB)
-- [1.0.2.0](/files/manawydan/uoanimtool1020.rar) (36 KB)
-- [1.0.2.0 C# source code](/files/manawydan/uoanimtool1020_source.rar) (36 KB)
+- [1.0.1.0 CZ](https://files.uo.wzk.cz/manawydan/uoanimtool.rar) (33 KB)
+- [1.0.2.0](https://files.uo.wzk.cz/manawydan/uoanimtool1020.rar) (36 KB)
+- [1.0.2.0 C# source code](https://files.uo.wzk.cz/manawydan/uoanimtool1020_source.rar) (36 KB)
 
 ---
 

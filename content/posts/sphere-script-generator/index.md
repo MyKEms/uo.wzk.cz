@@ -15,7 +15,7 @@ SphereScriptGenerator automates the creation of Sphere SCP script files. Rather 
 
 ## Download
 
-- [SphereScriptGenerator](/files/toolbox/SphereScriptGenerator.zip) (363 KB)
+- [SphereScriptGenerator](https://files.uo.wzk.cz/toolbox/SphereScriptGenerator.zip) (363 KB)
 
 ---
 

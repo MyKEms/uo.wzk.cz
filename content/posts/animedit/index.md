@@ -21,7 +21,7 @@ Program to center animations exported from mulpatcher.
 
 ## Downloads
 
-- [Download](/files/manawydan/animedit0_2.rar) (1.5 MB)
+- [Download](https://files.uo.wzk.cz/manawydan/animedit0_2.rar) (1.5 MB)
 
 ---
 

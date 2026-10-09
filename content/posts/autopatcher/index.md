@@ -22,8 +22,8 @@ Patch maker.
 
 ## Downloads
 
-- [Download](/files/manawydan/vd/autopatcher.rar) (727 KB)
-- [Source Code](/files/manawydan/vd/autopatcher_source.rar) (2.8 MB)
+- [Download](https://files.uo.wzk.cz/manawydan/vd/autopatcher.rar) (727 KB)
+- [Source Code](https://files.uo.wzk.cz/manawydan/vd/autopatcher_source.rar) (2.8 MB)
 
 ---
 

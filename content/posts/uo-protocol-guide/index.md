@@ -22,7 +22,7 @@ This is a complete UO protocol PDF file, from T2A to most recent KR client.
 
 ## Downloads
 
-- [Download PDF](/files/manawydan/kons/UO_Protocol_Guide.pdf) (383 KB)
+- [Download PDF](https://files.uo.wzk.cz/manawydan/kons/UO_Protocol_Guide.pdf) (383 KB)
 
 ---
 

@@ -39,7 +39,7 @@ Hopefully this application will help everyone that needs to work on their region
 
 ## Downloads
 
-  * Region Editor for RunUO SVN 663 –****[Region Editor 1.7.zip](</files/Region-Editor-1.7.zip>)
+  * Region Editor for RunUO SVN 663 –****[Region Editor 1.7.zip](<https://files.uo.wzk.cz/Region-Editor-1.7.zip>)
 
 ## Manawydan Archive Downloads
 
@@ -47,16 +47,16 @@ Hopefully this application will help everyone that needs to work on their region
 
 ![Manawydan screenshot](regioneditor-mw.jpg)
 
-  * [Region Editor (Manawydan)](/files/manawydan/arya/regioneditor.rar) (203 KB)
-  * [Region Editor C# Source](/files/manawydan/arya/regioneditorsource.rar) (55 KB)
-  * [Region Editor 2 C# Source](/files/manawydan/arya/regioneditor2source.rar) (55 KB)
-  * [Region Editor for RunUO 2](/files/manawydan/arya/regioneditorrunuo2.rar) (311 KB)
-  * [Region Editor RunUO 2 C# Source](/files/manawydan/arya/regioneditorrunuo2source.rar) (72 KB)
+  * [Region Editor (Manawydan)](https://files.uo.wzk.cz/manawydan/arya/regioneditor.rar) (203 KB)
+  * [Region Editor C# Source](https://files.uo.wzk.cz/manawydan/arya/regioneditorsource.rar) (55 KB)
+  * [Region Editor 2 C# Source](https://files.uo.wzk.cz/manawydan/arya/regioneditor2source.rar) (55 KB)
+  * [Region Editor for RunUO 2](https://files.uo.wzk.cz/manawydan/arya/regioneditorrunuo2.rar) (311 KB)
+  * [Region Editor RunUO 2 C# Source](https://files.uo.wzk.cz/manawydan/arya/regioneditorrunuo2source.rar) (72 KB)
 
 ## Others
 
   * [Official Region Editor website](<http://www.runuo.com/community/threads/region-editor-for-runuo-svn-663.468210/>)
-  * [Source code](</files/sourcecode-dougan-ironfist-runuo-scripts-n-tools.zip>)
+  * [Source code](<https://files.uo.wzk.cz/sourcecode-dougan-ironfist-runuo-scripts-n-tools.zip>)
 
 ---
 

@@ -22,7 +22,7 @@ Program checking gump coordinates and transparency (items gump).
 
 ## Downloads
 
-- [Download](/files/manawydan/radstar/mw_gump_checker150.rar) (509 KB)
+- [Download](https://files.uo.wzk.cz/manawydan/radstar/mw_gump_checker150.rar) (509 KB)
 
 ---
 

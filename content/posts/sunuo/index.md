@@ -19,9 +19,9 @@ Ultima Online Emulator.
 
 ## Downloads
 
-- [Download 0.5.1](/files/manawydan/runuo/sunuo0_5_1.rar) (3.3 MB)
-- [C# Source Code](/files/manawydan/runuo/sunuo0_5_1_source.rar) (1.57 MB)
-- [Changelog](/files/manawydan/runuo/sunuo_changelog.txt)
+- [Download 0.5.1](https://files.uo.wzk.cz/manawydan/runuo/sunuo0_5_1.rar) (3.3 MB)
+- [C# Source Code](https://files.uo.wzk.cz/manawydan/runuo/sunuo0_5_1_source.rar) (1.57 MB)
+- [Changelog](https://files.uo.wzk.cz/manawydan/runuo/sunuo_changelog.txt)
 
 ---
 

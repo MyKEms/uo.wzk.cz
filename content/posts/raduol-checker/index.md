@@ -22,10 +22,10 @@ Program searching errors in pictures for UO Landscaper.
 
 ## Downloads
 
-- [Download](/files/manawydan/radstar/raduol_checker1_2_0.rar) (234 KB)
-- [Changelog (CZ)](/files/manawydan/radstar/raduol_changelog_czech.txt)
-- [Changelog (EN)](/files/manawydan/radstar/raduol_changelog.txt)
-- [Delphi 2006 source](/files/manawydan/radstar/raduolchecker_source.rar) (115 KB)
+- [Download](https://files.uo.wzk.cz/manawydan/radstar/raduol_checker1_2_0.rar) (234 KB)
+- [Changelog (CZ)](https://files.uo.wzk.cz/manawydan/radstar/raduol_changelog_czech.txt)
+- [Changelog (EN)](https://files.uo.wzk.cz/manawydan/radstar/raduol_changelog.txt)
+- [Delphi 2006 source](https://files.uo.wzk.cz/manawydan/radstar/raduolchecker_source.rar) (115 KB)
 
 ---
 

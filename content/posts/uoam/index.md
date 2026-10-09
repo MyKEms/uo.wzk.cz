@@ -20,7 +20,7 @@ UOAM (UO Auto Map) is the classic real-time map application for Ultima Online. I
 
 ## Downloads
 
-- [UOAM (multiple versions)](/files/toolbox/UOAM.zip) (1.0 MB)
+- [UOAM (multiple versions)](https://files.uo.wzk.cz/toolbox/UOAM.zip) (1.0 MB)
 
 ---
 *Archived from the [UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019) (archive.org, 2019).*

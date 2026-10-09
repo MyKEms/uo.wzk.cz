@@ -16,7 +16,7 @@ The 4GB Patch (also known as Large Address Aware patch) is a tiny but essential 
 
 ## Download
 
-- [4GB Patch](/files/toolbox/4gb_patch.zip) (21 KB)
+- [4GB Patch](https://files.uo.wzk.cz/toolbox/4gb_patch.zip) (21 KB)
 
 ---
 *Archived from the [UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019) (archive.org, 2019).*

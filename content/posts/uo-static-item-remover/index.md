@@ -21,7 +21,7 @@ Program remove items from statics.
 
 ## Downloads
 
-- [Download](/files/manawydan/uosir20102beta.rar) (345 KB)
+- [Download](https://files.uo.wzk.cz/manawydan/uosir20102beta.rar) (345 KB)
 
 ---
 

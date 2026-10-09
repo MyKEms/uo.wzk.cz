@@ -14,7 +14,7 @@ params:
 ---
 ## Downloads
 
-- [C# Source code](/files/manawydan/arya/nemesis.rar) (21 KB)
+- [C# Source code](https://files.uo.wzk.cz/manawydan/arya/nemesis.rar) (21 KB)
 
 ---
 

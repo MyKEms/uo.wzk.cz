@@ -21,7 +21,7 @@ Program edit and copy statics and map files.
 
 ## Downloads
 
-- [Download](/files/manawydan/multool.rar) (32 KB)
+- [Download](https://files.uo.wzk.cz/manawydan/multool.rar) (32 KB)
 
 ---
 

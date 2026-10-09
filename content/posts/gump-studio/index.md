@@ -23,8 +23,8 @@ This program allows you to build gump and then save them as file or scripts for 
 
 ## Downloads
 
-  * [GumpStudio_1_8_R3.zip](</files/GumpStudio_1_8_R3.zip>)
-  * [GumpStudio_1_8_R3_quinted-02](</files/GumpStudio_1_8_R3_quinted-02.zip>) – 1.8q.02 
+  * [GumpStudio_1_8_R3.zip](<https://files.uo.wzk.cz/GumpStudio_1_8_R3.zip>)
+  * [GumpStudio_1_8_R3_quinted-02](<https://files.uo.wzk.cz/GumpStudio_1_8_R3_quinted-02.zip>) – 1.8q.02 
     * There is very usefull tool called “Gump Studio” maded by Bradley Uffner. But it has little problem that is critical for me – it crashed if you try to use сyrillic alphabet. That was there reason why this moddification appears. As it appeared Author was greedy for chars cache and limit it little more then 1000 chars, that cause exception as сyrillic alphabet in unicode use codes 1025 and 1040-1105, so after I encrease cach size to 1120 the problem was solved. (If someone will need use chars above 1120 – write, it’s easy to encrease it more). Also i made this changes: 
       * Add property “Partial Hue” for Labels, as client in most cases use this behaviour.
       * Add property “Unicode” for labels, that switch using fonts between ASCII and Unicode.
@@ -39,11 +39,11 @@ This program allows you to build gump and then save them as file or scripts for 
 
 ![Manawydan screenshot](gumpstudio-mw.jpg)
 
-  * [Gump Studio 1.8 (Manawydan)](/files/manawydan/orbsydia/gump_studio_1_8.rar) (283 KB)
-  * [Gump Studio 1.8 R2](/files/manawydan/orbsydia/gump_studio_1_8_r2.rar) (205 KB)
-  * [Gump Studio 1.8 R3](/files/manawydan/orbsydia/gump_studio_1_8_r3.rar) (209 KB)
-  * [Gump Studio 1.7 Updated](/files/manawydan/orbsydia/gump_studio_1_7_updated.rar) (184 KB)
-  * [Gump Studio 1.7 Manual PDF](/files/manawydan/orbsydia/gump_studio_1_7_manual.pdf) (445 KB)
+  * [Gump Studio 1.8 (Manawydan)](https://files.uo.wzk.cz/manawydan/orbsydia/gump_studio_1_8.rar) (283 KB)
+  * [Gump Studio 1.8 R2](https://files.uo.wzk.cz/manawydan/orbsydia/gump_studio_1_8_r2.rar) (205 KB)
+  * [Gump Studio 1.8 R3](https://files.uo.wzk.cz/manawydan/orbsydia/gump_studio_1_8_r3.rar) (209 KB)
+  * [Gump Studio 1.7 Updated](https://files.uo.wzk.cz/manawydan/orbsydia/gump_studio_1_7_updated.rar) (184 KB)
+  * [Gump Studio 1.7 Manual PDF](https://files.uo.wzk.cz/manawydan/orbsydia/gump_studio_1_7_manual.pdf) (445 KB)
 
 ## Others
 

@@ -16,7 +16,7 @@ UO Pilot is an advanced automation and piloting tool for Ultima Online. It provi
 
 ## Downloads
 
-- [UO Pilot](/files/toolbox/UO-Pilot.zip) (6.5 MB)
+- [UO Pilot](https://files.uo.wzk.cz/toolbox/UO-Pilot.zip) (6.5 MB)
 
 ---
 *Archived from the [UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019) (archive.org, 2019).*

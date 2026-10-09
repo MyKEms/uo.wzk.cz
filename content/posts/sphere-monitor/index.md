@@ -15,7 +15,7 @@ SphereMonitor is a monitoring utility for Sphere server instances. It watches th
 
 ## Download
 
-- [SphereMonitor](/files/toolbox/SphereMonitor.zip) (14 KB)
+- [SphereMonitor](https://files.uo.wzk.cz/toolbox/SphereMonitor.zip) (14 KB)
 
 ---
 

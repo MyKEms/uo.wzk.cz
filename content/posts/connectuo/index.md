@@ -16,7 +16,7 @@ ConnectUO was the premier server browser and launcher for Ultima Online freeshar
 
 ## Downloads
 
-- [ConnectUO (Desktop + Source)](/files/toolbox/ConnectUO.zip) (18 MB)
+- [ConnectUO (Desktop + Source)](https://files.uo.wzk.cz/toolbox/ConnectUO.zip) (18 MB)
 
 ---
 *Archived from the [UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019) (archive.org, 2019).*

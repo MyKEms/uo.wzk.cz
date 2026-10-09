@@ -21,7 +21,7 @@ Program edit statics animations.
 
 ## Downloads
 
-- [Download](/files/manawydan/paradise_static_anim_patcher.rar) (203 KB)
+- [Download](https://files.uo.wzk.cz/manawydan/paradise_static_anim_patcher.rar) (203 KB)
 
 ---
 

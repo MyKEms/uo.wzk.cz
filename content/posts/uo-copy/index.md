@@ -16,7 +16,7 @@ UOCopy 1.0 copies map tiles and static items from one Ultima Online map0.mul and
 
 ## Downloads
 
-* [UOCopy 1.0](/files/toolbox/UOCopy-1.0.zip) (102 KB)
+* [UOCopy 1.0](https://files.uo.wzk.cz/toolbox/UOCopy-1.0.zip) (102 KB)
 
 ---
 *Archived from the [UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019) (archive.org, 2019).*

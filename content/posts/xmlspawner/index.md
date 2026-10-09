@@ -19,7 +19,7 @@ XMLSpawner is the universal NPC and item spawning system for RunUO and ServUO se
 
 ## Downloads
 
-- [XMLSpawner 2.1](/files/toolbox/XMLSpawner-master.zip) (1.5 MB)
+- [XMLSpawner 2.1](https://files.uo.wzk.cz/toolbox/XMLSpawner-master.zip) (1.5 MB)
 
 ---
 

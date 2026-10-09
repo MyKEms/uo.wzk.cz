@@ -22,9 +22,9 @@ Program edit file multi.mul.
 
 ## Downloads
 
-- [Download](/files/manawydan/punt/wfmulti.rar) (266 KB)
-- [C source code](/files/manawydan/punt/wfmultisrc.rar) (104 KB)
-- [Required DLL (Qt4)](/files/manawydan/punt/qt4.rar) (4.33 MB)
+- [Download](https://files.uo.wzk.cz/manawydan/punt/wfmulti.rar) (266 KB)
+- [C source code](https://files.uo.wzk.cz/manawydan/punt/wfmultisrc.rar) (104 KB)
+- [Required DLL (Qt4)](https://files.uo.wzk.cz/manawydan/punt/qt4.rar) (4.33 MB)
 
 ---
 

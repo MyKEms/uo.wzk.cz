@@ -24,11 +24,11 @@ Dragon is very flexible and customizable as to editing the color pallet to your 
 
 ## Downloads
 
-  * [dragonmod9.zip](</files/dragonmod9.zip>)
-  * [dragonmod11.zip](</files/dragonmod11.zip>)
-  * [Dragon_10362_Imod9+.zip](</files/Dragon_10362_Imod9.zip>)
+  * [dragonmod9.zip](<https://files.uo.wzk.cz/dragonmod9.zip>)
+  * [dragonmod11.zip](<https://files.uo.wzk.cz/dragonmod11.zip>)
+  * [Dragon_10362_Imod9+.zip](<https://files.uo.wzk.cz/Dragon_10362_Imod9.zip>)
     * This is the Updated Dragon 1.0362 with my Imod9+ add-on included. I figured I would offer it here for free to anyone looking to edit one of my existing IMod9+ maps that may be floating around out there. If you are looking to make your own map I recommend using my IMod13 add-on which I release free earlier in this forum. Enjoy!
-  * [Dragon_10362_Imod13.zip](</files/Dragon_10362_Imod13.zip>)
+  * [Dragon_10362_Imod13.zip](<https://files.uo.wzk.cz/Dragon_10362_Imod13.zip>)
     * This is a new addon for Dragon version 1.0362. It provides 9 new terrain types that were previously not available to developers
     * The main difference between the different version of Dragon Mod’s is new terrain types added as well as some of the scripts that generate coastlines etc… have been cleaned up so less touchup work is needed manually. There will still be some areas that will need manual touchups depending on how detailed you get with your BMP image. The more detail in the BMP (proper rounded corners and not choppy curves and corners) the less manual touchups will be needed to the generated map via an editor such as CentrED. To my knowledge my Dragon IMod13 offers the most terrain types and cleaned up scripts to date.
     * This new addon includes the following new terrain types.
@@ -50,8 +50,8 @@ Dragon is very flexible and customizable as to editing the color pallet to your 
       * ![](Dragon-IMOD13-snowmeadow.jpg)
     * 9) _Wasteland:_ Area where everything is dead, forest fire/dragon attacked areas. 
       * ![](Dragon-IMOD13-wasteland.jpg)
-  * [UO-DragonMod11-MakingMapTutorial.pdf](/files/UO-DragonMod11-MakingMapTutorial.pdf)
-  * [FAQ-Dragon-Problems.pdf](/files/FAQ-Dragon-Problems.pdf)
+  * [UO-DragonMod11-MakingMapTutorial.pdf](https://files.uo.wzk.cz/UO-DragonMod11-MakingMapTutorial.pdf)
+  * [FAQ-Dragon-Problems.pdf](https://files.uo.wzk.cz/FAQ-Dragon-Problems.pdf)
 
 ## Manawydan Archive Downloads
 
@@ -61,10 +61,10 @@ Dragon is very flexible and customizable as to editing the color pallet to your 
 
 ![Manawydan screenshot](dragon-mw.jpg)
 
-  * [Dragon Mod 9 (Manawydan)](/files/manawydan/dragon_mod9.rar) (901 KB)
-  * [Dragon Mod 9 Plus](/files/manawydan/dragon_mod9plus.rar) (74 KB)
-  * [Dragon Mod 10](/files/manawydan/dragon_mod10.rar) (1.12 MB)
-  * [Dragon Mod 11](/files/manawydan/dragon_mod11.rar) (2.46 MB)
+  * [Dragon Mod 9 (Manawydan)](https://files.uo.wzk.cz/manawydan/dragon_mod9.rar) (901 KB)
+  * [Dragon Mod 9 Plus](https://files.uo.wzk.cz/manawydan/dragon_mod9plus.rar) (74 KB)
+  * [Dragon Mod 10](https://files.uo.wzk.cz/manawydan/dragon_mod10.rar) (1.12 MB)
+  * [Dragon Mod 11](https://files.uo.wzk.cz/manawydan/dragon_mod11.rar) (2.46 MB)
 
 ## Others
 

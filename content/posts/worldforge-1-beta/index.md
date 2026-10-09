@@ -20,7 +20,7 @@ Program na editaci mapy a statiky.
 
 ## Downloads
 
-- [Download](/files/manawydan/orbsydia/worldforge1.rar) (1.62 MB)
+- [Download](https://files.uo.wzk.cz/manawydan/orbsydia/worldforge1.rar) (1.62 MB)
 
 ---
 

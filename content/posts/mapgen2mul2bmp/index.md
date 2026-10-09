@@ -22,7 +22,7 @@ Program convert XML files from Map Generator 2 to Mul2Bmp.
 
 ## Downloads
 
-- [Download](/files/manawydan/punt/mapgen2mul2bmp.rar) (1.97 MB)
+- [Download](https://files.uo.wzk.cz/manawydan/punt/mapgen2mul2bmp.rar) (1.97 MB)
 
 ---
 

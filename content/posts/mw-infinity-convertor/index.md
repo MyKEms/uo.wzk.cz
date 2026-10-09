@@ -22,8 +22,8 @@ Convert Infinity engine animations (GIF) to Ultima Online (Mulpatcher compatible
 
 ## Downloads
 
-- [LOW detail](/files/manawydan/radstar/mw_infinity_130.7z) (1 MB)
-- [HIGH detail](/files/manawydan/radstar/mw_infinity_130high.7z) (1 MB)
+- [LOW detail](https://files.uo.wzk.cz/manawydan/radstar/mw_infinity_130.7z) (1 MB)
+- [HIGH detail](https://files.uo.wzk.cz/manawydan/radstar/mw_infinity_130high.7z) (1 MB)
 
 ---
 

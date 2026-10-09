@@ -21,7 +21,7 @@ StaticFix will read in your static files, allow you to remove invalid and duplic
 
 ## Downloads
 
-- [Download](/files/manawydan/staticfix01.rar) (12 KB)
+- [Download](https://files.uo.wzk.cz/manawydan/staticfix01.rar) (12 KB)
 
 ---
 

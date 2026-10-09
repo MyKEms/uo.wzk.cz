@@ -16,7 +16,7 @@ SUMP is a C# Ultima Online client patcher with options for encryption removal, m
 
 ## Download
 
-- [SUMP](/files/toolbox/SUMP.zip) (33 KB)
+- [SUMP](https://files.uo.wzk.cz/toolbox/SUMP.zip) (33 KB)
 
 ---
 *Archived from the [UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019) (archive.org, 2019).*

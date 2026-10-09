@@ -16,7 +16,7 @@ POLGumpExport is a utility for exporting gump (graphical user menu popup) defini
 
 ## Download
 
-- [POLGumpExport](/files/toolbox/POLGumpExport.zip) (10 KB)
+- [POLGumpExport](https://files.uo.wzk.cz/toolbox/POLGumpExport.zip) (10 KB)
 
 ---
 *Archived from the [UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019) (archive.org, 2019).*

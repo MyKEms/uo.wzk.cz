@@ -20,7 +20,7 @@ UOSteam is a powerful macro and automation tool for Ultima Online that became th
 
 ## Downloads
 
-- [UOSteam 1.0.5 + Scripts](/files/toolbox/UOSTEAM.zip) (13 MB)
+- [UOSteam 1.0.5 + Scripts](https://files.uo.wzk.cz/toolbox/UOSTEAM.zip) (13 MB)
 
 ---
 *Archived from the [UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019) (archive.org, 2019).*
