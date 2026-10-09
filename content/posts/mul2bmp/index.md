@@ -21,8 +21,8 @@ Program convert mapx.mul to BMP files for UO Landscaper.
 
 ## Downloads
 
-- [Download](/files/manawydan/mul2bmp.rar) (1.97 MB)
-- [Perfect BMP XML](/files/manawydan/mul2bmp_perfect_bmp.rar) (4 KB)
+- [Download](https://files.uo.wzk.cz/manawydan/mul2bmp.rar) (1.97 MB)
+- [Perfect BMP XML](https://files.uo.wzk.cz/manawydan/mul2bmp_perfect_bmp.rar) (4 KB)
 
 ---
 

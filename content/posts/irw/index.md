@@ -16,7 +16,7 @@ IRW 1.1 to 1.4 is a plugin-based Ultima Online client launcher from NecroTools w
 
 ## Download
 
-- [IRW](/files/toolbox/IRW.zip) (6.0 MB)
+- [IRW](https://files.uo.wzk.cz/toolbox/IRW.zip) (6.0 MB)
 
 ---
 *Archived from the [UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019) (archive.org, 2019).*

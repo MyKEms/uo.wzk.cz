@@ -21,7 +21,7 @@ Program edit gumps in verdata.mul.
 
 ## Downloads
 
-- [Download](/files/manawydan/paradise_gump_patcher.rar) (218 KB)
+- [Download](https://files.uo.wzk.cz/manawydan/paradise_gump_patcher.rar) (218 KB)
 
 ---
 

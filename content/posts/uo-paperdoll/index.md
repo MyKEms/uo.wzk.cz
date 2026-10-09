@@ -16,7 +16,7 @@ UO Paperdoll is a PHP project that renders Ultima Online character paperdoll ima
 
 ## Download
 
-- [UO Paperdoll](/files/toolbox/UOPaperdoll-master.zip) (8.7 KB)
+- [UO Paperdoll](https://files.uo.wzk.cz/toolbox/UOPaperdoll-master.zip) (8.7 KB)
 
 ---
 *Archived from the [UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019) (archive.org, 2019).*

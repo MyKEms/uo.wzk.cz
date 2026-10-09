@@ -20,7 +20,7 @@ Injection it is program – analogue UO Assist – the auxiliary player tool for
 
 ## Downloads
 
-  * [Injection_09_08_2015.zip](</files/Injection_09_08_2015.zip>)
+  * [Injection_09_08_2015.zip](<https://files.uo.wzk.cz/Injection_09_08_2015.zip>)
 
 ## Others
 

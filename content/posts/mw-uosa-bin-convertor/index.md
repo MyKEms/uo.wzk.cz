@@ -28,7 +28,7 @@ Convert animations from Enhanced client to BMP pictures.
 
 ## Downloads
 
-- [Download](/files/manawydan/radstar/mw_bin_convertor111.7z) (503 KB)
+- [Download](https://files.uo.wzk.cz/manawydan/radstar/mw_bin_convertor111.7z) (503 KB)
 
 ---
 

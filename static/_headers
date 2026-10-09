@@ -15,10 +15,6 @@
 /images/*
   Cache-Control: public, max-age=604800
 
-/files/*
-  Cache-Control: public, max-age=604800
-  X-Robots-Tag: noindex
-
 # Only uo.wzk.cz should be indexed — keep the pages.dev hostnames out of search
 https://uo-wzk-cz.pages.dev/*
   X-Robots-Tag: noindex

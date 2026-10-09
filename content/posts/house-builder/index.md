@@ -21,8 +21,8 @@ Program to building and editing houses etc.
 
 ## Downloads
 
-- [Download](/files/manawydan/house_builder13c.rar) (230 KB)
-- [C# source code](/files/manawydan/house_builder13c_source.rar) (162 KB)
+- [Download](https://files.uo.wzk.cz/manawydan/house_builder13c.rar) (230 KB)
+- [C# source code](https://files.uo.wzk.cz/manawydan/house_builder13c_source.rar) (162 KB)
 
 ---
 

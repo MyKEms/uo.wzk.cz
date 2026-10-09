@@ -22,8 +22,8 @@ Convert Civilization 3 animations (FLC) to Ultima Online (Mulpatcher compatible)
 
 ## Downloads
 
-- [Download](/files/manawydan/radstar/mw_civilization_convertor130.7z) (9.36 MB)
-- [Download x64](/files/manawydan/radstar/mw_civilization_convertor130x64.7z) (10.28 MB)
+- [Download](https://files.uo.wzk.cz/manawydan/radstar/mw_civilization_convertor130.7z) (9.36 MB)
+- [Download x64](https://files.uo.wzk.cz/manawydan/radstar/mw_civilization_convertor130x64.7z) (10.28 MB)
 
 ---
 

@@ -1,0 +1,11 @@
+# Keys removed from the R2 bucket for security or on request. They must never be served
+# again: `downloads.py verify` checks each one returns 404 on files.uo.wzk.cz.
+# Antivirus / Netcraft flagged (Sep 2026):
+toolbox/TDVPatchmaker.zip
+toolbox/UOAM.zip
+toolbox/AGC-5.0-BETA-2.4.zip
+toolbox/Autoit-warlock-Script.zip
+toolbox/ShideWin-1.1.zip
+toolbox/SpeedHack.zip
+toolbox/UO-Auto-Pilot-Double-Pilot.zip
+toolbox/UO-Pilot.zip

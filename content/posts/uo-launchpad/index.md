@@ -16,7 +16,7 @@ UOLaunchPad is a universal launcher for Ultima Online that simplifies connecting
 
 ## Downloads
 
-* [UOLaunchPad](/files/toolbox/UOLaunchPad.zip) (116 KB)
+* [UOLaunchPad](https://files.uo.wzk.cz/toolbox/UOLaunchPad.zip) (116 KB)
 
 ---
 *Archived from the [UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019) (archive.org, 2019).*

@@ -16,7 +16,7 @@ ScriptAnalizer is a static analysis tool for UO server scripts. It scans script 
 
 ## Download
 
-- [ScriptAnalizer](/files/toolbox/ScriptAnalizer.zip) (400 KB)
+- [ScriptAnalizer](https://files.uo.wzk.cz/toolbox/ScriptAnalizer.zip) (400 KB)
 
 ---
 *Archived from the [UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019) (archive.org, 2019).*

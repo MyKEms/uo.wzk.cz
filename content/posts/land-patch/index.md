@@ -21,7 +21,7 @@ Art and Textures patcher.
 
 ## Downloads
 
-- [Download](/files/manawydan/land_patch.rar) (2.58 MB)
+- [Download](https://files.uo.wzk.cz/manawydan/land_patch.rar) (2.58 MB)
 
 ---
 

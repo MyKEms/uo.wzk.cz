@@ -19,7 +19,7 @@ ServUO is the most actively maintained fork of RunUO, the open-source Ultima Onl
 
 ## Downloads
 
-- [ServUO (Source Code)](/files/toolbox/ServUO-master.zip) (10.2 MB)
+- [ServUO (Source Code)](https://files.uo.wzk.cz/toolbox/ServUO-master.zip) (10.2 MB)
 
 ---
 

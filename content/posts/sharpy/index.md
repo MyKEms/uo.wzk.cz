@@ -15,7 +15,7 @@ Sharpy is a C# scripting tool related to Sphere server development (TNG - The Ne
 
 ## Download
 
-- [Sharpy](/files/toolbox/Sharpy.zip) (4.4 MB)
+- [Sharpy](https://files.uo.wzk.cz/toolbox/Sharpy.zip) (4.4 MB)
 
 ---
 

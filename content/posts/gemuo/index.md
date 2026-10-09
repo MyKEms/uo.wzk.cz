@@ -19,7 +19,7 @@ Ultima Online Emulator with SA support.
 
 ## Downloads
 
-- [Download](/files/manawydan/runuo/gemuo_14_04_2010.rar) (2.78 MB)
+- [Download](https://files.uo.wzk.cz/manawydan/runuo/gemuo_14_04_2010.rar) (2.78 MB)
 
 ---
 

@@ -21,7 +21,7 @@ Program to editing/adding items to verdata.mul.
 
 ## Downloads
 
-- [Download](/files/manawydan/mulbuilderbeta2.rar) (548 KB)
+- [Download](https://files.uo.wzk.cz/manawydan/mulbuilderbeta2.rar) (548 KB)
 
 ---
 

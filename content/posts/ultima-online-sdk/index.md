@@ -19,9 +19,9 @@ SDK pro práci se soubory UO v C#.
 
 ## Downloads
 
-- [Source code + DLL (.NET 1)](/files/manawydan/ultima_online_sdk.rar) (37 KB)
-- [Source code + DLL (.NET 2, 2007)](/files/manawydan/ultima_online_sdk_2.rar) (91 KB)
-- [Source code (.NET 2, 2008)](/files/manawydan/ultima_online_sdk_2_2.rar) (20 KB)
+- [Source code + DLL (.NET 1)](https://files.uo.wzk.cz/manawydan/ultima_online_sdk.rar) (37 KB)
+- [Source code + DLL (.NET 2, 2007)](https://files.uo.wzk.cz/manawydan/ultima_online_sdk_2.rar) (91 KB)
+- [Source code (.NET 2, 2008)](https://files.uo.wzk.cz/manawydan/ultima_online_sdk_2_2.rar) (20 KB)
 
 ---
 

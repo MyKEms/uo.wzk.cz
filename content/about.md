@@ -12,7 +12,7 @@ This is a combined archive of Ultima Online development tools from multiple comm
 - **uo.wzk.cz** — MyKE's UO tools collection (2009-2017)
 - **ultima.manawydan.cz** — RadstaR's comprehensive UO tools archive, originally at eranova.cz (2004-2016), later hosted by Manawydan.cz
 - **ultima.cz** — Czech UO community tutorials (2003-2014)
-- **[UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019)** — archive.org collection of 160+ UO shard development tools (2019), Public Domain
+- **[UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019)** — archive.org collection of 160+ UO shard development tools (2019), marked Public Domain by the uploader — each tool keeps its own license
 
 Together, this archive preserves **185+ tools and tutorials** for Ultima Online client modding, server emulation, map editing, and graphics work — the largest known Czech collection of UO development resources.
 

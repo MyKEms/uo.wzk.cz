@@ -16,7 +16,7 @@ UO Auto Pilot, also known as Double Pilot, is an automation tool for Ultima Onli
 
 ## Downloads
 
-- [UO Auto Pilot - Double Pilot](/files/toolbox/UO-Auto-Pilot-Double-Pilot.zip) (356 KB)
+- [UO Auto Pilot - Double Pilot](https://files.uo.wzk.cz/toolbox/UO-Auto-Pilot-Double-Pilot.zip) (356 KB)
 
 ---
 *Archived from the [UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019) (archive.org, 2019).*

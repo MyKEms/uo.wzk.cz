@@ -16,7 +16,7 @@ SpeedHack is a client-side speed modification tool for Ultima Online. It alters 
 
 ## Downloads
 
-- [SpeedHack](/files/toolbox/SpeedHack.zip) (11 KB)
+- [SpeedHack](https://files.uo.wzk.cz/toolbox/SpeedHack.zip) (11 KB)
 
 ---
 *Archived from the [UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019) (archive.org, 2019).*

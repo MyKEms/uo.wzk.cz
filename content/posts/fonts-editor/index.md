@@ -21,7 +21,7 @@ Program can edit UO fonts.
 
 ## Downloads
 
-- [Download](/files/manawydan/uofontseditoralpha2.rar) (177 KB)
+- [Download](https://files.uo.wzk.cz/manawydan/uofontseditoralpha2.rar) (177 KB)
 
 ---
 

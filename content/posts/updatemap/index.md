@@ -21,7 +21,7 @@ Program replace selected item id in map with another.
 
 ## Downloads
 
-- [Download](/files/manawydan/updatemap.rar) (123 KB)
+- [Download](https://files.uo.wzk.cz/manawydan/updatemap.rar) (123 KB)
 
 ---
 

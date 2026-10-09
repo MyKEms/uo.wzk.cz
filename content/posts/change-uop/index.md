@@ -21,7 +21,7 @@ Program change animation ID in UOP files.
 
 ## Downloads
 
-- [Download](/files/manawydan/changeuop.rar) (27 KB)
+- [Download](https://files.uo.wzk.cz/manawydan/changeuop.rar) (27 KB)
 
 ---
 

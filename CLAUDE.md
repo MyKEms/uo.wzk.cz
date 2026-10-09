@@ -6,7 +6,7 @@ Combined Ultima Online tools archive merging four sources:
 - **uo.wzk.cz** — MyKE's UO tools collection (migrated from WordPress, March 2026)
 - **ultima.manawydan.cz** — RadstaR's comprehensive UO tools archive (2004-2016), cached by Golfin on UO Erebor servers, merged March 2026
 - **ultima.cz** — Czech UO community tutorials (2003-2014), cached March 2026
-- **[UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019)** — archive.org collection of 160+ UO shard development tools (Public Domain, 2019), merged March 2026
+- **[UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019)** — archive.org collection of 160+ UO shard development tools (2019, marked Public Domain by the uploader — not verified per tool), merged March 2026
 
 Hugo static site hosted on Cloudflare Pages. Maintained as a resource for [UO Erebor](https://uoerebor.cz/) shard development. 188 published posts (+7 drafts). Site title: **Ultima Online Tools Archive** (short: UO Tools Archive).
 
@@ -15,7 +15,7 @@ Hugo static site hosted on Cloudflare Pages. Maintained as a resource for [UO Er
 - **SSG**: Hugo extended (v0.158.0+)
 - **Theme**: [Terminal](https://github.com/panr/hugo-theme-terminal) (vendored in `themes/terminal/`)
 - **Hosting**: Cloudflare Pages (project: `uo-wzk-cz`)
-- **CI/CD**: GitHub Actions — `validate.yml` (PRs + called by deploy), `deploy.yml` (validate → build → deploy, pinned wrangler), `links.yml` (weekly external link report). All checks live in `.github/scripts/check_site.py` — run it locally after `hugo --minify`.
+- **CI/CD**: GitHub Actions — `validate.yml` (PRs + called by deploy), `deploy.yml` (validate → build → deploy, pinned wrangler), `links.yml` (weekly external link report). All checks live in `.github/scripts/check_site.py` — run it locally after `hugo --minify`. Weekly job also runs `downloads.py verify` against R2.
 - **Analytics**: Cloudflare Web Analytics (JS snippet in footer partial)
 - **License**: CC BY-NC 4.0
 - **Repo**: https://github.com/MyKEms/uo.wzk.cz
@@ -56,19 +56,18 @@ Hugo static site hosted on Cloudflare Pages. Maintained as a resource for [UO Er
 - `static/images/bod.gif` — UO bullet point icon from Manawydan
 - `static/images/mw_logo.jpg` — Manawydan logo (used on about page)
 
-## Downloadable files
+## Downloadable files (Cloudflare R2 — not in git)
 
-- **Original (uo.wzk.cz)**: 27 ZIP files in `static/files/`. Posts reference them as `/files/filename.zip`.
-- **Manawydan archive**: ~170 files in `static/files/manawydan/` with subdirectories by author (arya/, kons/, orbsydia/, punt/, radstar/, ravenal/, runuo/, sphere/, uokr/, vd/). Posts reference them as `/files/manawydan/...`. Total ~172MB.
-- **Toolbox archive**: 60 files in `static/files/toolbox/`. Posts reference them as `/files/toolbox/filename.zip`. Total ~132MB. Files over 25MB (Cloudflare Pages limit) are hosted on Cloudflare R2 — see R2 section below.
+Downloads are third-party archives, so since Oct 2026 they are **never committed**. They live in the R2 bucket
+`uo-wzk-cz-files`, public at `https://files.uo.wzk.cz/<key>` (R2 free tier: 10 GB storage, free egress).
 
-### Large files (Cloudflare R2)
-
-7 tools exceed Cloudflare Pages' 25MB per-file limit and need R2 hosting:
-- OrionUO-master.zip (27MB), JustUO.zip (77MB), polserver-master.zip (101MB)
-- Sphere.zip (128MB), ASSORTED SCRIPTS.zip (65MB), UOCartographer.zip (29MB), Remote Control.zip (75MB)
-- R2 bucket: `uo-wzk-cz-files`, public URL: `https://files.uo.wzk.cz/toolbox/`
-- R2 free tier: 10GB storage, free egress
+- **Keys**: `<name>` (original uo.wzk.cz, 31 files), `manawydan/<author>/<name>` (190 files; arya/, kons/, orbsydia/, punt/, radstar/, ravenal/, runuo/, sphere/, uokr/, vd/), `toolbox/<name>` (72 files incl. the 12 large ones up to 178 MB).
+- **Links**: posts link `https://files.uo.wzk.cz/<key>` directly (URL-encode spaces: `Remote%20Control.zip`). Old `/files/<key>` URLs 301 via the `/files/*` rule in `static/_redirects`, which must stay **after** the removed-download rules.
+- **Inventory**: `downloads/manifest.tsv` (key, size, sha256, content type — same types Pages used to send) and `downloads/removed.txt` (keys that must 404 forever).
+- **Master copy**: `~/Downloads/uo.wzk.cz-files/public/` mirrors the bucket; `~/Downloads/uo.wzk.cz-files/quarantine/` holds the AV-flagged files (never public). Pre-split git backup: `~/Downloads/uo.wzk.cz-backup-2026-10-09.bundle`.
+- **Tooling**: `.github/scripts/downloads.py` — `manifest MASTER`, `upload MASTER` (wrangler; needs `npx wrangler login`), `remove KEY`, `verify [--deep]` (live size/type/sha256, removed → 404), `legacy BASE_URL` (old URLs 301 → R2).
+- **Adding a download**: copy into the master copy → `manifest` → review diff → `upload` → link from a published post → `verify`.
+- **No downloads in page bundles either** — Hugo publishes every bundle file, linked or not (`animace_222.rar` sat unlinked in a tutorial bundle until Oct 2026; now on R2 + redirect). CI's `binaries` check fails on any archive/executable under `static/` or `content/`.
 
 ## Deployment
 
@@ -87,7 +86,7 @@ Cloudflare Pages production branch is set to `main` in the dashboard. The `--bra
 ## Local development
 
 ```bash
-git clone --recurse-submodules https://github.com/MyKEms/uo.wzk.cz.git
+git clone https://github.com/MyKEms/uo.wzk.cz.git
 cd uo.wzk.cz
 hugo server -D
 # http://localhost:1313/
@@ -106,8 +105,8 @@ hugo server -D
 
 ## Quarantine & removed downloads
 
-- `quarantine/` holds files pulled from the site because antivirus/Netcraft flags them (cheats, bots, UOAM.zip — Bitdefender deletes it on checkout). It is outside `static/`, so it is **never deployed**. Their posts are `draft: true`.
-- **Never put a download in `static/files/` without linking it from a published post** — CI's orphan check fails on unlinked files (drafts don't count), because unlinked files are still public.
+- AV/Netcraft-flagged files (cheats, bots, UOAM.zip, TDVPatchmaker.zip) are listed in `downloads/removed.txt`, absent from R2 and kept only in the local quarantine folder (see above). Their posts are `draft: true`. Bitdefender on the Mac deletes some of them on sight.
+- **Every object in the manifest must be linked from a published post** — CI's orphan check fails otherwise (drafts don't count), because unlinked files are still public on R2. To pull a file: `downloads.py remove KEY`, then draft/unlink the post.
 - TDVPatchmaker was removed entirely (Netcraft/Cloudflare abuse report 871959ba769f7534, Sep 2026).
 
 ## Important notes

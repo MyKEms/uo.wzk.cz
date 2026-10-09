@@ -20,8 +20,8 @@ Program pro generování XML souboru pro RunUO pro příkaz [go.
 
 ## Downloads
 
-- [Download](/files/manawydan/arya/locationeditor.rar) (205 KB)
-- [C# Source code](/files/manawydan/arya/locationeditorsource.rar) (55 KB)
+- [Download](https://files.uo.wzk.cz/manawydan/arya/locationeditor.rar) (205 KB)
+- [C# Source code](https://files.uo.wzk.cz/manawydan/arya/locationeditorsource.rar) (55 KB)
 
 ---
 

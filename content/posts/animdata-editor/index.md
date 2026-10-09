@@ -21,7 +21,7 @@ Program sets static animations.
 
 ## Downloads
 
-- [Download](/files/manawydan/animdata.rar) (180 KB)
+- [Download](https://files.uo.wzk.cz/manawydan/animdata.rar) (180 KB)
 
 ---
 

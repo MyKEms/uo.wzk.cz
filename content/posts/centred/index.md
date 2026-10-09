@@ -44,8 +44,8 @@ The intention behind this is, that the only available GodClient is rather old an
 
 ## Downloads
 
-  * [CentrED_win_linux_server_client.zip](</files/CentrED_win_linux_server_client.zip>)
-  * [CentrED_Manual.pdf](/files/CentrED_Manual.pdf)
+  * [CentrED_win_linux_server_client.zip](<https://files.uo.wzk.cz/CentrED_win_linux_server_client.zip>)
+  * [CentrED_Manual.pdf](https://files.uo.wzk.cz/CentrED_Manual.pdf)
 
 ## Manawydan Archive Downloads
 
@@ -53,8 +53,8 @@ The intention behind this is, that the only available GodClient is rather old an
 
 ![Manawydan screenshot](centred-mw.jpg)
 
-  * [CentrED 0.6.3 (Manawydan)](/files/manawydan/centred063.rar) (1.2 MB)
-  * [CentrED Changelog](/files/manawydan/centred_changelog.txt)
+  * [CentrED 0.6.3 (Manawydan)](https://files.uo.wzk.cz/manawydan/centred063.rar) (1.2 MB)
+  * [CentrED Changelog](https://files.uo.wzk.cz/manawydan/centred_changelog.txt)
 
 ## Official v0.6.3 Downloads (from Redmine)
 

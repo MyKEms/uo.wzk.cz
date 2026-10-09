@@ -21,8 +21,8 @@ UO mul files viewer.
 
 ## Downloads
 
-- [Download](/files/manawydan/insideuo.rar) (313 KB)
-- [Delphi 5 source code](/files/manawydan/insideuo_source.rar) (226 KB)
+- [Download](https://files.uo.wzk.cz/manawydan/insideuo.rar) (313 KB)
+- [Delphi 5 source code](https://files.uo.wzk.cz/manawydan/insideuo_source.rar) (226 KB)
 
 ---
 

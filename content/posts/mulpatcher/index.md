@@ -22,10 +22,10 @@ Program to editing/adding/deleting items from MUL and verdata.mul files.
 
 ## Downloads
 
-- [Download](/files/manawydan/vd/mulpatcher.rar) (497 KB)
-- [Všeobecný pokec o MulPatchi](/files/manawydan/Vseob_pokec_o_Mulpatch.pdf) — guide to MulPatcher (PDF, Slovak)
-- [Changelog](/files/manawydan/vd/mulpatcher_changelog.txt)
-- [Source Code](/files/manawydan/vd/mulpatcher_source.rar) (1.99 MB)
+- [Download](https://files.uo.wzk.cz/manawydan/vd/mulpatcher.rar) (497 KB)
+- [Všeobecný pokec o MulPatchi](https://files.uo.wzk.cz/manawydan/Vseob_pokec_o_Mulpatch.pdf) — guide to MulPatcher (PDF, Slovak)
+- [Changelog](https://files.uo.wzk.cz/manawydan/vd/mulpatcher_changelog.txt)
+- [Source Code](https://files.uo.wzk.cz/manawydan/vd/mulpatcher_source.rar) (1.99 MB)
 
 ---
 

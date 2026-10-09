@@ -22,7 +22,7 @@ This is a simple but effective tool in making it possible for developers to rota
 
 ## Downloads
 
-- [Download](/files/manawydan/orbsydia/uorotator10beta.rar) (17 KB)
+- [Download](https://files.uo.wzk.cz/manawydan/orbsydia/uorotator10beta.rar) (17 KB)
 
 ---
 

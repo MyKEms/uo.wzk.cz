@@ -22,7 +22,7 @@ UOA with UO:SA compatibility.
 
 ## Downloads
 
-- [Download](/files/manawydan/kons/uoark268.rar) (321 KB)
+- [Download](https://files.uo.wzk.cz/manawydan/kons/uoark268.rar) (321 KB)
 
 ---
 

@@ -22,7 +22,7 @@ This Program can change IP and patch Encryption of the new UO:Stygian Abyss Clie
 
 ## Downloads
 
-- [Download 2.3](/files/manawydan/kons/uosaloader23.7z) (40 KB)
+- [Download 2.3](https://files.uo.wzk.cz/manawydan/kons/uosaloader23.7z) (40 KB)
 
 ---
 

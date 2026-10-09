@@ -16,7 +16,7 @@ UO Patch File Maker 3.0 (Final) is a tool for creating UO client patch packages.
 
 ## Downloads
 
-* [UO Patch File Maker 3.0](/files/toolbox/UO-Patch-File-Maker-3.0-final.zip) (712 KB)
+* [UO Patch File Maker 3.0](https://files.uo.wzk.cz/toolbox/UO-Patch-File-Maker-3.0-final.zip) (712 KB)
 
 ---
 *Archived from the [UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019) (archive.org, 2019).*

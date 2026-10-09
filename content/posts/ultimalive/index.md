@@ -19,7 +19,7 @@ UltimaLive is a plugin system that enables real-time map editing on a running Ru
 
 ## Downloads
 
-- [UltimaLive](/files/toolbox/UltimaLive-master.zip) (11 MB)
+- [UltimaLive](https://files.uo.wzk.cz/toolbox/UltimaLive-master.zip) (11 MB)
 
 ---
 

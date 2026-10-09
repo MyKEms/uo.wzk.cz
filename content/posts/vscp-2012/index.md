@@ -17,7 +17,7 @@ vSCP definitely improves your scripting process. Give it a try, you won’t regr
 
 ## ![](vSCP_2012.png)Downloads
 
-  * [vscp.zip](</files/vscp.zip>)
+  * [vscp.zip](<https://files.uo.wzk.cz/vscp.zip>)
 
 ## Others
 

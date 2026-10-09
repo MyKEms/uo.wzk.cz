@@ -16,7 +16,7 @@ UoPlugIn 4.2 by Ashran and Beosil (1998) patches the Ultima Online client in mem
 
 ## Downloads
 
-* [UoPlugIn 4.2](/files/toolbox/UoPlugIn-Version-4.2.zip) (36 KB)
+* [UoPlugIn 4.2](https://files.uo.wzk.cz/toolbox/UoPlugIn-Version-4.2.zip) (36 KB)
 
 ---
 *Archived from the [UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019) (archive.org, 2019).*

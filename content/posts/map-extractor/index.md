@@ -40,9 +40,9 @@ Dougan Ironfist
 
 ## Downloads
 
-  * [Map Extractor 1.6.zip](</files/Map-Extractor-1.6.zip>)
+  * [Map Extractor 1.6.zip](<https://files.uo.wzk.cz/Map-Extractor-1.6.zip>)
 
 ## Others
 
   * [Official Map Extractor website](<http://www.runuo.com/community/threads/map-extractor.468585/>)
-  * [Source code](</files/sourcecode-dougan-ironfist-runuo-scripts-n-tools.zip>)
+  * [Source code](<https://files.uo.wzk.cz/sourcecode-dougan-ironfist-runuo-scripts-n-tools.zip>)

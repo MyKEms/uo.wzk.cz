@@ -20,7 +20,7 @@ Razor is the most widely used assistant program for Ultima Online. It provides e
 
 ## Download
 
-- [Razor](/files/toolbox/Razor.zip) (5.2 MB)
+- [Razor](https://files.uo.wzk.cz/toolbox/Razor.zip) (5.2 MB)
 
 ---
 *Archived from the [UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019) (archive.org, 2019).*

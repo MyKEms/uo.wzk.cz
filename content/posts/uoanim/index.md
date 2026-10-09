@@ -21,7 +21,7 @@ Program to creating new UO mobiles animation.
 
 ## Downloads
 
-- [Download](/files/manawydan/uoanim.rar) (96 KB)
+- [Download](https://files.uo.wzk.cz/manawydan/uoanim.rar) (96 KB)
 
 ---
 

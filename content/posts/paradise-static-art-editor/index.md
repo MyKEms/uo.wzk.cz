@@ -21,7 +21,7 @@ Program edit file tiledata.mul.
 
 ## Downloads
 
-- [Download](/files/manawydan/paradise.rar) (257 KB)
+- [Download](https://files.uo.wzk.cz/manawydan/paradise.rar) (257 KB)
 
 ---
 

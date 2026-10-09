@@ -19,7 +19,7 @@ Converter from legacy UOPs to MULs.
 
 ## Downloads
 
-- [Download](/files/manawydan/uokr/legacyuop_to_mul.rar) (77 KB)
+- [Download](https://files.uo.wzk.cz/manawydan/uokr/legacyuop_to_mul.rar) (77 KB)
 
 ---
 

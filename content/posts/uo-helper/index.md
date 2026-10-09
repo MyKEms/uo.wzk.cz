@@ -16,7 +16,7 @@ UOHelper is a 1998 helper for Ultima Online players with a moongate timing calcu
 
 ## Downloads
 
-* [UOHelper 1.0](/files/toolbox/UOHelper-1.0.zip) (245 KB)
+* [UOHelper 1.0](https://files.uo.wzk.cz/toolbox/UOHelper-1.0.zip) (245 KB)
 
 ---
 *Archived from the [UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019) (archive.org, 2019).*

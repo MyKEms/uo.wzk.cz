@@ -22,9 +22,9 @@ This program can only save images to database, cannot patch any Ultima Online fi
 
 ## Downloads
 
-- [Download](/files/manawydan/radstar/raditemsdatabase1.1.0.exe) (728 KB)
-- [Changelog (CZ)](/files/manawydan/radstar/raditems_changelog.txt)
-- [Changelog (EN)](/files/manawydan/radstar/raditems_changelog_eng.txt)
+- [Download](https://files.uo.wzk.cz/manawydan/radstar/raditemsdatabase1.1.0.exe) (728 KB)
+- [Changelog (CZ)](https://files.uo.wzk.cz/manawydan/radstar/raditems_changelog.txt)
+- [Changelog (EN)](https://files.uo.wzk.cz/manawydan/radstar/raditems_changelog_eng.txt)
 
 ---
 

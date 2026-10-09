@@ -21,8 +21,8 @@ Program edit MAP0.MUL.
 
 ## Downloads
 
-- [Download](/files/manawydan/uomapeditor.rar) (234 KB)
-- [C source code](/files/manawydan/uomapeditor-src.rar) (448 KB)
+- [Download](https://files.uo.wzk.cz/manawydan/uomapeditor.rar) (234 KB)
+- [C source code](https://files.uo.wzk.cz/manawydan/uomapeditor-src.rar) (448 KB)
 
 ---
 

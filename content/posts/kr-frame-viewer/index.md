@@ -22,8 +22,8 @@ This is simple program to see Frames of unpacked animationframeX.uop, paperdoll.
 
 ## Downloads
 
-- [Download 0.6.1](/files/manawydan/kons/frameviewer061.rar) (12 KB)
-- [Download 0.5.1](/files/manawydan/kons/frameviewer051.rar) (58 KB)
+- [Download 0.6.1](https://files.uo.wzk.cz/manawydan/kons/frameviewer061.rar) (12 KB)
+- [Download 0.5.1](https://files.uo.wzk.cz/manawydan/kons/frameviewer051.rar) (58 KB)
 
 ---
 

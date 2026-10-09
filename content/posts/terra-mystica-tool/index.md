@@ -16,7 +16,7 @@ Terra Mystica Tool (TMTool) is a terrain editing utility for Ultima Online maps.
 
 ## Download
 
-- [Terra Mystica Tool](/files/toolbox/Terra-Mystica-Tool.zip) (247 KB)
+- [Terra Mystica Tool](https://files.uo.wzk.cz/toolbox/Terra-Mystica-Tool.zip) (247 KB)
 
 ---
 *Archived from the [UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019) (archive.org, 2019).*

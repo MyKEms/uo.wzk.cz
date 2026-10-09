@@ -15,7 +15,7 @@ SphereService is a Windows service wrapper for Sphere server. It allows running 
 
 ## Download
 
-- [SphereService](/files/toolbox/SphereService.zip) (201 KB)
+- [SphereService](https://files.uo.wzk.cz/toolbox/SphereService.zip) (201 KB)
 
 ---
 

@@ -16,7 +16,7 @@ UoLoopX is an advanced version of the UO Loop tool. It provides automated loop/m
 
 ## Downloads
 
-* [UoLoopX](/files/toolbox/UoLoopX.zip) (82 KB)
+* [UoLoopX](https://files.uo.wzk.cz/toolbox/UoLoopX.zip) (82 KB)
 
 ---
 *Archived from the [UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019) (archive.org, 2019).*

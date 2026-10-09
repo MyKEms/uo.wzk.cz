@@ -16,7 +16,7 @@ AutoIt Warlock Script is an automation script written in AutoIt for Ultima Onlin
 
 ## Downloads
 
-- [AutoIt Warlock Script](/files/toolbox/Autoit-warlock-Script.zip) (75 KB)
+- [AutoIt Warlock Script](https://files.uo.wzk.cz/toolbox/Autoit-warlock-Script.zip) (75 KB)
 
 ---
 *Archived from the [UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019) (archive.org, 2019).*

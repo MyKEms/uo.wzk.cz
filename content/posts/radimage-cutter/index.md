@@ -22,7 +22,7 @@ Program 'cuts' picture to pictures with selected size.
 
 ## Downloads
 
-- [Download](/files/manawydan/radstar/radimagecutter1.0.0.exe) (297 KB)
+- [Download](https://files.uo.wzk.cz/manawydan/radstar/radimagecutter1.0.0.exe) (297 KB)
 
 ---
 

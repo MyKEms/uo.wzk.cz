@@ -21,7 +21,7 @@ Program fix "teeths" in map.
 
 ## Downloads
 
-- [Download](/files/manawydan/uomapfix06.rar) (445 KB)
+- [Download](https://files.uo.wzk.cz/manawydan/uomapfix06.rar) (445 KB)
 
 ---
 

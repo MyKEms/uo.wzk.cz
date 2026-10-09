@@ -21,7 +21,7 @@ MUL files editor.
 
 ## Downloads
 
-- [Download](/files/manawydan/uomuleditor068.rar) (1.16 MB)
+- [Download](https://files.uo.wzk.cz/manawydan/uomuleditor068.rar) (1.16 MB)
 
 ---
 

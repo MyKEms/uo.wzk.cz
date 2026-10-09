@@ -21,7 +21,7 @@ Program edit file speech.mul.
 
 ## Downloads
 
-- [Download](/files/manawydan/speecheditor.rar) (65 KB)
+- [Download](https://files.uo.wzk.cz/manawydan/speecheditor.rar) (65 KB)
 
 ---
 

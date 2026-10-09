@@ -16,7 +16,7 @@ UO3DMV R.6 (1999, by LXD) is a freeware 3D map viewer and editor for the Ultima 
 
 ## Download
 
-- [UO3DMV R.6](/files/toolbox/UO3DMV-R.6.zip) (423 KB)
+- [UO3DMV R.6](https://files.uo.wzk.cz/toolbox/UO3DMV-R.6.zip) (423 KB)
 
 ---
 *Archived from the [UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019) (archive.org, 2019).*

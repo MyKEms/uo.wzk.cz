@@ -16,7 +16,7 @@ UOGateway 1.9.0.1266 Beta is the client of the UOGateway freeshard list, a combi
 
 ## Downloads
 
-* [UOGateway 1.9.0.1266 Beta](/files/toolbox/UOGateway-1.9.0.1266-BETA.zip) (344 KB)
+* [UOGateway 1.9.0.1266 Beta](https://files.uo.wzk.cz/toolbox/UOGateway-1.9.0.1266-BETA.zip) (344 KB)
 
 ---
 *Archived from the [UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019) (archive.org, 2019).*

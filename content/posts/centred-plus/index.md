@@ -22,7 +22,7 @@ params:
 
 ## Downloads
 
-  * [CentrED_Plus.zip](</files/CentrED_Plus.zip>)
+  * [CentrED_Plus.zip](<https://files.uo.wzk.cz/CentrED_Plus.zip>)
 
 ## Manawydan Archive Downloads
 
@@ -30,14 +30,14 @@ params:
 
 ![Manawydan screenshot](centredplus-mw.jpg)
 
-  * [CentrED+ 0.7.7 (Manawydan)](/files/manawydan/centredplus77.7z) (2.78 MB)
+  * [CentrED+ 0.7.7 (Manawydan)](https://files.uo.wzk.cz/manawydan/centredplus77.7z) (2.78 MB)
 
 ## Installation & Configuration
 
 1. Download CentrED+ (see downloads above)
 2. Before first launch, enable custom tiles:
    - Go to the **LocalData** folder (e.g. `C:\Program Files (x86)\uoquint.ru\CentrED+\LocalData\`)
-   - Download and replace [VirtualTiles.xml](/files/VirtualTiles.zip) to enable non-standard graphic items
+   - Download and replace [VirtualTiles.xml](https://files.uo.wzk.cz/VirtualTiles.zip) to enable non-standard graphic items
 3. Launch CentrED+ — enter your server host and port
 4. Default port: **2597** (CentrED+ server), **2598** (CentrED classic server)
 
@@ -45,7 +45,7 @@ params:
 
 ## Server Configuration
 
-- [CentrED Map Configuration Reference (PDF)](/files/map_-_centred_-_aks_databasis_redmine.pdf) — map dimensions, file sizes, and format reference for CentrED server setup
+- [CentrED Map Configuration Reference (PDF)](https://files.uo.wzk.cz/map_-_centred_-_aks_databasis_redmine.pdf) — map dimensions, file sizes, and format reference for CentrED server setup
 
 ## Collaborative Editing
 

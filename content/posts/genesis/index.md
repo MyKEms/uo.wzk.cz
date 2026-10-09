@@ -22,8 +22,8 @@ UO Map Compiler Utility for compiling your maps.
 
 ## Downloads
 
-- [Download](/files/manawydan/ravenal/genesis252f.rar) (6.27 MB)
-- [Changelog](/files/manawydan/ravenal/genesis_changelog.txt)
+- [Download](https://files.uo.wzk.cz/manawydan/ravenal/genesis252f.rar) (6.27 MB)
+- [Changelog](https://files.uo.wzk.cz/manawydan/ravenal/genesis_changelog.txt)
 
 ## Links
 

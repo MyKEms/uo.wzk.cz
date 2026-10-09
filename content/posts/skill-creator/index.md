@@ -16,7 +16,7 @@ SkillCreator by Sebastian Hartte builds new Ultima Online skills.mul and skills.
 
 ## Download
 
-- [SkillCreator](/files/toolbox/SkillCreator.zip) (69 KB)
+- [SkillCreator](https://files.uo.wzk.cz/toolbox/SkillCreator.zip) (69 KB)
 
 ---
 *Archived from the [UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019) (archive.org, 2019).*

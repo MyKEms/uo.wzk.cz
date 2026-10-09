@@ -20,8 +20,8 @@ Opravuje efekt 'svatozáře' kolem několika itemů v paperdollu. Instalátor ap
 
 ## Downloads
 
-- [Instalátor](/files/manawydan/radstar/opravena_grafika.exe) (167 KB)
-- [Zdroják](/files/manawydan/radstar/opravena_grafika.rar) (88 KB)
+- [Instalátor](https://files.uo.wzk.cz/manawydan/radstar/opravena_grafika.exe) (167 KB)
+- [Zdroják](https://files.uo.wzk.cz/manawydan/radstar/opravena_grafika.rar) (88 KB)
 
 ---
 

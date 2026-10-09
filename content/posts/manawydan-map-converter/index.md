@@ -25,7 +25,7 @@ Convert map from 2d client to UOKR (C# source code included).
 
 ## Downloads
 
-  * [ManawydanMapConverter.zip](</files/ManawydanMapConverter.zip>)
+  * [ManawydanMapConverter.zip](<https://files.uo.wzk.cz/ManawydanMapConverter.zip>)
 
 ## Manawydan Archive Downloads
 
@@ -35,4 +35,4 @@ Convert map from 2d client to UOKR (C# source code included).
 
 ![Manawydan screenshot](mwmapconverter-mw.jpg)
 
-  * [Download + C# source code (Manawydan)](/files/manawydan/uokr/mwmapconverter.rar) (43 KB)
+  * [Download + C# source code (Manawydan)](https://files.uo.wzk.cz/manawydan/uokr/mwmapconverter.rar) (43 KB)
