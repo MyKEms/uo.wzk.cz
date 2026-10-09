@@ -45,7 +45,7 @@ The application once connected to your client files allows a variety of options 
 
 ## Downloads
 
-  * [UOFiddler4.6.zip](</files/UOFiddler4.6.zip>)
+  * [UOFiddler4.6.zip](<https://files.uo.wzk.cz/UOFiddler4.6.zip>)
 
 ## Manawydan Archive Downloads
 
@@ -53,13 +53,13 @@ The application once connected to your client files allows a variety of options 
 
 ![Manawydan screenshot](uofiddler-mw.png)
 
-  * [UOFiddler 4.6 SVN 2133 (Manawydan)](/files/manawydan/uofiddler_svn2133.rar) (493 KB)
-  * [UOFiddler 4.5g](/files/manawydan/uofiddler45g.rar) (810 KB)
-  * [UOFiddler 4.5b](/files/manawydan/uofiddler45b.rar) (1.41 MB)
+  * [UOFiddler 4.6 SVN 2133 (Manawydan)](https://files.uo.wzk.cz/manawydan/uofiddler_svn2133.rar) (493 KB)
+  * [UOFiddler 4.5g](https://files.uo.wzk.cz/manawydan/uofiddler45g.rar) (810 KB)
+  * [UOFiddler 4.5b](https://files.uo.wzk.cz/manawydan/uofiddler45b.rar) (1.41 MB)
 
 ## Others
 
-  * [UOFiddler UOP Extractor plugin 0.1](</files/UOPPacker.zip>) – Extract UOP to MUL, Pack MUL to UOP 
+  * [UOFiddler UOP Extractor plugin 0.1](<https://files.uo.wzk.cz/UOPPacker.zip>) – Extract UOP to MUL, Pack MUL to UOP 
     * There are some who are having problems when using the RunUO’s Legacy MUL Converter to pack/unpack UOP files, so I decided to create a 3rd party GUI to help the extraction process  
 Just drop the DLL into your UOFiddler plugin folder then load it  
 The GUI is pretty self explanatory. It may contain some typos, sorry hehe  

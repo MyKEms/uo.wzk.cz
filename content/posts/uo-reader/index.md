@@ -22,7 +22,7 @@ Viewer for UO:SA Enhanced files.
 
 ## Downloads
 
-- [Download](/files/manawydan/kons/uoreader087.rar) (1.89 MB)
+- [Download](https://files.uo.wzk.cz/manawydan/kons/uoreader087.rar) (1.89 MB)
 
 ---
 

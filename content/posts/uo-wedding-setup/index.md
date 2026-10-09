@@ -16,7 +16,7 @@ UO Wedding Setup 3.1.0 is a macro tool for Ultima Online staff that types prepar
 
 ## Download
 
-- [UO Wedding Setup 3.1.0](/files/toolbox/UO-Wedding-Setup-3.1.0.zip) (2.2 MB)
+- [UO Wedding Setup 3.1.0](https://files.uo.wzk.cz/toolbox/UO-Wedding-Setup-3.1.0.zip) (2.2 MB)
 
 ---
 *Archived from the [UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019) (archive.org, 2019).*

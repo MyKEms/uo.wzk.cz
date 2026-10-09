@@ -21,7 +21,7 @@ Program edit file tiledata.mul.
 
 ## Downloads
 
-- [Download](/files/manawydan/tiledataedit.rar) (246 KB)
+- [Download](https://files.uo.wzk.cz/manawydan/tiledataedit.rar) (246 KB)
 
 ---
 

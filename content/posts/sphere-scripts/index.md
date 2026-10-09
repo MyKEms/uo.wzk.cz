@@ -15,9 +15,9 @@ Sbírka scriptů pro Sphere server.
 
 ## Downloads
 
-- [The Lost Isles shard](/files/manawydan/sphere/the_lost_isles.rar) (7.5 MB)
-- [Grim's Inspiration](/files/manawydan/sphere/grim_scripts.rar) (139 KB)
-- [Grim's Inspiration 2](/files/manawydan/sphere/grim_scripts2.rar) (353 KB)
+- [The Lost Isles shard](https://files.uo.wzk.cz/manawydan/sphere/the_lost_isles.rar) (7.5 MB)
+- [Grim's Inspiration](https://files.uo.wzk.cz/manawydan/sphere/grim_scripts.rar) (139 KB)
+- [Grim's Inspiration 2](https://files.uo.wzk.cz/manawydan/sphere/grim_scripts2.rar) (353 KB)
 
 ---
 

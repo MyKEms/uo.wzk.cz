@@ -21,8 +21,8 @@ Program to localization cliloc files.
 
 ## Downloads
 
-- [Download 2.2](/files/manawydan/uolocalization22.rar) (22 KB)
-- [Download 2.1](/files/manawydan/uolocalization.rar) (21 KB)
+- [Download 2.2](https://files.uo.wzk.cz/manawydan/uolocalization22.rar) (22 KB)
+- [Download 2.1](https://files.uo.wzk.cz/manawydan/uolocalization.rar) (21 KB)
 
 ---
 

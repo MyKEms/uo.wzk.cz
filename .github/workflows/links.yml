@@ -1,4 +1,4 @@
-name: External link report
+name: External link report + R2 downloads check
 
 on:
   schedule:
@@ -30,3 +30,8 @@ jobs:
 
       # Report only — dead third-party links are expected in an archive; see the job summary
       - run: python3 .github/scripts/check_site.py external
+
+      # Blocking: every download in downloads/manifest.tsv is served by R2 with the right size
+      # and type, removed keys 404, and old /files/ URLs still 301 to R2
+      - run: python3 .github/scripts/downloads.py verify
+      - run: python3 .github/scripts/downloads.py legacy https://uo.wzk.cz

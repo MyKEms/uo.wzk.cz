@@ -22,7 +22,7 @@ Sound files editor.
 
 ## Downloads
 
-- [Download](/files/manawydan/radstar/mw_sound_editor121.7z) (428 KB)
+- [Download](https://files.uo.wzk.cz/manawydan/radstar/mw_sound_editor121.7z) (428 KB)
 
 ---
 

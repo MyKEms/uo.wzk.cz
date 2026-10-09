@@ -19,7 +19,7 @@ UOX3 (Ultima Offline eXperiment 3) is one of the oldest UO server emulators, wri
 
 ## Downloads
 
-- [UOX3](/files/toolbox/UOX3.zip) (5.2 MB)
+- [UOX3](https://files.uo.wzk.cz/toolbox/UOX3.zip) (5.2 MB)
 
 ---
 

@@ -17,3 +17,10 @@
 # Removed downloads: explicit rules so Pages never serves a stale cached copy
 /files/toolbox/TDVPatchmaker.zip          /security/   301
 /files/toolbox/UOAM.zip                   /security/   301
+
+# Downloads moved to R2 (2026-10); old links keep working. Must stay after the
+# removed-download rules above (first match wins) — check_site.py enforces it.
+/files/*                                  https://files.uo.wzk.cz/:splat   301
+
+# Download that used to sit in a page bundle
+/tutorial-inserting-new-animations/animace_222.rar   https://files.uo.wzk.cz/manawydan/radstar/animace_222.rar   301

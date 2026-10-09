@@ -25,7 +25,7 @@ Program to generate map files from BMP images.
 
 ## Downloads
 
-  * [UOLandscaper.zip](</files/UOLandscaper.zip>) – 1.4
+  * [UOLandscaper.zip](<https://files.uo.wzk.cz/UOLandscaper.zip>) – 1.4
 
 ## Manawydan Archive Downloads
 
@@ -35,10 +35,10 @@ Program to generate map files from BMP images.
 
 ![Manawydan screenshot](uol-mw.jpg)
 
-  * [UO Landscaper 1.4 (Manawydan)](/files/manawydan/orbsydia/uol1_4.rar) (671 KB)
-  * [UO Landscaper 1.3](/files/manawydan/orbsydia/uol1_3.rar) (784 KB)
-  * [UO Landscaper 1.2](/files/manawydan/orbsydia/uol1_2.rar) (723 KB)
-  * [UO Landscaper 1.1](/files/manawydan/orbsydia/uol1_1.rar) (565 KB)
+  * [UO Landscaper 1.4 (Manawydan)](https://files.uo.wzk.cz/manawydan/orbsydia/uol1_4.rar) (671 KB)
+  * [UO Landscaper 1.3](https://files.uo.wzk.cz/manawydan/orbsydia/uol1_3.rar) (784 KB)
+  * [UO Landscaper 1.2](https://files.uo.wzk.cz/manawydan/orbsydia/uol1_2.rar) (723 KB)
+  * [UO Landscaper 1.1](https://files.uo.wzk.cz/manawydan/orbsydia/uol1_1.rar) (565 KB)
 
 ---
 

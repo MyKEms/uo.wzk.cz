@@ -21,7 +21,7 @@ Iris client programs.
 
 ## Downloads
 
-- [Download](/files/manawydan/iris_framework0_4.rar) (10 MB)
+- [Download](https://files.uo.wzk.cz/manawydan/iris_framework0_4.rar) (10 MB)
 
 ## Links
 

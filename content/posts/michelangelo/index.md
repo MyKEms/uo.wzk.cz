@@ -21,7 +21,7 @@ Program to add/delete items from verdata.mul, uop and other files.
 
 ## Downloads
 
-- [Download](/files/manawydan/michelangelo0309.rar) (66 KB)
+- [Download](https://files.uo.wzk.cz/manawydan/michelangelo0309.rar) (66 KB)
 
 ---
 

@@ -83,6 +83,8 @@ Mulpatcher ukončíme a zase spustíme. Tentokrát si načteme pouze soubory Ani
 
 V Mulpatcheru nemusíte vkládat animaci na stejnou pozici, ale můžete ji bez problému vložit na úplně jinou.
 
+Hotovou animaci hříběte z tohoto návodu si můžete stáhnout: [animace_222.rar](https://files.uo.wzk.cz/manawydan/radstar/animace_222.rar) (322 KB)
+
 ---
 
 *Archived from the [Manawydan UO tools archive](https://web.archive.org/web/2015/http://ultima.manawydan.cz/) (originally by RadstaR, 2004-2016).*

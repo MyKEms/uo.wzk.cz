@@ -21,7 +21,7 @@ Program edit file radarcol.mul.
 
 ## Downloads
 
-- [Download](/files/manawydan/radaredit.rar) (206 KB)
+- [Download](https://files.uo.wzk.cz/manawydan/radaredit.rar) (206 KB)
 
 ---
 

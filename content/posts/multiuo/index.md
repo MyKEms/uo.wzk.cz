@@ -20,4 +20,4 @@ MultiUO will make from any client a multi client.
 
 ## Downloads
 
-  * [MultiUO.zip](</files/MultiUO.zip>)
+  * [MultiUO.zip](<https://files.uo.wzk.cz/MultiUO.zip>)

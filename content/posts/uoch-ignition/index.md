@@ -16,7 +16,7 @@ UOCH Ignition is a 2002 build of UOCH by NecroPotence, an Ultima Online client p
 
 ## Downloads
 
-* [UOCH Ignition](/files/toolbox/UOCH-Ignition.zip) (39 KB)
+* [UOCH Ignition](https://files.uo.wzk.cz/toolbox/UOCH-Ignition.zip) (39 KB)
 
 ---
 *Archived from the [UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019) (archive.org, 2019).*

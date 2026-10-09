@@ -19,8 +19,8 @@ Zobrazí obsah vypakovaného souboru mapy z Facetx.uop.
 
 ## Downloads
 
-- [Download](/files/manawydan/uokr/uokr_facet_reader.rar) (212 KB)
-- [1.5 Delphi Source](/files/manawydan/uokr/uokr_facet_reader_source.rar) (12 KB)
+- [Download](https://files.uo.wzk.cz/manawydan/uokr/uokr_facet_reader.rar) (212 KB)
+- [1.5 Delphi Source](https://files.uo.wzk.cz/manawydan/uokr/uokr_facet_reader_source.rar) (12 KB)
 
 ---
 

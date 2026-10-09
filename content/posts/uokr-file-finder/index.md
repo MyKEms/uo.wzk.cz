@@ -19,7 +19,7 @@ Jednoduchý program na nalezení typu souboru z vypakovaného UOP souboru.
 
 ## Downloads
 
-- [Download](/files/manawydan/uokr/uokr_file_finder.rar) (191 KB)
+- [Download](https://files.uo.wzk.cz/manawydan/uokr/uokr_file_finder.rar) (191 KB)
 
 ---
 

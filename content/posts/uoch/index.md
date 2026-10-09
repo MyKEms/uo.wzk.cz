@@ -16,7 +16,7 @@ UOCH by NecroPotence is an Ultima Online client patcher that removes encryption 
 
 ## Downloads
 
-* [UOCH](/files/toolbox/UOCH.zip) (282 KB)
+* [UOCH](https://files.uo.wzk.cz/toolbox/UOCH.zip) (282 KB)
 
 ---
 *Archived from the [UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019) (archive.org, 2019).*

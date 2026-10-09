@@ -21,7 +21,7 @@ Editor for unifonts.
 
 ## Downloads
 
-- [Download](/files/manawydan/uofonteditor.rar) (219 KB)
+- [Download](https://files.uo.wzk.cz/manawydan/uofonteditor.rar) (219 KB)
 
 ---
 

@@ -21,7 +21,7 @@ Program export pictures from arts and gumps.
 
 ## Downloads
 
-- [Download](/files/manawydan/uoartextractor.rar) (1.56 MB)
+- [Download](https://files.uo.wzk.cz/manawydan/uoartextractor.rar) (1.56 MB)
 
 ---
 

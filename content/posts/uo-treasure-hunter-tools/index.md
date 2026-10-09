@@ -16,7 +16,7 @@ UO Treasure Hunter Tools is a CodeProject utility for Ultima Online treasure hun
 
 ## Download
 
-- [UO Treasure Hunter Tools](/files/toolbox/UO-Treasure-Hunter-Tools.zip) (1.2 MB)
+- [UO Treasure Hunter Tools](https://files.uo.wzk.cz/toolbox/UO-Treasure-Hunter-Tools.zip) (1.2 MB)
 
 ---
 *Archived from the [UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019) (archive.org, 2019).*

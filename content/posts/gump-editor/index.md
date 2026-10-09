@@ -21,7 +21,7 @@ Program add gumps to verdata.mul.
 
 ## Downloads
 
-- [Download](/files/manawydan/gumpeditor031beta.rar) (266 KB)
+- [Download](https://files.uo.wzk.cz/manawydan/gumpeditor031beta.rar) (266 KB)
 
 ---
 

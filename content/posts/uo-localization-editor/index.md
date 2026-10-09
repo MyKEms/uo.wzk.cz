@@ -23,7 +23,7 @@ Program for editing of cliloc files, programmed by Ravenal.
 
 ## Downloads
 
-- [Download](/files/manawydan/orbsydia/uole2.exe) (422 KB)
+- [Download](https://files.uo.wzk.cz/manawydan/orbsydia/uole2.exe) (422 KB)
 
 ---
 

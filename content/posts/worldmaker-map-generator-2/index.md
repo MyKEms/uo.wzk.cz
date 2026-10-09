@@ -22,9 +22,9 @@ Program generate maps and statics files from BMP pictures in UO Landscaper forma
 
 ## Downloads
 
-- [Download](/files/manawydan/punt/mapgenerator2.rar) (429 KB)
-- [Required DLL (Qt4)](/files/manawydan/punt/qt4_1_4.rar) (3.87 MB)
-- [Altitude mod](/files/manawydan/punt/mapgen2_altitude_mod.rar) (119 KB)
+- [Download](https://files.uo.wzk.cz/manawydan/punt/mapgenerator2.rar) (429 KB)
+- [Required DLL (Qt4)](https://files.uo.wzk.cz/manawydan/punt/qt4_1_4.rar) (3.87 MB)
+- [Altitude mod](https://files.uo.wzk.cz/manawydan/punt/mapgen2_altitude_mod.rar) (119 KB)
 
 ---
 

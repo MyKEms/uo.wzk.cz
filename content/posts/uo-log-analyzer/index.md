@@ -21,8 +21,8 @@ Log files analyzer.
 
 ## Downloads
 
-- [Download](/files/manawydan/uologanalyzer.rar) (5 MB)
-- [Flash Demo](/files/manawydan/uologanalyzer.swf) (1.76 MB)
+- [Download](https://files.uo.wzk.cz/manawydan/uologanalyzer.rar) (5 MB)
+- [Flash Demo](https://files.uo.wzk.cz/manawydan/uologanalyzer.swf) (1.76 MB)
 
 ---
 

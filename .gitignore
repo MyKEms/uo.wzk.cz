@@ -5,3 +5,7 @@ wp-export/
 mw-export/
 .DS_Store
 .wrangler/
+
+# Downloads live in R2 (see downloads/), never in git
+static/files/
+quarantine/

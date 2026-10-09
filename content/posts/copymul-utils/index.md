@@ -21,7 +21,7 @@ Program copy/insert data to MUL files.
 
 ## Downloads
 
-- [Download](/files/manawydan/copymuls.rar) (167 KB)
+- [Download](https://files.uo.wzk.cz/manawydan/copymuls.rar) (167 KB)
 
 ---
 

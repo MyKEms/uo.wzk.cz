@@ -16,7 +16,7 @@ ShideWin 1.1 (201 Windows) is a window management utility for Ultima Online. It 
 
 ## Downloads
 
-- [ShideWin 1.1](/files/toolbox/ShideWin-1.1.zip) (8 KB)
+- [ShideWin 1.1](https://files.uo.wzk.cz/toolbox/ShideWin-1.1.zip) (8 KB)
 
 ---
 *Archived from the [UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019) (archive.org, 2019).*

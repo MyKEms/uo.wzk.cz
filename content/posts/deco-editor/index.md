@@ -22,7 +22,7 @@ Program to edit file deco.xml. Need Java 5.0 or better to run.
 
 ## Downloads
 
-- [Download](/files/manawydan/arya/decoedit.rar) (1.25 MB)
+- [Download](https://files.uo.wzk.cz/manawydan/arya/decoedit.rar) (1.25 MB)
 
 ---
 

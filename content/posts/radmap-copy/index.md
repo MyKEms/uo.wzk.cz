@@ -27,7 +27,7 @@ Program to copy map region from one map to other.
 
 ## Downloads
 
-  * [radmapcopy2_2_0.zip](</files/radmapcopy2_2_0.zip>)
+  * [radmapcopy2_2_0.zip](<https://files.uo.wzk.cz/radmapcopy2_2_0.zip>)
 
 ## Manawydan Archive Downloads
 
@@ -37,8 +37,8 @@ Program to copy map region from one map to other.
 
 ![Manawydan screenshot](radmapcopy-mw.jpg)
 
-  * [RadMap Copy 3.0.1 (Manawydan)](/files/manawydan/radstar/radmapcopy301.rar) (1.1 MB)
-  * [RadMap Copy 2.2.0](/files/manawydan/radstar/radmapcopy2_2_0.rar) (248 KB)
-  * [Changelog (CZ)](/files/manawydan/radstar/radmapcopy_changelog.txt)
-  * [Changelog (EN)](/files/manawydan/radstar/radmapcopy_changelog_eng.txt)
-  * [2.1.0 Delphi 2006/2007 source](/files/manawydan/radstar/radmapcopy_source.rar) (18 KB)
+  * [RadMap Copy 3.0.1 (Manawydan)](https://files.uo.wzk.cz/manawydan/radstar/radmapcopy301.rar) (1.1 MB)
+  * [RadMap Copy 2.2.0](https://files.uo.wzk.cz/manawydan/radstar/radmapcopy2_2_0.rar) (248 KB)
+  * [Changelog (CZ)](https://files.uo.wzk.cz/manawydan/radstar/radmapcopy_changelog.txt)
+  * [Changelog (EN)](https://files.uo.wzk.cz/manawydan/radstar/radmapcopy_changelog_eng.txt)
+  * [2.1.0 Delphi 2006/2007 source](https://files.uo.wzk.cz/manawydan/radstar/radmapcopy_source.rar) (18 KB)

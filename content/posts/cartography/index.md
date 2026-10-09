@@ -22,8 +22,8 @@ Program export/import BMP to multimap.rle and backwards.
 
 ## Downloads
 
-- [Download](/files/manawydan/punt/cartography.rar) (1.97 MB)
-- [C source code](/files/manawydan/punt/cartography_source.rar) (7 KB)
+- [Download](https://files.uo.wzk.cz/manawydan/punt/cartography.rar) (1.97 MB)
+- [C source code](https://files.uo.wzk.cz/manawydan/punt/cartography_source.rar) (7 KB)
 
 ---
 

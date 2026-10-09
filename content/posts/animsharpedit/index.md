@@ -21,7 +21,7 @@ Program to center animations exported from mulpatcher.
 
 ## Downloads
 
-- [Download](/files/manawydan/animsharpedit.rar) (1.82 MB)
+- [Download](https://files.uo.wzk.cz/manawydan/animsharpedit.rar) (1.82 MB)
 
 ---
 

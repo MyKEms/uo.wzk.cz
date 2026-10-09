@@ -20,8 +20,8 @@ Program pro úpravu barev.
 
 ## Downloads
 
-- [Download](/files/manawydan/arya/huemanager10.rar) (194 KB)
-- [C# Source code](/files/manawydan/arya/huemanager10source.rar) (67 KB)
+- [Download](https://files.uo.wzk.cz/manawydan/arya/huemanager10.rar) (194 KB)
+- [C# Source code](https://files.uo.wzk.cz/manawydan/arya/huemanager10source.rar) (67 KB)
 
 ---
 

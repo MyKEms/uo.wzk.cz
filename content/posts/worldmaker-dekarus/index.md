@@ -22,7 +22,7 @@ Program edit MAPx.mul files.
 
 ## Downloads
 
-- [Download (with Sources)](/files/manawydan/punt/wm_dekarus11.rar) (3.71 MB)
+- [Download (with Sources)](https://files.uo.wzk.cz/manawydan/punt/wm_dekarus11.rar) (3.71 MB)
 
 ---
 

@@ -21,7 +21,7 @@ Program to building structures.
 
 ## Downloads
 
-- [Download](/files/manawydan/uohe205.rar) (282 KB)
+- [Download](https://files.uo.wzk.cz/manawydan/uohe205.rar) (282 KB)
 
 ---
 

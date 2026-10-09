@@ -15,7 +15,7 @@ SphereScripter is a script editing and management tool for Sphere server develop
 
 ## Download
 
-- [SphereScripter](/files/toolbox/SphereScripter.zip) (41 KB)
+- [SphereScripter](https://files.uo.wzk.cz/toolbox/SphereScripter.zip) (41 KB)
 
 ---
 

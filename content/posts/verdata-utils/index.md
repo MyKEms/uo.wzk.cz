@@ -21,7 +21,7 @@ Programs to patch and repair verdata.mul file.
 
 ## Downloads
 
-- [Download](/files/manawydan/verdata.rar) (105 KB)
+- [Download](https://files.uo.wzk.cz/manawydan/verdata.rar) (105 KB)
 
 ---
 

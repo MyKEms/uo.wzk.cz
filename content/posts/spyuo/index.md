@@ -16,7 +16,7 @@ SpyUO is a network packet analyzer for the Ultima Online protocol. It captures a
 
 ## Download
 
-- [SpyUO](/files/toolbox/SpyUO.zip) (611 KB)
+- [SpyUO](https://files.uo.wzk.cz/toolbox/SpyUO.zip) (611 KB)
 
 ---
 *Archived from the [UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019) (archive.org, 2019).*

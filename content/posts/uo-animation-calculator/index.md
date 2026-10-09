@@ -21,7 +21,7 @@ Program calculate first and last animation position.
 
 ## Downloads
 
-- [Download](/files/manawydan/uoanimcalc.rar) (15 KB)
+- [Download](https://files.uo.wzk.cz/manawydan/uoanimcalc.rar) (15 KB)
 
 ---
 

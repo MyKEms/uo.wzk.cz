@@ -20,7 +20,7 @@ Povrchy map (bez výšek) pro vygenerování v UO Landscaperu 1.1.
 
 ## Downloads
 
-- [Download](/files/manawydan/orbsydia/uo_maps_uol11.rar) (1 MB)
+- [Download](https://files.uo.wzk.cz/manawydan/orbsydia/uo_maps_uol11.rar) (1 MB)
 
 ---
 

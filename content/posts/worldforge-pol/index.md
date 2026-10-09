@@ -21,7 +21,7 @@ Program edit MAPx.mul files with POL support.
 
 ## Downloads
 
-- [Download + Source Code](/files/manawydan/worldforgepol.rar) (578 KB)
+- [Download + Source Code](https://files.uo.wzk.cz/manawydan/worldforgepol.rar) (578 KB)
 
 ---
 

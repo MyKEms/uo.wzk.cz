@@ -25,7 +25,7 @@ Program calculates first and last animation frame number.
 
 ## Downloads
 
-  * [RadAnimCalculator.zip](</files/RadAnimCalculator.zip>)
+  * [RadAnimCalculator.zip](<https://files.uo.wzk.cz/RadAnimCalculator.zip>)
 
 ## Manawydan Archive Downloads
 
@@ -33,4 +33,4 @@ Program calculates first and last animation frame number.
 
 ![Manawydan screenshot](radanimcalc-mw.jpg)
 
-  * [RadAnim Calculator 1.0.1 (Manawydan)](/files/manawydan/radstar/radanimcalculator1.0.1.exe) (263 KB)
+  * [RadAnim Calculator 1.0.1 (Manawydan)](https://files.uo.wzk.cz/manawydan/radstar/radanimcalculator1.0.1.exe) (263 KB)

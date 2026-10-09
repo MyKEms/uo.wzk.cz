@@ -16,7 +16,7 @@ UOMON 1.16 is a public-domain login server monitor that polls the official Ultim
 
 ## Downloads
 
-* [UOMON](/files/toolbox/UOMON-LoginServerMonitor.zip) (24 KB)
+* [UOMON](https://files.uo.wzk.cz/toolbox/UOMON-LoginServerMonitor.zip) (24 KB)
 
 ---
 *Archived from the [UO FreeShard Community Tool Box](https://archive.org/details/UOFreeShardCommunityToolBoxLastUpdate03.31.2019) (archive.org, 2019).*

@@ -58,7 +58,7 @@ Teď nám již nic nebrání vygenerovat upravené soubory. Klikněte tedy v hla
 
 ## Related download
 
-- [Pridanie itemu – zbraň](/files/manawydan/Pridanie_item_zbran.pdf) — adding a new weapon item (PDF, Slovak)
+- [Pridanie itemu – zbraň](https://files.uo.wzk.cz/manawydan/Pridanie_item_zbran.pdf) — adding a new weapon item (PDF, Slovak)
 
 ---
 
